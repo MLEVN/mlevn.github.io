@@ -2,7 +2,7 @@
 
 ### Machine Learning Yerevan
 
-[r/MLEVN](https://reddit.com/r/MLEVN) 
+[r/MLEVN](https://reddit.com/r/MLEVN) [open]
 
 [mlevn@groups.google.com](https://groups.google.com/forum/#!forum/mlevn) [request invite]
 
