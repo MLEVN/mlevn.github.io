@@ -1,6 +1,6 @@
 # MLEVN
 
-Machine Learning Yerevan
+### Machine Learning Yerevan
 
 [r/MLEVN](https://reddit.com/r/MLEVN) 
 
@@ -8,3 +8,6 @@ Machine Learning Yerevan
 
 Telegram [private]
 
+---
+
+[edit](https://github.com/mlevn/mlevn.github.io)
