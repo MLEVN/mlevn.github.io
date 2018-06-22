@@ -31,6 +31,9 @@ http://fastfoundation.net/nsf-workshop/
 AUA Data Science Workshop  
 https://dsw2017.aua.am/
 
+Armenian Wolfram Technology Conference  
+https://www.wolfram.com/events/technology-conference-am/2017/
+
 ---
 
 [edit](https://github.com/mlevn/mlevn.github.io)
