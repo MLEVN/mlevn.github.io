@@ -25,7 +25,7 @@ weekly [machine learning reading group](https://groups.google.com/forum/#!topic/
 
 #### Events
 
-NSF-Fast Workshop  
+US National Science Foundation Workshop  
 http://fastfoundation.net/nsf-workshop/
 
 AUA Data Science Workshop  
