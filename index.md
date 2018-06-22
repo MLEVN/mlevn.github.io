@@ -1,21 +1,31 @@
-# MLEVN
 
-**Machine Learning Yerevan**
 
-[r/MLEVN](https://reddit.com/r/MLEVN) [open]
+#### Education
 
-[mlevn@groups.google.com](https://groups.google.com/forum/#!forum/mlevn) [request invite]
+Russian-Armenian University - Machine Learning Masters  
 
-Telegram [private]
+American University of Armenia - Data Science  
+http://cse.aua.am/ds/
 
-### Machine learning in Armenia
+Yerevan State University with ISTC - Applied Statistics and Data Science  
+http://math.ysu.am/asds/ / http://istc.am/en/applied-statistics-and-data-science-masters-degree-program/
 
-weekly [machine learning reading group](https://groups.google.com/forum/#!topic/ml-reading-group-yerevan/)
+SmartGate ML  
+https://www.smartgate.ml/
+
+#### Research
 
 [YerevaNN research lab](http://yerevann.com/)
 
-Russian-Armenian University - Machine Learning Masters  
-American University of Armenia - Data Science  
+weekly [machine learning reading group](https://groups.google.com/forum/#!topic/ml-reading-group-yerevan/)
+
+#### Events
+
+NSF-Fast Workshop  
+http://fastfoundation.net/nsf-workshop/
+
+AUA Data Science Workshop  
+https://dsw2017.aua.am/
 
 ---
 
