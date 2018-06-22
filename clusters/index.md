@@ -2,16 +2,20 @@
 
 #### Education
 
-Russian-Armenian University - Machine Learning Masters  
-
 American University of Armenia - Data Science  
 http://cse.aua.am/ds/
+
+Russian-Armenian University - Machine Learning Masters   
+http://international.rau.am/eng/25/masters-in-machine-learning
 
 Yerevan State University with ISTC - Applied Statistics and Data Science  
 http://math.ysu.am/asds/ / http://istc.am/en/applied-statistics-and-data-science-masters-degree-program/
 
 SmartGate ML  
 https://www.smartgate.ml/
+
+YerevaNN - A Guide to Deep Learning
+http://yerevann.com/a-guide-to-deep-learning/
 
 #### Research
 
