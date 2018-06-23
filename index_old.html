@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ML EVN - Yerevan machine learning community</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Machine Learning Community from Yerevan, Armenia">
+    <meta property="og:title" content="ML EVN - Yerevan Machine Learning Community" />
+    <meta property="og:url" content="https://mlevn.github.io" />
+    <meta property="og:image" content="https://mlevn.github.io/img/evn.jpg" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <style>
+      body, html {
+        height: 100%;
+        margin: 0;
+        font-family: sans-serif;
+        font-weight: 300;
+        color: #777;
+      }
+
+      .bg {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        padding: 0px;
+        background-color: black;
+      }
+
+      .bgimg {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url("img/evn.jpg");
+      }
+
+      .bw {
+        -webkit-filter: grayscale(100%);
+        transition: 1.0s;
+      }
+
+      .colorize {
+        -webkit-filter: grayscale(0%);
+        transition: 2.0s;
+      }
+
+      .header {
+        opacity: 1.0;
+        position: absolute;
+        width: 100%;
+        text-align: center;
+        color: #000;
+        top: 0%;
+        display: flex;
+        flex-direction: row;
+        background-color: rgba(0, 0, 0, .6);
+      }
+
+      .header_main {
+        position: relative;
+        width: 35%;
+        padding: 0 8px;
+      }
+
+      .header_links {
+        padding: 0 8px;
+        position: relative;
+        width: 65%;
+      }
+
+      .title {
+        color: #fff;
+        padding: 8px;
+        font-size: 80%;
+      }
+
+      .big {
+        font-size: 300%;
+        font-weight: 600;
+      }
+
+      .medium {
+        font-size: 200%;
+        font-weight: 300;
+      }
+
+      .links {
+        font-size: 150%;
+        padding-top: 5%;
+        color: #212121;
+        text-decoration: none;
+        font-family: "Courier New", Courier, monospace;
+      }
+
+      .footer {
+        position: absolute;
+        bottom: 0%;
+        background-color: white;
+        opacity: 0.6;
+        width: 100%;
+        text-align: center;
+      }
+
+      .footer_txt {
+        padding: 5%;
+      }
+
+      @media only screen
+      and (min-device-width: 320px)
+      and (max-device-width: 480px)
+      and (-webkit-min-device-pixel-ratio: 2)
+      and (orientation: portrait) {
+        .footer_txt {
+          display: grid;
+        }
+
+        .big {
+          font-size: 200%;
+        }
+
+        .medium {
+          font-size: 150%;
+        }
+      }
+
+    </style>
+  </head>
+  <body>
+
+      <div class="bg" id="bg">
+        <div class="bg bgimg bw" id="bgimg">
+        </div>
+        <div class="header title">
+          <div class="header_main">
+            <h1 class="big">ML EVN</h1>
+            <div class="">
+              <h1 class="medium">Yerevan machine learning community</h1>
+            </div>
+          </div>
+          <div class="header_links">
+            
+          </div>
+        </div>
+
+      </div>
+
+      <div class="footer">
+
+        <div class="footer_txt">
+          <a class="links" target="_blank" href="https://www.reddit.com/r/MLEVN/">
+            <i class="fab fa-reddit"></i>
+            reddit
+          </a>
+          <a class="links" target="_blank" href="https://groups.google.com/forum/#!forum/mlevn">
+            <i class="fas fa-envelope"></i>
+            groups
+          </a>
+          <a class="links" target="_blank" href="https://twitter.com/ml_evn">
+            <i class="fab fa-twitter"></i>
+            twitter
+          </a>
+          <a class="links" target="_blank" href="https://www.facebook.com/MLEVN.org/">
+            <i class="fab fa-facebook"></i>
+            facebook
+          </a>
+          <a class="links">
+            <i class="fab fa-telegram"></i>
+            telegram
+          </a>
+          <a class="links" target="_blank" href="https://github.com/mlevn">
+            <i class="fab fa-github"></i>
+            github
+          </a>
+        </div>
+      </div>
+
+      <script>
+        setTimeout(function () { // fade in
+          const bgimg = document.getElementById('bgimg');
+          bgimg.className = bgimg.className.replace(' bw', ' colorize');
+        }, 1000);
+      </script>
+
+  </body>
+</html>
