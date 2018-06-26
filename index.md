@@ -24,7 +24,7 @@ YerevaNN - A Guide to Deep Learning
 ## Research
 
 YerevaNN research lab  
-[yerevann.com/a-guide-to-deep-learning](http://yerevann.com/a-guide-to-deep-learning/)
+[yerevann.com](http://yerevann.com/)
 
 Yerevan machine learning reading group  
 [groups.google.com/.../ml-reading-group-yerevan/](https://groups.google.com/forum/#!topic/ml-reading-group-yerevan/)
