@@ -26,8 +26,12 @@
 
               <a class="button" href="/join/">Join ML EVN</a>
               
-              <span id="signed_up"></span>
-              <span id="online"></span>
+              <p>
+                <span id="signed_up"></span>
+              </p>
+              <p>
+                <span id="online"></span>
+              </p>
             </div>
           </div>
           
@@ -77,9 +81,14 @@
 
         const signed_up = Math.floor(diff_h * 1);
         const online = Math.floor(9 + (new Date().getHours() / 2) + (new Date().getMinutes() / 6));
-        
-        document.getElementById('signed_up').innerText = signed_up + ' signed up';
-        document.getElementById('online').innerText = online + ' online now';
+
+        var count = 0;
+        function updateSignup() {
+          document.getElementById('signed_up').innerText = count + ' signed up';
+          if (count < signed_up) { setTimeout(updateSignup, 100); }
+          count += 1;
+        }  
+        setTimeout(updateSignup, 1000);
 
       </script>
 
