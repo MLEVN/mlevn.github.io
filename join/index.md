@@ -5,9 +5,11 @@
 
 Our place for sharing and discussion is Reddit, like much of the machine learning community worldwide.
 
-[reddit.com/r/MLEVN/](https://www.reddit.com/r/MLEVN/) <sub><sup>27 users currently online</sup></sub>
+[reddit.com/r/MLEVN/](https://www.reddit.com/r/MLEVN/)
 
 If you are not approved quickly, ping reddit@mlevn.org with your Reddit username.
+
+
 
 ## <i class="fab fa-telegram"></i> chat 
 Our place for syncronous communication is a private Telegram group.  In r/MLEVN you will get a link to the group.  
