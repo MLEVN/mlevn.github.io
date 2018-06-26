@@ -107,7 +107,6 @@ a {
 
 .footer_container > a {
   margin: 0.5em;
-  color: lightgrey;
 }
 
 .links_container {
@@ -116,7 +115,13 @@ a {
   font-family: "Courier New", Courier, monospace;
 }
 
+.links_container > a {
+  color: lightgrey;
+  padding: 0.5em;
+}
+
 .partners_container > a {
+  color: lightgrey;
   padding: 1em;
 }
 
