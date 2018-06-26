@@ -111,8 +111,13 @@ a {
   font-family: "Courier New", Courier, monospace;
 }
 
-.links_container > a {
-  margin: 6px;
+.footer_container > a {
+  margin: 0.5em;
+  color: lightgrey;
+}
+
+.partners_container > a {
+  padding: 1em;
 }
 
 .links_vertical {
