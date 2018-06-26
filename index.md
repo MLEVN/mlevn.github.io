@@ -2,24 +2,24 @@
 layout: split
 ---
 
-<h2>Courses</h2>
-<div class="links_container links_vertical">
-  <a class="links" target="_blank" href="http://cse.aua.am/ds/">
-    American University of Armenia - Data Science  
-  </a>
-  <a class="links" target="_blank" href="http://international.rau.am/eng/25/masters-in-machine-learning">
-    Russian-Armenian University - Machine Learning Masters 
-  </a>
-  <a class="links" target="_blank" href="http://math.ysu.am/asds/ / http://istc.am/en/applied-statistics-and-data-science-masters-degree-program/">
-    Yerevan State University with ISTC - Applied Statistics and Data Science 
-  </a>
-  <a class="links" target="_blank" href="https://www.smartgate.ml/">
-    SmartGate ML
-  </a>
-  <a class="links" target="_blank" href="http://yerevann.com/">
-    YerevaNN - A Guide to Deep Learning
-  </a>
-</div>
+## Courses
+
+American University of Armenia - Data Science  
+[cse.aua.am/ds](http://cse.aua.am/ds/)
+
+Russian-Armenian University - Machine Learning Masters  
+[rau.am/.../masters-in-machine-learning](http://international.rau.am/eng/25/masters-in-machine-learning)
+
+Yerevan State University with ISTC - Applied Statistics and Data Science  
+[math.ysu.am/asds](math.ysu.am/asds)  
+[istc.am/en/applied-statistics-and-data-science-masters-degree-program](http://istc.am/en/applied-statistics-and-data-science-masters-degree-program/)
+
+SmartGate ML  
+[smartgate.ml](https://www.smartgate.ml/)
+
+YerevaNN - A Guide to Deep Learning  
+yerevann.com/a-guide-to-deep-learning](http://yerevann.com/a-guide-to-deep-learning/)
+
 
 <h2>Research</h2>
 <div class="links_container links_vertical">
