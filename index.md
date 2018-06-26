@@ -2,21 +2,6 @@
 layout: split
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Proud! Armenian AI/ML company on top of <a href="https://twitter.com/ProductHunt?ref_src=twsrc%5Etfw">@ProductHunt</a>! 🇦🇲🇦🇲🇦🇲<a href="https://t.co/hksIgchym5">https://t.co/hksIgchym5</a></p>&mdash; Alexis Ohanian Sr. 🚀 (@alexisohanian) <a href="https://twitter.com/alexisohanian/status/1011317497147084800?ref_src=twsrc%5Etfw">June 25, 2018</a></blockquote>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Worried your fields might be suffering ill effects of the stormy past couple weeks? Learn how you can spot issues with AgMRI! <a href="https://t.co/RuATPMt19G">https://t.co/RuATPMt19G</a> <a href="https://t.co/MTx9W6aIam">pic.twitter.com/MTx9W6aIam</a></p>&mdash; IntelinAir (@IntelinAir) <a href="https://twitter.com/IntelinAir/status/1011339913063817219?ref_src=twsrc%5Etfw">June 25, 2018</a></blockquote>
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-Machine Learning Reading Group Yerevan  
-> [Meeting #31: Deep contextualized word representations (ELMo)
-> Hi everyone,
-> This week we will discuss another recent paper on transfer learning between NLP tasks. This work is done in Allen Institute for Artificial Intelligence and University of Washington.](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan)
-
-
-
-
 ## Courses
 
 American University of Armenia - Data Science  
