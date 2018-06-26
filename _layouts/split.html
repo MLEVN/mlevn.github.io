@@ -79,8 +79,8 @@
         const diff_ms = new Date() - start;
         const diff_h = diff_ms / (1000 * 60 * 60);
 
-        const signed_up = Math.floor(diff_h * 1);
-        const online = Math.floor(9 + (new Date().getHours() / 2) + (new Date().getMinutes() / 6));
+        const signed_up = Math.floor(diff_h);
+        const online = Math.floor(7 + (new Date().getHours() / 2) + (new Date().getMinutes() / 6));
 
         var count = 0;
         function updateSignup() {
