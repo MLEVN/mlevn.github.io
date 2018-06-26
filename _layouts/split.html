@@ -78,8 +78,8 @@
         const signed_up = Math.floor(diff_h * 1);
         const online = Math.floor(9 + (new Date().getHours() / 2) + (new Date().getMinutes() / 6));
         
-        document.getElementById('signed_up').setInnerText(signed_up + ' signed up');
-        document.getElementById('online').setInnerText(online + ' online now');
+        document.getElementById('signed_up').innerText = signed_up + ' signed up';
+        document.getElementById('online').innerText = online + ' online now';
 
       </script>
 
