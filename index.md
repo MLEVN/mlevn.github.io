@@ -16,9 +16,10 @@ Machine Learning Reading Group Yerevan
 
 [AUA Data Science, RAU Machine Learning Masters, YSU Applied Statistics and Data Science](/universities/)
 
+
 ## Courses
 
-[SmartGate ML, ISTC Machine Learning for Applied Solutions, ACA Machine Learning](https://www.smartgate.ml/)(/courses/)
+[SmartGate ML, ISTC Machine Learning for Applied Solutions, ACA Machine Learning](/courses/)
 
 
 ## Resources
@@ -30,24 +31,13 @@ Machine Learning Reading Group Yerevan
 
 [Armenian Data Science, Yerevan R User group, Natural Language Processing in Armenia](/groups/)
 
+
 ## Research
 
-YerevaNN research lab  
-[yerevann.com](http://yerevann.com/)
-
-Machine Learning Reading Group Yerevan
-[groups.google.com/.../ml-reading-group-yerevan/](https://groups.google.com/forum/#!topic/ml-reading-group-yerevan/)
+[YerevaNN research lab, Machine Learning Reading Group Yerevan](/research/)
 
 
 ## Events
 
-US National Science Foundation Workshop  
-[fastfoundation.net/nsf-workshop](http://fastfoundation.net/nsf-workshop/)
-
-AUA Data Science Workshop  
-[dsw2017.aua.am](https://dsw2017.aua.am/)
-
-Armenian Wolfram Technology Conference  
-[wolfram.com/events/technology-conference-am/2017](https://www.wolfram.com/events/technology-conference-am/2017/)
-
+[US National Science Foundation Workshop, AUA Data Science Workshop, Wolfram Technology Conference](/events/)
 
