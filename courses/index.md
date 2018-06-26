@@ -10,7 +10,7 @@ See also: [Universities](/universities/)
 
 ### ISTC
 #### Machine Learning for Applied Solutions  
-[http://education.istc.am/Coding/?p=1545](http://education.istc.am/Coding/?p=1545)
+[education.istc.am/Coding/?p=1545](http://education.istc.am/Coding/?p=1545)
 
 ### SmartGate ML
 [smartgate.ml](https://www.smartgate.ml/)
