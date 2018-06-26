@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-  color: lightgrey;
+  color: grey;
   text-decoration: none;
 }
 
@@ -118,6 +118,10 @@ a {
 
 .partners_container > a {
   padding: 1em;
+}
+
+.partners_container > img {
+  opacity: 0.5;
 }
 
 .links_vertical {
