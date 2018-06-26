@@ -6,6 +6,6 @@
 ### RAU NLP
 Russian-Armenian University  
 Machine Learning Masters  
-Natural Language Processing course
+Natural Language Processing course  
 [rau-nlp.github.io](https://rau-nlp.github.io/)
 
