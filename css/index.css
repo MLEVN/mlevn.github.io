@@ -120,7 +120,7 @@ a {
   padding: 1em;
 }
 
-.partners_container > img {
+.partners_container > a > img {
   opacity: 0.5;
 }
 
