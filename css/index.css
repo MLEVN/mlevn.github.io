@@ -83,6 +83,10 @@ a {
   text-align: center;
 }
 
+.cta_container > p {
+  padding: 1em;
+}
+
 .content_container {
   padding: 24px;
 }
@@ -103,6 +107,7 @@ a {
   color: white;
   user-select: none;
   font-weight: 500;
+  white-space: nowrap;
 }
 
 .footer_container > a {
