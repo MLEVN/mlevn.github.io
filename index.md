@@ -24,7 +24,7 @@ Machine Learning Reading Group Yerevan
 
 ## Resources
 
-[YerevaNN - A Guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/)
+[YerevaNN - A Guide to Deep Learning](/resources/)
 
 
 ## Groups
