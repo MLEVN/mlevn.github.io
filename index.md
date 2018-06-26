@@ -14,27 +14,32 @@ Machine Learning Reading Group Yerevan
 
 ## Universities
 
-[AUA Data Science, RAU Machine Learning Masters, YSU Applied Statistics and Data Science](/universities/)
+[AUA Data Science, RAU Machine Learning Masters, YSU Applied Statistics and Data Science, ...](/universities/)
 
 
 ## Courses
 
-[SmartGate ML, ISTC Machine Learning for Applied Solutions, ACA Machine Learning](/courses/)
+[SmartGate ML, ISTC Machine Learning for Applied Solutions, ACA Machine Learning, ...](/courses/)
 
 
 ## Resources
 
-[YerevaNN - A Guide to Deep Learning](/resources/)
+[YerevaNN - A Guide to Deep Learning, RAU NLP, ...](/resources/)
 
 
 ## Groups
 
-[Armenian Data Science, Yerevan R User group, Natural Language Processing in Armenia](/groups/)
+[Armenian Data Science, Yerevan R User group, Natural Language Processing in Armenia, ...](/groups/)
+
+
+## Companies
+
+[Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Datamotus, ...](/companies/)
 
 
 ## Research
 
-[YerevaNN research lab, Machine Learning Reading Group Yerevan](/research/)
+[YerevaNN research lab, Machine Learning Reading Group Yerevan, ...](/research/)
 
 
 ## Events
