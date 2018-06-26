@@ -2,7 +2,7 @@
 layout: split
 ---
 
-## Courses
+## Learning
 
 American University of Armenia - Data Science  
 [cse.aua.am/ds](https://cse.aua.am/ds/)
@@ -41,8 +41,4 @@ AUA Data Science Workshop
 Armenian Wolfram Technology Conference  
 [wolfram.com/events/technology-conference-am/2017](https://www.wolfram.com/events/technology-conference-am/2017/)
 
-
-## Partners
-
-Your org here!
 
