@@ -84,7 +84,9 @@ a {
 }
 
 .cta_container > p {
-  padding: 1em;
+  padding: 2em;
+  font-size: smaller;
+  color: white;
 }
 
 .content_container {
