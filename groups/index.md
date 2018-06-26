@@ -14,4 +14,4 @@ weekly meeting for reading papers
 [groups.google.com/.../ml-reading-group-yerevan](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan)
 
 ### Natural Language Processing in Armenia
-(facebook.com/groups/NLP.Armenia)[https://www.facebook.com/groups/NLP.Armenia/]
+[facebook.com/groups/NLP.Armenia](https://www.facebook.com/groups/NLP.Armenia/)
