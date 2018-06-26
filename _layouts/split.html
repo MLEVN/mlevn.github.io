@@ -82,11 +82,23 @@
         const signed_up = Math.floor(diff_h);
         const online = Math.floor(7 + (new Date().getHours() / 2) + (new Date().getMinutes() / 6));
 
-        var count = 0;
+        var i = 0;
+        function updateOnline() {
+          document.getElementById('online').innerText = i + ' online';
+          if (i < online) {
+            setTimeout(updateOnline, 25);
+          }
+          i += 1;
+        }  
+        var j = 0;
         function updateSignup() {
-          document.getElementById('signed_up').innerText = count + ' signed up';
-          if (count < signed_up) { setTimeout(updateSignup, 100); }
-          count += 1;
+          document.getElementById('signed_up').innerText = j + ' signed up';
+          if (j < signed_up) {
+            setTimeout(updateSignup, 50);
+          } else {
+             updateOnline();
+          }
+          j += 1;
         }  
         setTimeout(updateSignup, 1000);
 
