@@ -27,7 +27,7 @@ YerevaNN research lab
 [yerevann.com/a-guide-to-deep-learning](http://yerevann.com/a-guide-to-deep-learning/)
 
 Yerevan machine learning reading group
-[groups.google.com/forum/#ml-reading-group-yerevan/](https://groups.google.com/forum/#!topic/ml-reading-group-yerevan/)
+[groups.google.com/.../ml-reading-group-yerevan/](https://groups.google.com/forum/#!topic/ml-reading-group-yerevan/)
 
 
 ## Events
@@ -40,6 +40,7 @@ AUA Data Science Workshop
 
 Armenian Wolfram Technology Conference  
 [wolfram.com/events/technology-conference-am/2017](https://www.wolfram.com/events/technology-conference-am/2017/)
+
 
 ## Partners
 
