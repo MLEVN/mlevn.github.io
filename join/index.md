@@ -1,22 +1,15 @@
 # Join ML EVN
 
-r/MLEVN
 
+## <i class="fab fa-reddit"></i> sharing and discussion
 
-<div>
-  
-  <a target="_blank" href="https://www.reddit.com/r/MLEVN/">
-    <i class="fab fa-reddit"></i>
-    reddit
-  </a>
-  
-  <a target="_blank" href="https://groups.google.com/forum/#!forum/mlevn">
-    <i class="fas fa-envelope"></i>
-    groups
-  </a>
-  
-  <a>
-    <i class="fab fa-telegram"></i>
-    telegram
-  </a>
-</div>
+Our place for sharing and discussion is Reddit, like much of the machine learning community worldwide.
+
+[reddit.com/r/MLEVN/](https://www.reddit.com/r/MLEVN/) <sub><sup>27 users currently only</sup></sub>
+
+If you are not approved quickly, ping reddit@mlevn.org with your Reddit username.
+
+## <i class="fab fa-telegram"></i> chat 
+Our place for syncronous communication is a private Telegram group.  In r/MLEVN you will get a link to the group.  
+
+If you want access without joining the subreddit, ping telegram@mlevn.org with your Telegram username or number.
