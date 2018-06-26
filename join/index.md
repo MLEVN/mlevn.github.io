@@ -1,20 +1,22 @@
----
-title: Join ML EVN
----
+# Join ML EVN
 
-## Join ML EVN
+r/MLEVN
 
-<div class="links_container">
-  <a class="links">
-    <i class="fab fa-telegram"></i>
-    telegram
-  </a>
-  <a class="links" target="_blank" href="https://www.reddit.com/r/MLEVN/">
+
+<div>
+  
+  <a target="_blank" href="https://www.reddit.com/r/MLEVN/">
     <i class="fab fa-reddit"></i>
     reddit
   </a>
-  <a class="links" target="_blank" href="https://groups.google.com/forum/#!forum/mlevn">
+  
+  <a target="_blank" href="https://groups.google.com/forum/#!forum/mlevn">
     <i class="fas fa-envelope"></i>
     groups
+  </a>
+  
+  <a>
+    <i class="fab fa-telegram"></i>
+    telegram
   </a>
 </div>
