@@ -11,6 +11,11 @@ h1, h2, h3, h4, h5 {
   font-weight: 300; 
 }
 
+a {
+  color: lightgrey;
+  text-decoration: none;
+}
+
 .bg {
   position: relative;
   width: 100%;
@@ -108,8 +113,6 @@ h1, h2, h3, h4, h5 {
 
 .links_container > a {
   margin: 6px;
-  color: lightgrey;
-  text-decoration: none;
 }
 
 .links_vertical {
