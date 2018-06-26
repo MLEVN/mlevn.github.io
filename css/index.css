@@ -68,14 +68,6 @@ a {
   text-align: center;
 }
 
-.main_title > h1 {
-  font-size: 300%;
-}
-
-.main_title > h2 {
-  font-size: 200%;
-}
-
 .cta_container {
   padding: 5%;
   vertical-align: middle;
