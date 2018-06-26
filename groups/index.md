@@ -1,11 +1,12 @@
 # Groups
 
+Most of groups have a focus on a specific application domain or technology, and host regular meetups.
+
 ### Armenian Data Science  
 online group  
 [facebook.com/groups/732676026823922/](https://www.facebook.com/groups/732676026823922/)
 
 ### Yerevan R users group  
-monthly meetup  
 [facebook.com/groups/RUGYerevan/](https://www.facebook.com/groups/RUGYerevan/)
 
 ### Machine Learning Reading Group Yerevan
