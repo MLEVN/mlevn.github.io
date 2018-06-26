@@ -1,3 +1,5 @@
+# Universities
+
 ### YSU-ISTC ASDS
 Yerevan State University and ISTC
 Masters in Applied Statistics and Data Science   
