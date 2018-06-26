@@ -5,7 +5,7 @@
 
 Our place for sharing and discussion is Reddit, like much of the machine learning community worldwide.
 
-[reddit.com/r/MLEVN/](https://www.reddit.com/r/MLEVN/) <sub><sup>27 users currently only</sup></sub>
+[reddit.com/r/MLEVN/](https://www.reddit.com/r/MLEVN/) <sub><sup>27 users currently online</sup></sub>
 
 If you are not approved quickly, ping reddit@mlevn.org with your Reddit username.
 
