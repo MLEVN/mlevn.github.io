@@ -12,24 +12,23 @@ Machine Learning Reading Group Yerevan
 <sub><sup>07:08 - 22 June</sup></sub>
 
 
-## Learning
+## Universities
 
-American University of Armenia - Data Science  
-[cse.aua.am/ds](https://cse.aua.am/ds/)
+[AUA Data Science, RAU Machine Learning Masters, YSU Applied Statistics and Data Science](/universities/)
 
-Russian-Armenian University - Machine Learning Masters  
-[rau.am/.../masters-in-machine-learning](https://international.rau.am/eng/25/masters-in-machine-learning)
+## Courses
 
-Yerevan State University with ISTC - Applied Statistics and Data Science  
-[math.ysu.am/asds](https://math.ysu.am/asds)  
-[istc.am/en/applied-statistics-and-data-science-masters-degree-program](https://istc.am/en/applied-statistics-and-data-science-masters-degree-program/)
+[SmartGate ML, ISTC Machine Learning for Applied Solutions, ACA Machine Learning](https://www.smartgate.ml/)(/courses/)
 
-SmartGate ML  
-[smartgate.ml](https://www.smartgate.ml/)
 
-YerevaNN - A Guide to Deep Learning  
-[yerevann.com/a-guide-to-deep-learning](http://yerevann.com/a-guide-to-deep-learning/)
+## Resources
 
+[YerevaNN - A Guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/)
+
+
+## Groups
+
+[Armenian Data Science, Yerevan R User group, Natural Language Processing in Armenia](/groups/)
 
 ## Research
 
