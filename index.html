@@ -14,13 +14,13 @@
         margin: 0;
         font-family: sans-serif;
         font-weight: 300;
-        color: #777;
+        color: #444;
       }
 
       .bg {
         position: relative;
         width: 100%;
-        min-height: 100%;
+        height: 100%;
         padding: 0px;
         background-color: black;
       }
@@ -29,7 +29,7 @@
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
-        
+        background-image: url("img/evn.jpg");
       }
 
       .bw {
@@ -53,12 +53,12 @@
       }
 
       .first_half {
-        background-color: rgba(76,175,80, .6);
+        background-color: rgba(236, 214, 131, 0.8);
         width: 50%;
       }
 
       .second_half {
-        background-color: rgba(191, 95, 95, 0.7);
+        background-color: rgba(222,222,222, .9);
         width: 50%;
         overflow-y: scroll;
       }
@@ -66,8 +66,16 @@
       .main_title {
         padding: 30% 0;
         vertical-align: middle;
-        color: white;
+        color: #2b4b79;
         text-align: center;
+      }
+
+      .main_title > h1 {
+        font-size: 300%;
+      }
+
+      .main_title > h2 {
+        font-size: 200%;
       }
 
       .content_container {
@@ -81,7 +89,7 @@
 
       .links_container > a {
         margin: 6px;
-        color: #212121;
+        color: #444;
         text-decoration: none;
       }
 
@@ -94,6 +102,11 @@
       and (max-device-width: 480px)
       and (-webkit-min-device-pixel-ratio: 2)
       and (orientation: portrait) {
+        .bg {
+          height: auto;
+        }
+
+
         .main_container {
           flex-direction: column;
           min-height: 100%;
@@ -102,7 +115,7 @@
 
         .first_half {
           width: 100%;
-          min-height: calc(100vh - 100px);
+          min-height: 80vh;
         }
 
         .second_half {
@@ -213,14 +226,11 @@
               </div>
               <h2>Moderators</h2>
               <div class="links_container links_vertical">
-                <a class="links" target="_blank" href="http://fastfoundation.net/nsf-workshop/">
-                  US National Science Foundation Workshop
+                <a class="links" target="_blank" href="https://twitter.com/bittlingmayer">
+                  Adam M Bittlingmayer
                 </a>
-                <a class="links" target="_blank" href="https://dsw2017.aua.am/">
-                  AUA Data Science Workshop
-                </a>
-                <a class="links" target="_blank" href="https://www.wolfram.com/events/technology-conference-am/2017/">
-                  Armenian Wolfram Technology Conference
+                <a class="links" target="_blank" href="https://twitter.com/gevorg_s">
+                  Gevorg Soghomonyan
                 </a>
               </div>
             </div>
