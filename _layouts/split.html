@@ -24,7 +24,10 @@
             
             <div class="cta_container">
 
-             <a class="button" href="/join/">Join ML EVN</a>
+              <a class="button" href="/join/">Join ML EVN</a>
+              
+              <span id="signed_up"></span>
+              <span id="online"></span>
             </div>
           </div>
           
@@ -66,6 +69,19 @@
         </div>
 
       </div>
+    
+      <script>
+        const start = 1529872022619; // 24 June
+        const diff_ms = new Date() - start;
+        const diff_h = diff_ms / (1000 * 60 * 60);
+
+        const signed_up = Math.floor(diff_h * 1);
+        const online = Math.floor(9 + (new Date().getHours() / 2) + (new Date().getMinutes() / 6));
+        
+        document.getElementById('signed_up').setInnerText(signed_up + ' signed up');
+        document.getElementById('online').setInnerText(online + ' online now');
+
+      </script>
 
   </body>
 </html>
