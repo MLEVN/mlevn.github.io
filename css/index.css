@@ -98,10 +98,12 @@ a {
   letter-spacing: 2px;
   border: 2px solid;
   border-color: white;
-  color: white;
-  user-select: none;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #2b4b79;
   font-weight: 500;
+  font-size: larger;
   white-space: nowrap;
+  user-select: none;
 }
 
 .footer_container > a {
