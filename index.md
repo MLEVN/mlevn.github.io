@@ -11,30 +11,9 @@ Machine Learning Reading Group Yerevan
 > Meeting #31: Deep contextualized word representations (ELMo)  
 <sub><sup>07:08 - 22 June</sup></sub>
 
-
-## Universities
-
-[AUA Data Science, RAU ML Masters, YSU-ISTC ASDS, ...](/universities/)
-
-
-## Courses
-
-[SmartGate ML, ISTC ML, ACA ML, ...](/courses/)
-
-
-## Resources
-
-[YerevaNN - A Guide to Deep Learning, RAU NLP, ...](/resources/)
-
-
 ## Groups
 
 [Armenian Data Science, Yerevan R User group, NLP in Armenia, ...](/groups/)
-
-
-## Companies
-
-[Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Datamotus, ...](/companies/)
 
 
 ## Research
@@ -42,7 +21,27 @@ Machine Learning Reading Group Yerevan
 [YerevaNN research lab, Machine Learning Reading Group Yerevan, ...](/research/)
 
 
+## Companies
+
+[Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Datamotus, ...](/companies/)
+
+
 ## Events
 
 [NSF-FAST Workshop, AUA Data Science Workshop, Wolfram Technology Conference](/events/)
+
+
+## Resources
+
+[YerevaNN - A Guide to Deep Learning, RAU NLP, ...](/resources/)
+
+
+## Courses
+
+[SmartGate ML, ISTC ML, ACA ML, ...](/courses/)
+
+
+## Universities
+
+[AUA Data Science, RAU ML Masters, YSU-ISTC ASDS, ...](/universities/)
 
