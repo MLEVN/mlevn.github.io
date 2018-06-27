@@ -62,14 +62,27 @@ a {
 }
 
 .main_title {
-  padding: 10% 5%;
+  padding: 1em;
   vertical-align: middle;
   color: #2b4b79;
   text-align: center;
 }
 
+.latest_container { 
+  padding: 2em;
+  padding-top: 0em;
+  font-size: small;
+}
+
+.latest_container > span {
+   padding-left: 1em;
+   font-size: x-small;
+   color: grey;
+}
+  
 .cta_container {
-  padding: 5%;
+  padding: 1em;
+  padding-top: 2em;
   vertical-align: middle;
   color: #2b4b79;
   text-align: center;
