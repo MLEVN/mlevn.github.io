@@ -70,7 +70,6 @@ a {
 
 .latest_container { 
   padding: 2em;
-  padding-top: 0em;
   font-size: small;
 }
 
@@ -86,8 +85,7 @@ a {
 }
   
 .cta_container {
-  padding: 1em;
-  padding-top: 2em;
+  padding: 2em;
   vertical-align: middle;
   color: #2b4b79;
   text-align: center;
