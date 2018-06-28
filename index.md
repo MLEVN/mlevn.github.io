@@ -14,7 +14,7 @@ layout: split
 
 ## Companies
 
-[Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Datamotus, ...](/companies/)
+[Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Wolfram, Datamotus, ...](/companies/)
 
 
 ## Events
