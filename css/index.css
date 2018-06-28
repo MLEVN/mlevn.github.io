@@ -69,7 +69,8 @@ a {
 }
 
 .latest_container { 
-  padding: 4em;
+  padding: 3em;
+  padding-top: 1em;
   font-size: small;
 }
 
