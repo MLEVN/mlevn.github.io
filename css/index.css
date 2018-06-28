@@ -74,7 +74,12 @@ a {
   font-size: small;
 }
 
-.latest_container > span {
+.ago {
+   padding-left: 1em;
+   font-size: x-small;
+   color: grey;
+}
+.comments {
    padding-left: 1em;
    font-size: x-small;
    color: grey;
