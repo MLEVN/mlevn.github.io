@@ -1,5 +1,15 @@
 # Join ML EVN
 
+<form action="https://formspree.io/ios@literati.app" method="POST">
+    <p>
+      <input type="text" name="email" placeholder="you">
+      <input type="email" name="email" placeholder="your@email.com">
+      <input style="display:none;" type="text" name="_gotcha">
+      <input type="hidden" name="_next" value="/welcome/">
+    </p>
+    <input type="submit" class="button" value="Join ML EVN">
+</form>
+
 
 ## <i class="fab fa-reddit"></i> sharing and discussion
 
