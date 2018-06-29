@@ -151,6 +151,10 @@ a {
   padding: 1em;
 }
 
+.partners_container > a:hover {
+  color: #444444;
+}
+
 .partners_container > a > img {
    opacity: 0.1;
    height: 2em;
