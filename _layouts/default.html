@@ -14,18 +14,19 @@
 
       <div class="main_container">
 
-        <div class="content_container">
-                  
+        <div class="content_container">          
+
+
+          <p class="home_page"> 
+            <a href="/">{{ site.title }}</a> > {{ page.title }}
+          </p>
+          
+          {{ content }}
+
           <p class="edit">
             Want to add to or update {{ page.title }}?
             <a href="https://github.com/MLEVN/mlevn.github.io/blob/master/{{ page.path }}" target="_blank">Edit on GitHub!</a>
           </p>
-
-          <p class="home_page"> 
-            <a href="https://mlevn.org">< Home Page</a>
-          </p>
-          
-          {{ content }}
 
         </div>
 
