@@ -142,6 +142,10 @@ a {
   padding: 0.5em;
 }
 
+.links_container > a:hover {
+  color: #444444;
+}
+
 .partners_container > a {
   color: lightgrey;
   padding: 1em;
