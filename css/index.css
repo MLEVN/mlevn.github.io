@@ -180,12 +180,13 @@ a {
 }
 
 .join_input {
-  height: 25px;
-  background-image: none;
+  height: 28px;
+  background-image: none !important;
   padding: 4px;
   font-size: 100%;
   margin: 8px;
   border: none;
+  width: 70%;
 }
 
 @media only screen
