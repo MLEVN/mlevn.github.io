@@ -179,6 +179,15 @@ a {
   color: lightgrey;
 }
 
+.join_input {
+  height: 25px;
+  background-image: none;
+  padding: 4px;
+  font-size: 100%;
+  margin: 8px;
+  border: none;
+}
+
 @media only screen
 and (min-device-width: 320px)
 and (max-device-width: 480px)
