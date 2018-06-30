@@ -186,7 +186,11 @@ a {
   font-size: 100%;
   margin: 8px;
   border: none;
-  width: 70%;
+  width: 90%;
+}
+
+.reddit_no_account {
+  color: #444;
 }
 
 @media only screen
