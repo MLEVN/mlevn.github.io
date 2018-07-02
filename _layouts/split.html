@@ -37,7 +37,7 @@
             
             <div class="cta_container">
 
-              <a class="button" target="_blank" href="https://www.reddit.com/r/MLEVN/">Join ML EVN</a>
+              <a class="button" target="_blank" id="join_mlevn" href="https://www.reddit.com/r/MLEVN/">Join ML EVN</a>
               
               <p>
                 <span id="signed_up"></span>
@@ -126,6 +126,14 @@
 
       ga('create', 'UA-121461979-1', 'auto');
       ga('send', 'pageview', location.pathname);
+      function joinEvent(event) {
+        ga('send', 'event', {
+          eventCategory: 'Join Reddit',
+          eventAction: 'click',
+          eventLabel: event.target.href
+        });
+      }
+      document.getElementById('join_mlevn').onclick = joinEvent
       </script>
       <!-- End Google Analytics -->
 
