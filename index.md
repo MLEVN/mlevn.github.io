@@ -4,35 +4,35 @@ layout: split
 
 ## Groups
 
-[Armenian Data Science, Yerevan R User group, NLP in Armenia, ...](/groups/)
+[Armenian Data Science, Yerevan R User group, NLP in Armenia...](/groups/)
 
 
 ## Research
 
-[YerevaNN research lab, Machine Learning Reading Group Yerevan, ...](/research/)
+[YerevaNN research lab, Machine Learning Reading Group Yerevan...](/research/)
 
 
 ## Companies
 
-[Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Wolfram, Datamotus, ...](/companies/)
+[Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Wolfram, Datamotus...](/companies/)
 
 
 ## Events
 
-[NSF-FAST Workshop, AUA Data Science Workshop, Wolfram Technology Conference](/events/)
+[NSF-FAST Workshop, AUA Data Science Workshop, Wolfram Technology Conference...](/events/)
 
 
 ## Resources
 
-[YerevaNN - A Guide to Deep Learning, RAU NLP, ...](/resources/)
+[YerevaNN - A Guide to Deep Learning, RAU NLP, NLP Guide...](/resources/)
 
 
 ## Courses
 
-[SmartGate ML, ISTC ML, ACA ML, ...](/courses/)
+[AUA ML Summer School, SmartGate ML, ISTC ML, ACA ML...](/courses/)
 
 
 ## Universities
 
-[AUA Data Science, RAU ML Masters, YSU-ISTC ASDS, ...](/universities/)
+[AUA Data Science, RAU ML Masters, YSU-ISTC ASDS...](/universities/)
 
