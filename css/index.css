@@ -62,8 +62,6 @@ a {
   overflow-y: scroll;
 }
 
-.second_half
-
 .main_title {
   padding: 1em;
   vertical-align: middle;
@@ -74,6 +72,7 @@ a {
 .latest_container { 
   padding: 3em;
   padding-top: 1em;
+  padding-left: 30%;
   font-size: small;
 }
 
