@@ -19,8 +19,7 @@ layout: split
 
 ## [Events](/events/)
 
-[NSF-FAST Workshop, AUA Data Science Workshop, Wolfram Technology Conference...](/events/)
-
+[BarCamp EVN'18, NSF-FAST Workshop, AUA DS Workshop, Wolfram...](/events/)
 
 ## [Resources](/resources/)
 
