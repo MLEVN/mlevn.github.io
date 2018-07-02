@@ -52,14 +52,17 @@ a {
 
 .first_half {
   background-color: rgba(236, 222, 222, 0.8);
-  width: 40%;
+  width: 70%;
 }
 
 .second_half {
   background-color: rgba(247, 253, 249, 0.8);
-  width: 60%;
+  width: 30%;
+  font-size: 80%;
   overflow-y: scroll;
 }
+
+.second_half
 
 .main_title {
   padding: 1em;
