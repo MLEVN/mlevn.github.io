@@ -2,37 +2,36 @@
 layout: split
 ---
 
-## Groups
+## [Groups](/groups/)
 
-[Armenian Data Science, Yerevan R User group, NLP in Armenia, ...](/groups/)
-
-
-## Research
-
-[YerevaNN research lab, Machine Learning Reading Group Yerevan, ...](/research/)
+[Armenian Data Science, Yerevan R User group, NLP in Armenia...](/groups/)
 
 
-## Companies
+## [Research](/research/)
 
-[Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Wolfram, Datamotus, ...](/companies/)
-
-
-## Events
-
-[NSF-FAST Workshop, AUA Data Science Workshop, Wolfram Technology Conference](/events/)
+[YerevaNN research lab, Machine Learning Reading Group Yerevan...](/research/)
 
 
-## Resources
+## [Companies](/companies/)
 
-[YerevaNN - A Guide to Deep Learning, RAU NLP, ...](/resources/)
-
-
-## Courses
-
-[SmartGate ML, ISTC ML, ACA ML, ...](/courses/)
+[Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Wolfram, Datamotus...](/companies/)
 
 
-## Universities
+## [Events](/events/)
 
-[AUA Data Science, RAU ML Masters, YSU-ISTC ASDS, ...](/universities/)
+[BarCamp EVN'18, NSF-FAST Workshop, AUA DS Workshop, Wolfram...](/events/)
+
+## [Resources](/resources/)
+
+[YerevaNN - A Guide to Deep Learning, RAU NLP, NLP Guide...](/resources/)
+
+
+## [Courses](/courses/)
+
+[AUA ML Summer School, SmartGate ML, ISTC ML, ACA ML...](/courses/)
+
+
+## [Universities](/universities/)
+
+[AUA Data Science, RAU ML Masters, YSU-ISTC ASDS...](/universities/)
 

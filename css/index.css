@@ -8,7 +8,7 @@ body, html {
 }
 
 h1, h2, h3, h4, h5 {
-  font-weight: 300; 
+  font-weight: 400; 
 }
 
 a {
@@ -52,12 +52,13 @@ a {
 
 .first_half {
   background-color: rgba(236, 222, 222, 0.8);
-  width: 40%;
+  width: 70%;
 }
 
 .second_half {
   background-color: rgba(247, 253, 249, 0.8);
-  width: 60%;
+  width: 30%;
+  font-size: 80%;
   overflow-y: scroll;
 }
 
@@ -71,6 +72,7 @@ a {
 .latest_container { 
   padding: 3em;
   padding-top: 1em;
+  padding-left: 30%;
   font-size: small;
 }
 
