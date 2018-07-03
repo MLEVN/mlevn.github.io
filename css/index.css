@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5 {
 a {
   color: #353434;
   text-decoration: none;
-  font-size: 100%;
+  font-size: 125%;
 }
 
 h2 > a {
@@ -61,7 +61,7 @@ h2 > a {
 }
 
 .second_half {
-  background-color: rgba(247, 253, 249, 0.8);
+  background-color: rgba(247, 253, 249, 0.87);
   width: 30%;
   font-size: 80%;
   overflow-y: scroll;
