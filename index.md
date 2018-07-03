@@ -34,4 +34,3 @@ layout: split
 ## [Universities](/universities/)
 
 [AUA Data Science, RAU ML Masters, YSU-ISTC ASDS...](/universities/)
-

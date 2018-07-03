@@ -12,8 +12,13 @@ h1, h2, h3, h4, h5 {
 }
 
 a {
-  color: grey;
+  color: #353434;
   text-decoration: none;
+  font-size: 100%;
+}
+
+h2 > a {
+  text-decoration: underline !important;
 }
 
 .bg {
@@ -195,10 +200,25 @@ a {
   color: #444;
 }
 
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
+.content_card {
+  border: 1px solid #ccc;
+  padding: 12px;
+  cursor: pointer;
+  margin: 8px 0px;
+  border-radius: 4px;
+}
+
+.card_shadow {
+  box-shadow: -1px -1px 14px #cccccc;
+  -webkit-box-shadow: -1px -1px 14px #cccccc;
+  -moz-box-shadow: -1px -1px 14px #cccccc;
+}
+
+@media only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
+
   .bg {
     height: auto;
   }
@@ -218,7 +238,7 @@ a {
   .second_half {
     width: 100%;
     overflow-y: inherit;
-    background-color: rgba(247, 253, 249, 0.8);
+    background-color: rgba(247, 253, 249, 0.87);
   }
 
   .cta_container > div {
