@@ -4,12 +4,10 @@
 
     {% for page in site.pages %}
 
-      {% if page.excerpt != null %}
     <p>
       <h2>{{ page.title }}</h2>
-      {{ page.excerpt }}
+      {{ page.excerpt | truncate: 50}}
     </p>
-      {% endif %}
     {% endfor %}
 
   </body>
