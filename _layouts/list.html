@@ -2,13 +2,14 @@
   <head></head>
   <body>
 
-    {% for page in site.content %}
+    {% for page in site.pages %}
 
+      {% if page.excerpt != null %}
     <p>
       <h2>{{ page.title }}</h2>
       {{ page.excerpt }}
     </p>
-
+      {% endif %}
     {% endfor %}
 
   </body>
