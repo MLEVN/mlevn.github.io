@@ -3,10 +3,10 @@
 
   {% if page.excerpt != null %}
 <a href="{{ page.url | replace: 'index.html', '' }}">
-  <p>
+  <div class="card">
     <h2>{{ page.title }}</h2>
-    {{ page.excerpt | truncate: 50}}
-  </p>
+    <p>{{ page.excerpt | truncate: 50}}</p>
+  </div>
 </a>
   {% endif %}
 {% endfor %}

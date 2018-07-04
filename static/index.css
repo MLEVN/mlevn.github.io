@@ -108,6 +108,10 @@ h2 > a {
   padding: 24px;
 }
 
+.card {
+  padding: 24px;
+}
+
 .footer_container {
   color: grey;
   text-align: center;
