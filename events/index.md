@@ -4,11 +4,9 @@
 
 ### ML @ BarCamp
 [barcamp.am](http://barcamp.am/)
+- *DIY deep learning* - Evan Shelhamer, CAFFE 
+- *ML: Industry vs Science* - Panel Discussion
 
-##### *DIY deep learning*
-Evan Shelhamer, CAFFE 
-##### *ML: Industry vs Science*
-Panel Discussion
 #### How to train your ML models with Cloud
 Leonid Kuligin, Google Cloud
 ##### *Pixels in, pixels out: deep learning for image-to-image tasks*
