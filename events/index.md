@@ -6,16 +6,10 @@
 [barcamp.am](http://barcamp.am/)
 - *DIY deep learning* - Evan Shelhamer, CAFFE 
 - *ML: Industry vs Science* - Panel Discussion
-
-#### How to train your ML models with Cloud
-Leonid Kuligin, Google Cloud
-##### *Pixels in, pixels out: deep learning for image-to-image tasks*
-Evan Shelhamer, CAFFE 
-##### *Machine Learning in Finance*
-David Kocharian, PicsArt 
-##### *Challenges of Big Data Analytics*  
-Erik Hambardzumyan, Albert Sargsyan, PicsArt   
-
+- *How to train your ML models with Cloud* - Leonid Kuligin, Google Cloud
+- *Pixels in, pixels out: deep learning for image-to-image tasks* - Evan Shelhamer, CAFFE 
+- *Machine Learning in Finance* - David Kocharian, PicsArt 
+- *Challenges of Big Data Analytics* - Erik Hambardzumyan, Albert Sargsyan, PicsArt
 
 ## 2017
 
