@@ -55,12 +55,12 @@ h2 > a {
 }
 
 .first_half {
-  background-color: rgba(247, 253, 249, 0.8);
+  background-color: rgba(245, 230, 215, 0.81);
   width: 70%;
 }
 
 .second_half {
-  background-color: rgba(247, 253, 249, 0.8);
+  background-color: rgba(245, 230, 215, 0.81);
   width: 30%;
   font-size: 80%;
   overflow-y: scroll;
