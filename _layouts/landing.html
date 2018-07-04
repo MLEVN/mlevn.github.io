@@ -13,79 +13,74 @@
   </head>
   <body>
 
-      <div class="bg">
-        <div class="bg bgimg">
+    <div class="main_container bgimg">
+      <div class="first_half">
+        <div class="main_title">
+          <h1>{{ site.title }}</h1>
+          <h2>{{ site.description }}</h2>
         </div>
-        <div class="main_container">
-          <div class="first_half">
-            <div class="main_title">
-              <h1>{{ site.title }}</h1>
-              <h2>{{ site.description }}</h2>
-            </div>
 
-            <!-- <div class="latest_container">
-              <p>[P] CS230 projects (Spring 2018) · r/MachineLearning <br>
-                <span class="ago">37m</span><span class="comments">2 comments</span>
-              </p>
-              <p>[P] CS230 projects (Spring 2018) · r/MachineLearning <br>
-                <span class="ago">37m</span><span class="comments">2 comments</span>
-              </p>
-              <p>Facehub - Product Hunt<br>
-                <span class="ago">1d</span><span class="comments">9 comments</span>
-              </p>
+        <!-- <div class="latest_container">
+          <p>[P] CS230 projects (Spring 2018) · r/MachineLearning <br>
+            <span class="ago">37m</span><span class="comments">2 comments</span>
+          </p>
+          <p>[P] CS230 projects (Spring 2018) · r/MachineLearning <br>
+            <span class="ago">37m</span><span class="comments">2 comments</span>
+          </p>
+          <p>Facehub - Product Hunt<br>
+            <span class="ago">1d</span><span class="comments">9 comments</span>
+          </p>
 
-            </div> -->
+        </div> -->
 
 
-            <div class="cta_container">
+        <div class="cta_container">
 
-              <a class="button" target="_blank" id="join_mlevn" href="https://www.reddit.com/r/MLEVN/">Join ML EVN</a>
+          <a class="button" target="_blank" id="join_mlevn" href="https://www.reddit.com/r/MLEVN/">Join ML EVN</a>
 
-              {% include timer.html %}
-            </div>
-
-          </div>
-
-          <div class="second_half">
-            <div class="content_container">
-
-              {% include list.html %}
-
-            </div>
-          </div>
-
-        </div>
-        <div class="footer_container">
-            <div class="links_container">
-                <a target="_blank" href="https://twitter.com/ml_evn">
-                  <i class="fab fa-twitter"></i>
-                </a>
-                <a target="_blank" href="https://www.facebook.com/MLEVN.org/">
-                  <i class="fab fa-facebook"></i>
-                </a>
-                <a target="_blank" href="mailto:contact@mlevn.org">
-                  <i class="fa fa-envelope"></i>
-                </a>
-                <a target="_blank" href="https://github.com/mlevn">
-                  <i class="fab fa-github"></i>
-                </a>
-            </div>
-            <div class="partners_container">
-                <a target="_blank" href="https://araratangels.com/">
-                  <img src="/static/araratangels.png"/> Ararat Angels
-                </a>
-                <a target="_blank" href="https://smartgate.vc/">
-                  SmartGate VC
-                </a>
-                <a target="_blank" href="mailto:partners@mlevn.org">
-                  [your org]
-                </a>
-            </div>
+          {% include timer.html %}
         </div>
 
       </div>
 
-      {% include analytics.html %}
+      <div class="second_half">
+        <div class="content_container">
+
+          {% include list.html %}
+
+        </div>
+      </div>
+
+    </div>
+    <div class="footer_container">
+        <div class="links_container">
+            <a target="_blank" href="https://twitter.com/ml_evn">
+              <i class="fab fa-twitter"></i>
+            </a>
+            <a target="_blank" href="https://www.facebook.com/MLEVN.org/">
+              <i class="fab fa-facebook"></i>
+            </a>
+            <a target="_blank" href="mailto:contact@mlevn.org">
+              <i class="fa fa-envelope"></i>
+            </a>
+            <a target="_blank" href="https://github.com/mlevn">
+              <i class="fab fa-github"></i>
+            </a>
+        </div>
+        <div class="partners_container">
+            <a target="_blank" href="https://araratangels.com/">
+              <img src="/static/araratangels.png"/> Ararat Angels
+            </a>
+            <a target="_blank" href="https://smartgate.vc/">
+              SmartGate VC
+            </a>
+            <a target="_blank" href="mailto:partners@mlevn.org">
+              [your org]
+            </a>
+        </div>
+    </div>
+
+    {% include analytics.html %}
 
   </body>
 </html>
