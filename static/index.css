@@ -101,6 +101,8 @@ h2 > a {
 .footer_container {
   color: grey;
   text-align: center;
+  background: white;
+  padding: 1em 0em;
 }
 
 .button {
@@ -124,9 +126,7 @@ h2 > a {
 }
 
 .footer_container > a {
-  padding: 1em 0em;
   margin: 0.5em;
-  background: white;
 }
 
 .links_container {
