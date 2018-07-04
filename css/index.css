@@ -13,11 +13,10 @@ h1, h2, h3, h4, h5 {
 
 a {
   color: #353434;
-  text-decoration: none;
 }
 
 h2 > a {
-  text-decoration: underline !important;
+  text-decoration: none !important;
   font-size: 125%;
 }
 
@@ -147,6 +146,7 @@ h2 > a {
 .links_container > a {
   color: lightgrey;
   padding: 0.5em;
+  text-decoration: none !important;
 }
 
 .links_container > a:hover {
@@ -156,6 +156,7 @@ h2 > a {
 .partners_container > a {
   color: lightgrey;
   padding: 1em;
+  text-decoration: none !important;
 }
 
 .partners_container > a:hover {
