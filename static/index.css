@@ -126,6 +126,7 @@ h2 > a {
 .footer_container > a {
   padding: 1em 0em;
   margin: 0.5em;
+  background: white;
 }
 
 .links_container {
