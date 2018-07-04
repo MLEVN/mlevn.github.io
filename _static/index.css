@@ -8,7 +8,7 @@ body, html {
 }
 
 h1, h2, h3, h4, h5 {
-  font-weight: 400; 
+  font-weight: 400;
 }
 
 a {
@@ -31,7 +31,7 @@ h2 > a {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/img/evn.jpg");
+  background-image: url("/_static/evn.jpg");
 }
 
 .bw {
@@ -73,7 +73,7 @@ h2 > a {
   text-align: center;
 }
 
-.latest_container { 
+.latest_container {
   padding: 3em;
   padding-top: 1em;
   padding-left: 30%;
@@ -90,7 +90,7 @@ h2 > a {
    font-size: x-small;
    color: grey;
 }
-  
+
 .cta_container {
   padding: 2em;
   vertical-align: middle;
