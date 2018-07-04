@@ -200,11 +200,11 @@ h2 > a {
 }
 
 .content_card {
-  border: 1px solid #ccc;
+  background-color: white;
   padding: 12px;
   cursor: pointer;
   margin: 8px 0px;
-  border-radius: 4px;
+  border-radius: 3px;
 }
 
 .card_shadow {
