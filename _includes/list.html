@@ -1,18 +1,12 @@
-<html>
-  <head></head>
-  <body>
 
-    {% for page in site.pages %}
+{% for page in site.pages %}
 
-      {% if page.excerpt != null %}
-    <a href="{{ page.url | replace: 'index.html', '' }}">
-      <p>
-        <h2>{{ page.title }}</h2>
-        {{ page.excerpt | truncate: 50}}
-      </p>
-    </a>
-      {% endif %}
-    {% endfor %}
-
-  </body>
-</html>
+  {% if page.excerpt != null %}
+<a href="{{ page.url | replace: 'index.html', '' }}">
+  <p>
+    <h2>{{ page.title }}</h2>
+    {{ page.excerpt | truncate: 50}}
+  </p>
+</a>
+  {% endif %}
+{% endfor %}
