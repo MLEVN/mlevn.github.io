@@ -207,6 +207,14 @@ h2 > a {
   border-radius: 3px;
 }
 
+.content_card > a {
+  color: #444; 
+}
+
+.content_card > h1, h2, h3, h4, h5 {
+  margin: 0em; 
+}
+
 .card_shadow {
   box-shadow: -1px -1px 14px #cccccc;
   -webkit-box-shadow: -1px -1px 14px #cccccc;
