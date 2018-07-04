@@ -14,11 +14,11 @@ h1, h2, h3, h4, h5 {
 a {
   color: #353434;
   text-decoration: none;
-  font-size: 125%;
 }
 
 h2 > a {
   text-decoration: underline !important;
+  font-size: 125%;
 }
 
 .bg {
