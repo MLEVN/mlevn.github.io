@@ -41,11 +41,7 @@
 
               <a class="button" target="_blank" id="join_mlevn" href="https://www.reddit.com/r/MLEVN/">Join ML EVN</a>
 
-              <p>
-                <span id="signed_up"></span>
-                <br><br>
-                <span id="online"></span>
-              </p>
+              {% include timer.html %}
             </div>
 
           </div>
@@ -89,55 +85,7 @@
 
       </div>
 
-      <script>
-        const start = 1529872022619; // 24 June
-        const diff_ms = new Date() - start;
-        const diff_h = diff_ms / (1000 * 60 * 60);
-
-        const signed_up = Math.floor(diff_h);
-        const online = Math.floor(7 + (new Date().getHours() / 2) + (new Date().getMinutes() / 6));
-
-        var i = 0;
-        function updateOnline() {
-          document.getElementById('online').innerText = i + ' online';
-          if (i < online) {
-            setTimeout(updateOnline, 25);
-          }
-          i += 1;
-        }
-        var j = 0;
-        function updateSignup() {
-          document.getElementById('signed_up').innerText = j + ' signed up';
-          if (j < signed_up) {
-            setTimeout(updateSignup, 50);
-          } else {
-             updateOnline();
-          }
-          j += 1;
-        }
-        setTimeout(updateSignup, 1000);
-
-      </script>
-
-      <!-- Google Analytics -->
-      <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-121461979-1', 'auto');
-      ga('send', 'pageview', location.pathname);
-      function joinEvent(event) {
-        ga('send', 'event', {
-          eventCategory: 'Join Reddit',
-          eventAction: 'click',
-          eventLabel: event.target.href
-        });
-      }
-      document.getElementById('join_mlevn').onclick = joinEvent
-      </script>
-      <!-- End Google Analytics -->
+      {% include analytics.html %}
 
   </body>
 </html>
