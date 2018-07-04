@@ -2,7 +2,7 @@
 {% for page in site.pages %}
 
   {% if page.excerpt != null %}
-  <div class="content_card">
+  <div class="content_card card_shadow">
     <a href="{{ page.url | replace: 'index.html', '' }}">
       <h2>{{ page.title }}</h2>
       <p>{{ page.excerpt | truncate: 50}}</p>
