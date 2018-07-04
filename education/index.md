@@ -1,5 +1,5 @@
 ---
-excerpt: Universities, Courses, Resources...
+excerpt: Universities, courses, and learning materials
 ---
 
 # Education
@@ -43,7 +43,7 @@ See also: [Universities](/universities/)
 #### Applied Machine Learning  
 [smartgate.ml/applied-machine-learning](https://www.smartgate.ml/applied-machine-learning)
 
-## Resources
+## Learning Materials
 
 ### YerevaNN - A Guide to Deep Learning  
 [yerevann.com/a-guide-to-deep-learning/](http://yerevann.com/a-guide-to-deep-learning/)
