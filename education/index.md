@@ -2,7 +2,9 @@
 excerpt: Universities, Courses, Resources...
 ---
 
-# Universities
+# Education
+
+## Universities
 
 ### YSU-ISTC ASDS
 Yerevan State University and ISTC
@@ -20,7 +22,7 @@ Russian-Armenian University
 Machine Learning Masters  
 [rau.am/.../masters-in-machine-learning](https://international.rau.am/eng/25/masters-in-machine-learning)
 
-# Courses
+## Courses
 
 Industry and other institutions also offer private and public courses in machine learning.
 
@@ -41,7 +43,7 @@ See also: [Universities](/universities/)
 #### Applied Machine Learning  
 [smartgate.ml/applied-machine-learning](https://www.smartgate.ml/applied-machine-learning)
 
-# Resources
+## Resources
 
 ### YerevaNN - A Guide to Deep Learning  
 [yerevann.com/a-guide-to-deep-learning/](http://yerevann.com/a-guide-to-deep-learning/)
