@@ -1,3 +1,7 @@
+---
+excerpt: YerevaNN - A Guide to Deep Learning, RAU NLP, NLP Guide
+---
+
 # Resources
 
 ### YerevaNN - A Guide to Deep Learning  
@@ -8,4 +12,3 @@ Russian-Armenian University
 Machine Learning Masters  
 Natural Language Processing course  
 [rau-nlp.github.io](https://rau-nlp.github.io/)
-

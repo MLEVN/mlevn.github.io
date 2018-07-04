@@ -1,3 +1,7 @@
+---
+excerpt: AUA Data Science, RAU ML Masters, YSU-ISTC ASDS
+---
+
 # Universities
 
 ### YSU-ISTC ASDS

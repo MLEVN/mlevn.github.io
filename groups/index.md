@@ -1,3 +1,7 @@
+---
+excerpt: Armenian Data Science, Yerevan R User group, NLP in Armenia
+---
+
 # Groups
 
 Most of groups have a focus on a specific application domain or technology, and host regular meetups.

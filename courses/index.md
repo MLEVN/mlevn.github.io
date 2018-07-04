@@ -1,3 +1,7 @@
+---
+excerpt: AUA ML Summer School, SmartGate ML, ISTC ML, ACA ML
+---
+
 # Courses
 
 Industry and other institutions also offer private and public courses in machine learning.

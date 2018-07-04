@@ -1,4 +1,10 @@
+---
+excerpt: YerevaNN research lab, Machine Learning Reading Group Yerevan
+---
+
 # Research
+
+TODO: arXiv search, Google Scholar search
 
 ### YerevaNN
 research lab  
@@ -7,4 +13,3 @@ research lab
 ### Machine Learning Reading Group Yerevan
 weekly meeting for reading papers  
 [groups.google.com/.../ml-reading-group-yerevan](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan)
-
