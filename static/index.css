@@ -231,13 +231,13 @@ h2 > a {
   .first_half {
     width: 100%;
     min-height: 70vh;
-    background-color: rgba(236, 222, 222, 0.8);
+    background-color: rgba(247, 253, 249, 0.8);
   }
 
   .second_half {
     width: 100%;
     overflow-y: inherit;
-    background-color: rgba(247, 253, 249, 0.87);
+    background-color: rgba(247, 253, 249, 0.8);
   }
 
   .cta_container > div {
