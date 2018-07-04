@@ -2,11 +2,11 @@
 {% for page in site.pages %}
 
   {% if page.excerpt != null %}
-<a href="{{ page.url | replace: 'index.html', '' }}">
-  <div class="card">
-    <h2>{{ page.title }}</h2>
-    <p>{{ page.excerpt | truncate: 50}}</p>
+  <div class="content_card">
+    <a href="{{ page.url | replace: 'index.html', '' }}">
+      <h2>{{ page.title }}</h2>
+      <p>{{ page.excerpt | truncate: 50}}</p>
+    </a>
   </div>
-</a>
   {% endif %}
 {% endfor %}
