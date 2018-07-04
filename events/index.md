@@ -1,5 +1,5 @@
 ---
-excerpt: BarCamp EVN'18, NSF-FAST Workshop, AUA DS Workshop, Wolfram Technology Conference
+excerpt: BarCamp EVN, NSF-FAST, AUA Data Science, Wolfram
 ---
 
 # Events
