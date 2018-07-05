@@ -13,19 +13,15 @@
   </head>
   <body>
 
-      <div class="main_container">
-
-        <div class="content_container">
-
-          <p class="home_page">
-            <a href="/">{{ site.title }}</a> > {{ page.title }}
-          </p>
-
-          {{ content }}
-
-        </div>
-        
+    <div class="main_container">
+      <div class="content_container">
+        <p class="home_page">
+          <a href="/">{{ site.title }}</a> > {{ page.title }}
+        </p>
+        {{ content }}
+      </div>    
     </div>
+    
     <div class="footer_container">
       <p class="edit">
         Want to add to or update <strong>{{ page.title }}</strong>?
@@ -37,7 +33,6 @@
        </a>
       </p>
     </div>
-
 
     {% include analytics.html %}
     
