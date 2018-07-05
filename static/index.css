@@ -210,7 +210,7 @@ h2 > a {
   color: #444; 
 }
 
-.content_card > h1, .content_card > h2, .content_card > h3, .content_card > h4, .content_card > h5 {
+.content_card > h2 {
   margin: 0em; 
 }
 
