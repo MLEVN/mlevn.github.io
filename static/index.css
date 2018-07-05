@@ -17,26 +17,12 @@ a {
   font-weight: 400;
 }
 
-h2 > a {
-  font-size: 125%;
-}
-
 .bgimg {
   background: url(/static/evn-ml-light.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
-
-.bw {
-  -webkit-filter: grayscale(100%);
-  transition: 1.0s;
-}
-
-.colorize {
-  -webkit-filter: grayscale(0%);
-  transition: 2.0s;
 }
 
 .home_page_container {
@@ -69,6 +55,10 @@ h2 > a {
   color: #294875;
   text-align: center;
   font-size: 150%;
+}
+
+.main_title > h2 {
+  font-weight: 200;
 }
 
 .latest_container {
@@ -148,7 +138,7 @@ h2 > a {
 }
 
 .links_container > a:hover {
-  color: #444444;
+  color: grey;
 }
 
 .partners_container > a {
@@ -157,7 +147,7 @@ h2 > a {
 }
 
 .partners_container > a:hover {
-  color: #444444;
+  color: grey;
 }
 
 .partners_container > a > img {
@@ -210,7 +200,7 @@ h2 > a {
   color: #444; 
 }
 
-.content_card > h2 {
+.content_card > a > h2 {
   margin: 0em; 
 }
 
