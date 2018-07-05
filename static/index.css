@@ -63,10 +63,11 @@ h2 > a {
 
 .main_title {
   padding: 1em;
-  padding-top: 25%;
+  padding-top: 18%;
   vertical-align: middle;
-  color: #2b4b79;
+  color: #294875;
   text-align: center;
+  font-size: 150%;
 }
 
 .latest_container {
@@ -88,7 +89,7 @@ h2 > a {
 }
 
 .cta_container {
-  padding: 20%;
+  padding: 12%;
   vertical-align: middle;
   color: #2b4b79;
   text-align: center;
