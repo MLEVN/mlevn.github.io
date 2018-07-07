@@ -203,6 +203,10 @@ a {
   margin: 0em; 
 }
 
+.content_card > a > p {
+  margin-bottom: 0em; 
+}
+
 .card_shadow {
   box-shadow: -1px -1px 14px #cccccc;
   -webkit-box-shadow: -1px -1px 14px #cccccc;
