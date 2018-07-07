@@ -104,7 +104,7 @@ a {
   letter-spacing: 2px;
   border: 2px solid;
   border-color: white;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.6);
   color: #2b4b79;
   font-weight: 500;
   font-size: larger;
@@ -113,7 +113,7 @@ a {
 }
 
 .button:hover {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: white;
 }
 
 .footer_container {
