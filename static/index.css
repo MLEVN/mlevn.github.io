@@ -17,6 +17,10 @@ a {
   font-weight: 400;
 }
 
+p {
+  margin-bottom: 2em;
+}
+
 .bgimg {
   background: url(/static/evn-ml-light.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
