@@ -6,6 +6,7 @@ excerpt: Universities, courses, and learning materials
 
 [Universities](#universities)  |  [Courses](#courses)  |  [Learning materials](#learning-materials)
 
+
 ## Universities
 
 ### YSU-ISTC ASDS
@@ -24,11 +25,10 @@ Russian-Armenian University
 Machine Learning Masters  
 [rau.am/.../masters-in-machine-learning](https://international.rau.am/eng/25/masters-in-machine-learning)
 
+
 ## Courses
 
 Industry and other institutions also offer private and public courses in machine learning.
-
-See also: [Universities](/universities/)
 
 ### Armenian Code Academy
 #### Machine Learning & Data Science  
@@ -44,6 +44,7 @@ See also: [Universities](/universities/)
 [smartgate.ml/intro-to-machine-learning](https://www.smartgate.ml/intro-to-machine-learning)
 #### Applied Machine Learning  
 [smartgate.ml/applied-machine-learning](https://www.smartgate.ml/applied-machine-learning)
+
 
 ## Learning Materials
 
