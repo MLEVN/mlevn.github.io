@@ -129,6 +129,7 @@ a {
 
 .links_container {
   font-size: 100%;
+  padding: 1em;
 }
 
 .links_container > a {
