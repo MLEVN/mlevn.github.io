@@ -96,13 +96,6 @@ a {
   padding: 10%;
 }
 
-.footer_container {
-  color: grey;
-  text-align: center;
-  background: white;
-  padding: 1em 0em;
-}
-
 .button {
   text-transform: uppercase;
   text-decoration: none;
@@ -123,8 +116,11 @@ a {
   background-color: rgba(255, 255, 255, 0.7);
 }
 
-.footer_container > a {
-  margin: 0.5em;
+.footer_container {
+  color: grey;
+  text-align: center;
+  background: white;
+  padding: 1em 0em;
 }
 
 .links_container {
@@ -134,7 +130,7 @@ a {
 
 .links_container > a {
   color: lightgrey;
-  padding: 0.5em;
+  padding: 1em;
 }
 
 .links_container > a:hover {
@@ -142,18 +138,12 @@ a {
 }
 
 .partners_container > a {
-  color: lightgrey;
   padding: 1em;
+  color: lightgrey;
 }
 
 .partners_container > a:hover {
   color: grey;
-}
-
-.partners_container > a > img {
-   opacity: 0.1;
-   height: 2em;
-   vertical-align: bottom;
 }
 
 .links_vertical {
@@ -166,7 +156,7 @@ a {
 }
 
 .edit > a {
-  padding-left: 0.5em;
+  padding: 1em;
 }
 
 .home_page {
