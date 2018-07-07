@@ -193,6 +193,11 @@ a {
   cursor: pointer;
   margin: 16px 0px;
   border-radius: 3px;
+  transition: transform .4s cubic-bezier(.4,0,.2,1);
+}
+
+.content_card:hover {
+  transform: rotateY(-2deg) rotateX(4deg) rotateZ(0deg) scale(1.03);
 }
 
 .content_card > a {
