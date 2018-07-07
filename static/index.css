@@ -123,25 +123,17 @@ a {
   padding: 1em 0em;
 }
 
-.links_container {
-  font-size: 100%;
+.footer_container > div {
+  padding-bottom: 1em;
 }
 
-.links_container > a {
+.footer_container > div > a {
   padding: 1em;
   color: lightgrey;
+  white-space: nowrap;
 }
 
-.links_container > a:hover {
-  color: grey;
-}
-
-.partners_container > a {
-  padding: 1em;
-  color: lightgrey;
-}
-
-.partners_container > a:hover {
+.footer_container > div > a:hover {
   color: grey;
 }
 
@@ -235,6 +227,10 @@ a {
 
   .links_container {
     font-size: 150%;
+  }
+    
+  .partners_container {
+    font-size: 90%;
   }
 
   .content_container > div {
