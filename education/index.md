@@ -4,7 +4,7 @@ excerpt: Universities, courses, and learning materials
 
 # Education
 
-[Universities](#universities) | [Courses](#courses) | [Learning materials](#learning-materials)
+[Universities](#universities)  |  [Courses](#courses)  |  [Learning materials](#learning-materials)
 
 ## Universities
 
