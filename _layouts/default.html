@@ -6,30 +6,31 @@
     <meta name="description" content="{{ site.title}} - {{ page.title }}">
     <meta property="og:title" content="{{ site.title}} - {{ page.title }}" />
     <meta property="og:url" content="{{ site.url }}/{{ page.title | downcase}}" />
-    <meta property="og:image" content="{{ site.url }}/static/evn.jpg" />
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <meta property="og:image" content="{{ site.url }}/static/evn-ml.jpg" />
+    <link rel='shortcut icon' type='image/x-icon' href='/static/favicon.ico' />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/static/index.css">
   </head>
   <body>
 
-      <div class="main_container">
-
-        <div class="content_container">
-
-          <p class="home_page">
-            <a href="/">{{ site.title }}</a> > {{ page.title }}
-          </p>
-
-          {{ content }}
-
-          <p class="edit">
-            Want to add to or update {{ page.title }}?
-            <a href="https://github.com/MLEVN/mlevn.github.io/blob/master/{{ page.path }}" target="_blank">Edit on GitHub!</a>
-          </p>
-
-        </div>
-
+    <div class="content_container">
+      <p class="home_page">
+        <a href="/">{{ site.title }}</a>
+      </p>
+      {{ content }}
+    </div>    
+    
+    <div class="footer_container">
+      <p class="edit">
+        Want to add to or update <strong>{{ page.title }}</strong>?
+      </p>
+      <p class="edit">
+        <a href="https://github.com/MLEVN/mlevn.github.io/blob/master/{{ page.path }}" target="_blank">
+        <i class="fab fa-github"></i>
+        Edit on GitHub!
+       </a>
+      </p>
     </div>
 
     {% include analytics.html %}

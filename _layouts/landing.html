@@ -7,78 +7,64 @@
     <meta property="og:title" content="{{ site.title }} - {{ site.description }}" />
     <meta property="og:url" content="{{ site.url }}" />
     <meta property="og:image" content="{{ site.url }}/static/evn-ml.jpg" />
-    <link href="https://fonts.googleapis.com/css?family=Cabin|Catamaran|Encode+Sans+Condensed|Exo|Hind|Lato|Montserrat|Muli|Noto+Sans|Open+Sans|Open+Sans+Condensed:300|Oswald|Roboto|Rubik|Ubuntu|Yanone+Kaffeesatz" rel="stylesheet">    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel='shortcut icon' type='image/x-icon' href='/static/favicon.ico' />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,600,700" rel="stylesheet">    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/static/index.css">
   </head>
   <body>
+    <div class="home_page_container">
+      <div class="main_container">
+        <div class="first_half">
+          <div class="main_title">
+            <img src="/static/logo-landscape.png" alt="{{ site.title }}" />
+            <h2>{{ site.description }}</h2>
+          </div>
+          <div class="cta_container">
 
-    <div class="main_container">
-      <div class="first_half">
-        <div class="main_title">
-          <h1>{{ site.title }}</h1>
-          <h2>{{ site.description }}</h2>
+            <a class="button" target="_blank" id="join_mlevn" href="https://www.reddit.com/r/MLEVN/">Join ML EVN</a>
+
+            {% include timer.html %}
+          </div>
+
         </div>
 
-        <!-- <div class="latest_container">
-          <p>[P] CS230 projects (Spring 2018) · r/MachineLearning <br>
-            <span class="ago">37m</span><span class="comments">2 comments</span>
-          </p>
-          <p>[P] CS230 projects (Spring 2018) · r/MachineLearning <br>
-            <span class="ago">37m</span><span class="comments">2 comments</span>
-          </p>
-          <p>Facehub - Product Hunt<br>
-            <span class="ago">1d</span><span class="comments">9 comments</span>
-          </p>
+        <div class="second_half">
+          <div class="content_container">
 
-        </div> -->
+            {% include list.html %}
 
-
-        <div class="cta_container">
-
-          <a class="button" target="_blank" id="join_mlevn" href="https://www.reddit.com/r/MLEVN/">Join ML EVN</a>
-
-          {% include timer.html %}
+          </div>
         </div>
 
       </div>
-
-      <div class="second_half">
-        <div class="content_container">
-
-          {% include list.html %}
-
-        </div>
+      <div class="footer_container">
+          <div class="links_container">
+              <a target="_blank" href="https://twitter.com/ml_evn">
+                <i class="fab fa-twitter"></i>
+              </a>
+              <a target="_blank" href="https://www.facebook.com/MLEVN.org/">
+                <i class="fab fa-facebook"></i>
+              </a>
+              <a target="_blank" href="mailto:contact@mlevn.org">
+                <i class="fa fa-envelope"></i>
+              </a>
+              <a target="_blank" href="https://github.com/mlevn">
+                <i class="fab fa-github"></i>
+              </a>
+          </div>
+          <div class="partners_container">
+              <a target="_blank" href="https://araratangels.com/">
+                Ararat Angels
+              </a>
+              <a target="_blank" href="https://smartgate.vc/">
+                SmartGate VC
+              </a>
+              <a target="_blank" href="mailto:partners@mlevn.org">
+                [your org here]
+              </a>
+          </div>
       </div>
-
     </div>
-    <div class="footer_container">
-        <div class="links_container">
-            <a target="_blank" href="https://twitter.com/ml_evn">
-              <i class="fab fa-twitter"></i>
-            </a>
-            <a target="_blank" href="https://www.facebook.com/MLEVN.org/">
-              <i class="fab fa-facebook"></i>
-            </a>
-            <a target="_blank" href="mailto:contact@mlevn.org">
-              <i class="fa fa-envelope"></i>
-            </a>
-            <a target="_blank" href="https://github.com/mlevn">
-              <i class="fab fa-github"></i>
-            </a>
-        </div>
-        <div class="partners_container">
-            <a target="_blank" href="https://araratangels.com/">
-              <img src="/static/araratangels.png"/> Ararat Angels
-            </a>
-            <a target="_blank" href="https://smartgate.vc/">
-              SmartGate VC
-            </a>
-            <a target="_blank" href="mailto:partners@mlevn.org">
-              [your org]
-            </a>
-        </div>
-    </div>
-
     {% include analytics.html %}
 
   </body>

@@ -1,5 +1,5 @@
 ---
-excerpt: Facehub, Teamable, 2hz.ai, Intelinair, PicsArt, Datamotus, Aimhub, Wolfram
+excerpt: Facehub, Teamable, 2hz.ai, Intelinair, HiLearn, PicsArt, Datamotus, Aimhub, Wolfram
 ---
 
 # Companies
@@ -16,6 +16,8 @@ Crunchbase searches:
 
 ### Intelinair
 
+### HiLearn
+
 ### PicsArt
 
 ### Datamotus
@@ -23,3 +25,5 @@ Crunchbase searches:
 ### Aimhub
 
 ### Wolfram
+
+
