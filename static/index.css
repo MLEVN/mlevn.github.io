@@ -72,6 +72,10 @@ p {
   font-weight: 200;
 }
 
+.breadcrumb > image {
+  width: 20%; 
+}
+
 .latest_container {
   padding: 3em;
   padding-top: 1em;
