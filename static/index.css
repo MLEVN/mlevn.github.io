@@ -64,6 +64,10 @@ p {
   font-size: 150%;
 }
 
+.main_title > img {
+  width: 40%;
+}
+
 .main_title > h2 {
   font-weight: 200;
 }
