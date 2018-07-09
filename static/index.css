@@ -65,7 +65,7 @@ p {
 }
 
 .main_title > img {
-  width: 30%;
+  width: 20%;
 }
 
 .main_title > h2 {
@@ -220,7 +220,11 @@ p {
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
-  .breadcrumb > img {
+  .main_title > img {
+    width: 30%; 
+  }
+    
+  .breadcrumb > a > img {
     width: 20%; 
   }
   
