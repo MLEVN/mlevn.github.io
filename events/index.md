@@ -7,10 +7,10 @@ excerpt: BarCamp EVN, NSF-FAST, AUA Data Science, Wolfram
 ## 2018
 
 ### Smart Talk: Materials Discovery from Natural Language
-[event link](https://www.reddit.com/r/MLEVN/comments/8y2yq3/smart_talk_materials_discovery_from_natural/)
-- Host: [ISTC](http://istc.am/en/) - Innovative Solutions and Technologies Center in 
-- Speaker: Vahe Tshitoyan, who is currently Postdoc at Berkeley Lab working on Natural Language Processing and Machine Leading problems in materials science.
-- Topic: Can your laptop discover materials for different applications simply by reading a scientific text, with no structured scientific input? Can it do this with minimal or no supervision? If these questions spark your curiosity, come along to the talk. In addition to giving answers to these questions, Vahe will demo several tools created to assist academia and industry with materials search and discovery. 
+[event](https://www.reddit.com/r/MLEVN/comments/8y2yq3/smart_talk_materials_discovery_from_natural/)
+**Host**: [ISTC](http://istc.am/en/) - Innovative Solutions and Technologies Center in 
+**Speaker**: **Vahe Tshitoyan**, who is currently Postdoc at Berkeley Lab working on Natural Language Processing and Machine Leading problems in materials science.
+**Topic**: Can your laptop discover materials for different applications simply by reading a scientific text, with no structured scientific input? Can it do this with minimal or no supervision? If these questions spark your curiosity, come along to the talk. In addition to giving answers to these questions, Vahe will demo several tools created to assist academia and industry with materials search and discovery. 
 
 ### ML @ BarCamp EVN'18
 [barcamp.am](http://barcamp.am/)
