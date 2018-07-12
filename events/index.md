@@ -8,7 +8,7 @@ excerpt: Materials Discovery from Natural Language, BarCamp EVN, NSF-FAST, AUA D
 
 ### Materials Discovery from Natural Language - Vahe Tshitoyan
 
-[SmartTalk at ISTC](https://www.reddit.com/r/MLEVN/comments/8xyoau/materials_discovery_from_natural_language_with/)  
+[SmartTalk at ISTC on 18 July](https://www.reddit.com/r/MLEVN/comments/8xyoau/materials_discovery_from_natural_language_with/)  
 Vahe Tshitoyan is currently Postdoc at Berkeley Lab working on Natural Language Processing and Machine Learning problems in materials science.  
 > Can your laptop discover materials for different applications simply by reading a scientific text, with no structured scientific input? Can it do this with minimal or no supervision? If these questions spark your curiosity, come along to the talk. In addition to giving answers to these questions, Vahe will demo several tools created to assist academia and industry with materials search and discovery. 
 
