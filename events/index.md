@@ -6,7 +6,7 @@ excerpt: BarCamp EVN, NSF-FAST, AUA Data Science, Wolfram
 
 ## 2018
 
-#### Materials Discovery from Natural Language - Vahe Tshitoyan
+### Materials Discovery from Natural Language - Vahe Tshitoyan
 
 [SmartTalk at ISTC](https://www.reddit.com/r/MLEVN/comments/8y2yq3/smart_talk_materials_discovery_from_natural/)
 Vahe Tshitoyan is currently Postdoc at Berkeley Lab working on Natural Language Processing and Machine Leading problems in materials science.
