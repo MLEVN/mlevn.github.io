@@ -22,6 +22,8 @@ Once we accept the pull request your changes will appear on mlevn.org.
 ## How to report issues
 To report bugs, give feedback or suggest changes, [open a Github issue](https://github.com/MLEVN/mlevn.github.io/issues/new)
 
+You can also browse [all open issues](https://github.com/MLEVN/mlevn.github.io/issues).
+
 *Read more about [GitHub issues](https://guides.github.com/features/issues/)*
 
 ## How to post to the community
