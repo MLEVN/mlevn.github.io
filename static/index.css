@@ -190,7 +190,7 @@ p {
   cursor: pointer;
   margin: 16px 0px;
   border-radius: 3px;
-  transition: transform .4s cubic-bezier(.4,0,.2,1);
+  transition: transform .2s cubic-bezier(.4,0,.2,1);
 }
 
 .content_card:hover {
