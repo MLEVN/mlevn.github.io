@@ -1,9 +1,9 @@
-<p>
-  <span>Subscribers</span>
+<p id="reddit_preview" class="reddit_preview">
   <span id="signed_up"></span>
+  <span>members</span>
   <br><br>
-  <span> Online</span>
   <span id="online"></span>
+  <span>online now</span>
 </p>
 <script async>
 
@@ -22,6 +22,7 @@
       var data = updateJson.data || {}
       document.getElementById('online').innerText = data.active_user_count || 0
       document.getElementById('signed_up').innerText = data.subscribers || 0
+      document.getElementById('reddit_preview').style.display = ''
     }) 
   }
   
