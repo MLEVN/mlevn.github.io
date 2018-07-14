@@ -4,31 +4,49 @@
   <span id="online"></span>
 </p>
 <script>
-  const start = 1529872022619; // 24 June
-  const diff_ms = new Date() - start;
-  const diff_h = diff_ms / (1000 * 60 * 60);
 
-  const signed_up = Math.floor(diff_h);
-  const online = Math.floor(7 + (new Date().getHours() / 2) + (new Date().getMinutes() / 6));
+  function loadJson(redditJsonUrl) {
+    return fetch(redditJsonUrl)
+      .then(res => res.json())
+      .catch(err => {
+        console.log(err)
+        return "{}"
+      })
+  }
+  
+  function updateUsersStatus(interval) {
+    const statusJson = "https://www.reddit.com/r/MLEVN/about.json"
+    loadJson(statusJson).then(updateJson => {
+      document.getElementById('online').innerText = updateJson.data.active_user_count
+      document.getElementById('signed_up').innerText = updateJson.data.subscribers
+    }) 
+  }
+  
+//   const start = 1529872022619; // 24 June
+//   const diff_ms = new Date() - start;
+//   const diff_h = diff_ms / (1000 * 60 * 60);
 
-  var i = 0;
-  function updateOnline() {
-    document.getElementById('online').innerText = i + ' online';
-    if (i < online) {
-      setTimeout(updateOnline, 10);
-    }
-    i += 1;
-  }
-  var j = 0;
-  function updateSignup() {
-    document.getElementById('signed_up').innerText = j + ' signed up';
-    if (j < signed_up) {
-      setTimeout(updateSignup, 20);
-    } else {
-       updateOnline();
-    }
-    j += 1;
-  }
-  setTimeout(updateSignup, 1000);
+//   const signed_up = Math.floor(diff_h);
+//   const online = Math.floor(7 + (new Date().getHours() / 2) + (new Date().getMinutes() / 6));
+
+//   var i = 0;
+//   function updateOnline() {
+//     document.getElementById('online').innerText = i + ' online';
+//     if (i < online) {
+//       setTimeout(updateOnline, 10);
+//     }
+//     i += 1;
+//   }
+//   var j = 0;
+//   function updateSignup() {
+//     document.getElementById('signed_up').innerText = j + ' signed up';
+//     if (j < signed_up) {
+//       setTimeout(updateSignup, 20);
+//     } else {
+//        updateOnline();
+//     }
+//     j += 1;
+//   }
+  setTimeout(updateUsersStatus, 1000);
 
 </script>
