@@ -7,9 +7,15 @@ The content on mlevn.org is served from the [github.com/MLEVN/mlevn.github.io](h
 *Read [about ML EVN](/about/) and [frequently asked questions](/faq/)*
 
 ## How to add and edit content
-GitHub Pages uses [**Markdown**](https://guides.github.com/features/mastering-markdown/), a lightweight and easy-to-use syntax for basic styling without using HTML.
+GitHub Pages uses [Markdown](https://guides.github.com/features/mastering-markdown/), a lightweight and easy-to-use syntax for basic styling without using HTML.  Markdown files end with `.md`.
 
-To add to or edit the content, just **create or edit a file** in the [github.com/MLEVN/mlevn.github.io](https://github.com/MLEVN/mlevn.github.io) repo and then [**create a pull request**](https://help.github.com/articles/creating-a-pull-request/).  You can also click *Edit on GitHub* at the bottom of any page. 
+To add to or edit the content, just create or edit a file in the [github.com/MLEVN/mlevn.github.io](https://github.com/MLEVN/mlevn.github.io) repo and then [create a pull request](https://help.github.com/articles/creating-a-pull-request/).
+
+For example, to add your company to the [*Companies*](/companies/) page, click *Edit on GitHub* at the bottom of the page, and click the <i class="fas fa-pencil-alt"></i> edit icon.  You should see:
+
+> You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
+
+Edit the text as you would like and then click *Preview changes* to see how it looks.  When you are happy with your edits, scroll down, add a helpful title and comment and click the *Propose changes* button.
 
 Once we accept the pull request your changes will appear on mlevn.org.
 
