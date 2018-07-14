@@ -2,10 +2,10 @@
 
 ML EVN is an open community.  We welcome your feedback, suggestions and contributions.
 
-The content on mlevn.org is served from [github.com/MLEVN/mlevn.github.io](https://github.com/MLEVN/mlevn.github.io) with [GitHub Pages](https://guides.github.com/features/pages/).  
+The content on mlevn.org is served from the [github.com/MLEVN/mlevn.github.io](https://github.com/MLEVN/mlevn.github.io) repo with [GitHub Pages](https://guides.github.com/features/pages/).  
 
 ## How to add and edit content
-You are welcome to add to or edit the content by editing a file on GitHub and then [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).  Once we accept the pull request your changes will appear on mlevn.org.
+You are welcome to add to or edit the content by editing a file in  the [github.com/MLEVN/mlevn.github.io](https://github.com/MLEVN/mlevn.github.io) repo and then [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).  Once we accept the pull request your changes will appear on mlevn.org.
 
 ## How to report issues
 You can also report backs, give feedback or suggest changes by [opening a Github issue](https://github.com/MLEVN/mlevn.github.io/issues/new).
