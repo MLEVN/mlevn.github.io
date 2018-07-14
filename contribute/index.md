@@ -20,9 +20,9 @@ To report bugs, give feedback or suggest changes, [open a Github issue](https://
 
 ## How to post to the community
 
-We use Reddit as the forum for our community.  In [r/MLEVN](https://reddit.com/r/mlevn) click [Submit a link](https://www.reddit.com/r/MLEVN/submit) (classic) or [Create post](https://new.reddit.com/r/MLEVN/submit) (new) to submit a link, media file or text.
+We use Reddit as the forum for our community.  In [/r/MLEVN](https://reddit.com/r/mlevn) click [Submit a link](https://www.reddit.com/r/MLEVN/submit) (classic) or [Create post](https://new.reddit.com/r/MLEVN/submit) (new) to submit a link, media file or text.
 
 After submitting a post you can flair it with the appropriate topic tags so that other members can easily find it in search results.
 
-Top posts to r/mlevn are automatically piped to our [Twitter page](https://twitter.com/ML_EVN) and [Facebook page](https://www.facebook.com/MLEVN.org/).  The title is copied verbatim, so if you use a URL or @username in the title it will be hyperlinked in the post on those platforms.
+Top posts to /r/MLEVN are automatically piped to our [Twitter page](https://twitter.com/ML_EVN) and [Facebook page](https://www.facebook.com/MLEVN.org/).  The title is copied verbatim, so if you use a URL or @username in the title it will be hyperlinked in the post on those platforms.
 
