@@ -16,7 +16,7 @@ Read more about [https://guides.github.com/features/issues/](GitHub issues].
 
 ## How to post to the community
 
-We use Reddit as the forum for our community.  In [r/MLEVN](https://reddit.com/r/mlevn) click [Submit a link](https://www.reddit.com/r/MLEVN/submit) (classic) or [Create post]([https://new.reddit.com/r/MLEVN/submit]) (new) to submit a link, media file or text.
+We use Reddit as the forum for our community.  In [r/MLEVN](https://reddit.com/r/mlevn) click [Submit a link](https://www.reddit.com/r/MLEVN/submit) (classic) or [Create post](https://new.reddit.com/r/MLEVN/submit) (new) to submit a link, media file or text.
 
 After submitting a post you can flair it with the appropriate topic tags so that other members can easily find it in search results.
 
