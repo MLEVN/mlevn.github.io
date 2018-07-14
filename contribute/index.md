@@ -7,12 +7,16 @@ The content on mlevn.org is served from the [github.com/MLEVN/mlevn.github.io](h
 *Read [about ML EVN](/about/) and [frequently asked questions](/faq/)*
 
 ## How to add and edit content
-You are welcome to add to or edit the content by editing a file in  the [github.com/MLEVN/mlevn.github.io](https://github.com/MLEVN/mlevn.github.io) repo and then [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).  Once we accept the pull request your changes will appear on mlevn.org.
+GitHub Pages uses [**Markdown**](https://guides.github.com/features/mastering-markdown/), a lightweight and easy-to-use syntax for basic styling without using HTML.
+
+To add to or edit the content, just **create or edit a file** in the [github.com/MLEVN/mlevn.github.io](https://github.com/MLEVN/mlevn.github.io) repo and then [**create a pull request**](https://help.github.com/articles/creating-a-pull-request/).  You can also click *Edit on GitHub* at the bottom of any page. 
+
+Once we accept the pull request your changes will appear on mlevn.org.
 
 ## How to report issues
-You can also report backs, give feedback or suggest changes by [opening a Github issue](https://github.com/MLEVN/mlevn.github.io/issues/new).
+To report bugs, give feedback or suggest changes, [open a Github issue](https://github.com/MLEVN/mlevn.github.io/issues/new)
 
-Read more about [GitHub issues](https://guides.github.com/features/issues/)
+*Read more about [GitHub issues](https://guides.github.com/features/issues/)*
 
 ## How to post to the community
 
