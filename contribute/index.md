@@ -12,7 +12,7 @@ You are welcome to add to or edit the content by editing a file in  the [github.
 ## How to report issues
 You can also report backs, give feedback or suggest changes by [opening a Github issue](https://github.com/MLEVN/mlevn.github.io/issues/new).
 
-Read more about [https://guides.github.com/features/issues/](GitHub issues].
+Read more about [https://guides.github.com/features/issues/](GitHub issues).
 
 ## How to post to the community
 
