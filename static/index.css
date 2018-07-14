@@ -161,6 +161,10 @@ p {
   color: lightgrey;
 }
 
+.edit > a {
+  padding: 1em;
+}
+
 .home_page {
   font-size: medium;
   color: #908e8e;
@@ -209,6 +213,10 @@ p {
   box-shadow: -1px -1px 14px #cccccc;
   -webkit-box-shadow: -1px -1px 14px #cccccc;
   -moz-box-shadow: -1px -1px 14px #cccccc;
+}
+
+.reddit_preview {
+  display: none;
 }
 
 @media only screen
