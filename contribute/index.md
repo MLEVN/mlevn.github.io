@@ -2,6 +2,8 @@
 
 ML EVN is an open community.  We welcome your feedback, suggestions and contributions.
 
+See also: [About ML EVN](/about/) and the [FAQ](/faq/)
+
 The content on mlevn.org is served from the [github.com/MLEVN/mlevn.github.io](https://github.com/MLEVN/mlevn.github.io) repo with [GitHub Pages](https://guides.github.com/features/pages/) and [Jekyll](https://help.github.com/articles/about-github-pages-and-jekyll/). 
 
 ## How to add and edit content
