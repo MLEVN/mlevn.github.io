@@ -15,7 +15,7 @@ For example, to add your company to the [*Companies*](/companies/) page, click *
 
 > You’re editing a file in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change to this file will write it to a new branch in your fork, so you can send a pull request.
 
-Edit the text as you would like and then click *Preview changes* to see how it looks.  When you are happy with your edits, scroll down, add a helpful title and comment and click the *Propose changes* button.
+Edit the text as you would like and then click *Preview changes* to see how it looks.  When you are happy with your edits, scroll down, add a helpful title and comment and click the *Propose changes* button to send the pull request.
 
 Once we accept the pull request your changes will appear on mlevn.org.
 
