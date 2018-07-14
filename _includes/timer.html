@@ -1,4 +1,4 @@
-<p >
+<p>
   <span id="signed_up"></span>
   <br><br>
   <span id="online"></span>
@@ -18,8 +18,8 @@
     const statusJson = "https://www.reddit.com/r/MLEVN/about.json"
     loadJson(statusJson).then(updateJson => {
       var data = updateJson.data || {}
-      document.getElementById('online').innerText = data.active_user_count || 0 + ' members'
-      document.getElementById('signed_up').innerText = data.subscribers || 0 + ' online now'
+      document.getElementById('online').innerText = (data.active_user_count || 0) + ' members'
+      document.getElementById('signed_up').innerText = (data.subscribers || 0) + ' online now'
     }) 
   }
   
@@ -48,6 +48,6 @@
 //     }
 //     j += 1;
 //   }
-  setTimeout(updateUsersStatus, 1000);
+  setTimeout(updateUsersStatus, 600);
 
 </script>
