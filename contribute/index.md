@@ -24,7 +24,7 @@ We use Reddit as the forum for our community.  In [/r/MLEVN](https://reddit.com/
 
 After submitting a post you can flair it with the appropriate topic tags so that other members can easily find it in search results.
 
-Text and comments on Reddit also suppot Markdown, like GitHub Pages.
+Text and comments on Reddit also support Markdown, like GitHub Pages.
 
 Top posts to /r/MLEVN are automatically piped to our [Twitter page](https://twitter.com/ML_EVN) and [Facebook page](https://www.facebook.com/MLEVN.org/).  The title is copied verbatim, so if you use a URL or @username in the title it will be hyperlinked in the post on those platforms.
 
