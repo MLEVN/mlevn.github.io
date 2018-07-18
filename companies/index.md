@@ -1,5 +1,5 @@
 ---
-excerpt: Facehub, Teamable, 2hz.ai, Intelinair, HiLearn, PicsArt, Datamotus, Aimhub, Wolfram, FimeTech, Chessify, WebbFontaine
+excerpt: Facehub, Teamable, 2hz.ai, Intelinair, Zero, HiLearn, PicsArt, Datamotus, Aimhub, Wolfram, FimeTech, Chessify, WebbFontaine
 ---
 
 # Companies
@@ -9,27 +9,40 @@ Crunchbase searches:
 [machine learning + yerevan / armenia](https://www.crunchbase.com/search/principals/529fe8082e93fe2d0fbc1461c77b52c377da61f0)
 
 ### Facehub
+[facehub.ai](https://facehub.ai/)
 
 ### Teamable
+[teamable.com](https://www.teamable.com/)
 
 ### 2hz.ai
+[2hz.ai](https://2hz.ai/)
 
 ### Intelinair
+[intelinair.com](https://www.intelinair.com/)
 
 ### HiLearn
+[hilearn.io](http://hilearn.io)
 
 ### PicsArt
+[picsart.com](https://picsart.com/)
 
 ### Datamotus
+[datamotus.com](http://datamotus.com/)
 
 ### Aimhub
+[aimhub.io](http://aimhub.io/)
 
-### Wolfram
+### Wolfram Research
+[wolfram.com](http://www.wolfram.com/)
 
 ### FimeTech
+[fimetech.com](http://fimetech.com/)
 
 ### Chessify
+[chessify.me](https://chessify.me/)
 
 ### WebbFontaine
+[webbfontaine.com](https://webbfontaine.com/)
 
 ### Zero
+[zeroapp.ai](https://www.zeroapp.ai/)
