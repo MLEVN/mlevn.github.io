@@ -207,13 +207,12 @@ p {
   position: relative;
   line-height: 1.2em;
   max-height: 2.4em;
-  text-align: justify;
   margin-right: -1em;
   padding-right: 1em;
 }
 
 .content_card > a > p:before {
-  content: '...';
+  content: '';
   position: absolute;
   right: 0;
   bottom: 0;
