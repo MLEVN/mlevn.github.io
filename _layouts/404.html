@@ -19,7 +19,7 @@
         } else {
           const flairs = parts[2].split('+').filter(f => f);
           const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
-          const url = 'https://www.reddit.com/r/' + sub + '/search?restrict_sr=on&q=' + query;
+          const url = 'https://www.reddit.com/r/' + sub + '/search?sort=new&restrict_sr=on&q=' + query;
           window.location.replace(url);
         }
         
