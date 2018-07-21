@@ -6,14 +6,9 @@
         if (parts.length > 2) {
           return; 
         }
-        const flairs = parts[1].split('+');
-        const q = [];
-        for (const f of flairs) {
-          if (f) {
-            q += [(encodeURIComponent('flair:' + f))];            
-          }
-        }
-        const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + q.join('+');
+        const flairs = parts[1].split('+').filter(f => f);
+        const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
+        const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query;
         window.location.replace(url);
       }
       search();
