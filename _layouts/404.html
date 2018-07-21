@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <script>
+      const flairs = window.location.pathname.split('/').filter(f => f);
+      const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
+      const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query;
+      window.location.replace(url);
+    </script>
+  </head>
+  <body>
+    
+  </body>
+</html>
