@@ -7,13 +7,13 @@
           return; 
         }
         const flairs = parts[1].split('+');
-        const query = [];
-        for (const flair of flairs) {
-          if (flair) {
+        const q = [];
+        for (const f of flairs) {
+          if (f) {
             query.append(encodeURIComponent('flair:' + f));            
           }
         }
-        const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query.join('+');
+        const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + q.join('+');
         window.location.replace(url);
       }
       search();
