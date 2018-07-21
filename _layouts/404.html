@@ -9,12 +9,11 @@
           return; 
         }
         
-        const paths = ['reddit', 'posts', 'topics', 'search', 'join']
-        if (!paths.includes(parts[1])) {
+        if (!['reddit', 'posts', 'topics', 'search', 'join'].includes(parts[1])) {
           return;
         }
         
-        if (parts.length == 2 || parts[2] == '') {
+        if (!parts[2]) {
            window.location.replace('https://www.reddit.com/r/MLEVN/');
         }
         
