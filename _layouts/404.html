@@ -9,16 +9,17 @@
           return; 
         }
         
-        if (!['reddit', 'posts', 'topics', 'search', 'join'].includes(parts[1])) {
+        if (!['reddit', 'posts', 'topics', 'search', 'join', 'jobs'].includes(parts[1])) {
           return;
         }
-        
+        const sub = parts[1] == 'jobs'? 'MLEVN_jobs' : 'MLEVN';
+
         if (!parts[2]) {
-           window.location.replace('https://www.reddit.com/r/MLEVN/');
+           window.location.replace('https://www.reddit.com/r/' + sub + '/');
         } else {
           const flairs = parts[2].split('+').filter(f => f);
           const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
-          const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query;
+          const url = 'https://www.reddit.com/r/' + sub + '/search?restrict_sr=on&q=' + query;
           window.location.replace(url);
         }
         
