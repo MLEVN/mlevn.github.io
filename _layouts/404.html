@@ -1,13 +1,25 @@
 <html>
   <head>
     <script>
-      const flairs = window.location.pathname.split('/').filter(f => f);
-      const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
-      const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query;
-      window.location.replace(url);
+      function search() {
+        const parts = window.location.pathname.split('/');
+        if (parts.length > 1) {
+          return; 
+        }
+        const flair = parts[1];
+        const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
+        const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query;
+        window.location.replace(url);
+      }
+      search();
     </script>
   </head>
   <body>
+    <h1>404</h1>
+    <p>Vay vay!  We couldn't find that file.</p>
     
+    <p>To search try...</p>
+    <p>To go to the homepage...</p>
+    <p>For help... GitHub issues</p>
   </body>
 </html>
