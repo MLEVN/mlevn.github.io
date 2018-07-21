@@ -1,8 +1,14 @@
 <html>
   <head>
     {% include search-redirect.html %}
+    <style>
+      body {
+        padding: 20%;
+        text-align: center;
+      }
+    </style>
   </head>
-  <body style="404">
+  <body>
     
     <h1>404</h1>
     
@@ -10,11 +16,15 @@
     
     <p>Vay vay!  We couldn't find that file.</p>
     
-    <p>To search try...</p>
+    <p>To go to the main page go to <a href="/">mlevn.org</a>.</p>
+
+    <p>To see all posts try <a href="/posts">mlevn.org/posts</a>.</p>
+      
+    <p>To search posts by flair add the flairs.  For example to search posts flaired <pre>vision</pre> and <pre>research</pre> try <a href="/posts">mlevn.org/posts/vision+research</a>.</p>
+
+    <p>If you think this is a bug, <a href="https://github.com/MLEVN/mlevn.github.io/issues">open a new issue on GitHub</a>.</p>
     
-    <p>To go to the homepage...</p>
-    
-    <p>For help... GitHub issues</p>
-    
+    <p>For help see <a href="/contribute/>How to Contribute</a>.</p>
+  
   </body>
 </html>
