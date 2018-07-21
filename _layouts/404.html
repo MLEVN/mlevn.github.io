@@ -10,7 +10,7 @@
         const q = [];
         for (const f of flairs) {
           if (f) {
-            q.append(encodeURIComponent('flair:' + f));            
+            q += [(encodeURIComponent('flair:' + f))];            
           }
         }
         const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + q.join('+');
