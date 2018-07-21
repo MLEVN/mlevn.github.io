@@ -15,15 +15,13 @@
         
         if (!parts[2]) {
            window.location.replace('https://www.reddit.com/r/MLEVN/');
+        } else {
+          const flairs = parts[2].split('+').filter(f => f);
+          const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
+          const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query;
+          window.location.replace(url);
         }
         
-        const flairs = parts[2].split('+').filter(f => f);
-        
-        const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
-        
-        const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query;
-        
-        window.location.replace(url);
       }
       search();
     </script>
