@@ -5,9 +5,13 @@
         
         const parts = window.location.pathname.split('/');
         
-        if (parts.length != 3 || parts[1] != 'posts') {
+        if (parts.length < 2 || parts.length > 3 || parts[1] != 'posts') {
           return; 
         }
+        if (parts.length == 2 || parts[2] == '') {
+           window.location.replace('https://www.reddit.com/r/MLEVN/');
+        }
+        
         const flairs = parts[2].split('+').filter(f => f);
         
         const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
