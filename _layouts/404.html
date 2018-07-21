@@ -5,11 +5,10 @@
         
         const parts = window.location.pathname.split('/');
         
-        if (parts.length > 2) {
+        if (parts.length != 3 || parts[1] != 'topics') {
           return; 
         }
-        
-        const flairs = parts[1].split('+').filter(f => f);
+        const flairs = parts[2].split('+').filter(f => f);
         
         const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
         
