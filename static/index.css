@@ -203,6 +203,30 @@ p {
 
 .content_card > a > p {
   margin-bottom: 0em; 
+  overflow: hidden;
+  position: relative;
+  line-height: 1.2em;
+  max-height: 2.4em;
+  text-align: justify;
+  margin-right: -1em;
+  padding-right: 1em;
+}
+
+.content_card > a > p:before {
+  content: '...';
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.content_card > a > p:after {
+  content: '';
+  position: absolute;
+  right: 0;
+  width: 1em;
+  height: 1em;
+  margin-top: 0.2em;
+  background: white;
 }
 
 .card_shadow {
