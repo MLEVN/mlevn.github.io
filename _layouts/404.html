@@ -3,12 +3,17 @@
     <script>
       function search() {
         const parts = window.location.pathname.split('/');
-        if (parts.length > 1) {
+        if (parts.length > 2) {
           return; 
         }
-        const flair = parts[1];
-        const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
-        const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query;
+        const flairs = parts[1].split('+');
+        const query = [];
+        for (const flair of flairs) {
+          if (flair) {
+            query.append(encodeURIComponent('flair:' + f));            
+          }
+        }
+        const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query.join('+');
         window.location.replace(url);
       }
       search();
