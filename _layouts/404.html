@@ -5,7 +5,7 @@
         
         const parts = window.location.pathname.split('/');
         
-        if (parts.length != 3 || parts[1] != 'topics') {
+        if (parts.length != 3 || parts[1] != 'posts') {
           return; 
         }
         const flairs = parts[2].split('+').filter(f => f);
