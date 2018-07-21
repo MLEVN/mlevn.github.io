@@ -2,13 +2,19 @@
   <head>
     <script>
       function search() {
+        
         const parts = window.location.pathname.split('/');
+        
         if (parts.length > 2) {
           return; 
         }
+        
         const flairs = parts[1].split('+').filter(f => f);
+        
         const query = flairs.map(f => encodeURIComponent('flair:' + f)).join('+');
+        
         const url = 'https://www.reddit.com/r/MLEVN/search?restrict_sr=on&q=' + query;
+        
         window.location.replace(url);
       }
       search();
