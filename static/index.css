@@ -7,6 +7,11 @@ body, html {
   color: #444;
 }
 
+.404 {
+  padding: 10%;
+  text-align: center;
+}
+
 h1, h2, h3, h4, h5 {
   font-weight: 400;
 }
