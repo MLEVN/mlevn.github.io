@@ -26,3 +26,10 @@ Attempt to confirm the results of the famous paper on "rethinking generalization
 
 [1] Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals, _Understanding deep learning requires rethinking generalization_, [https://arxiv.org/abs/1611.03530]
 
+
+## Test the quality of multilingual embeddings
+
+There are two known types of multilingual embeddings:
+* Unsupervised
+* Supervised
+TODO: add more details
