@@ -29,7 +29,15 @@ Attempt to confirm the results of the famous paper on "rethinking generalization
 
 ## Test the quality of multilingual embeddings
 
-There are two known types of multilingual embeddings:
-* Unsupervised
-* Supervised
-TODO: add more details
+There are two recent pretrained multilingual embeddings:
+* Unsupervised, based on Facebook's [MUSE](https://github.com/facebookresearch/MUSE)
+* Supervised using Google Translate API by [BabylonPartners](https://github.com/Babylonpartners/fastText_multilingual/blob/master/README.md)
+* There is an old blogpost about (possibly) more techniques by [Sebastian Ruder](http://ruder.io/cross-lingual-embeddings/).
+
+The task is to validate the quality of these embeddings for transfer learning. 
+* Take a famous academic dataset in English. Could be Amazon's reviews. Find a related dataset (with the same labels) in a different language
+* Train models on the English dataset using pure English vectors and different types of multilingual embeddings. See if multilingual embeddings are performing worse
+* Train and evaluate similar models on the (smaller) dataset in another language 
+* Evaluate English models with multilingual embeddings on the smaller dataset
+* Train on a combination of English dataset and the other one. Plot a chart of accuracy depending on the size of the second dataset.
+
