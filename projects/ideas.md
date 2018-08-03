@@ -41,3 +41,11 @@ The task is to validate the quality of these embeddings for transfer learning.
 * Evaluate English models with multilingual embeddings on the smaller dataset
 * Train on a combination of English dataset and the other one. Plot a chart of accuracy depending on the size of the second dataset.
 
+
+# Tasks related to MIMIC-III benchmarks
+The main repo of the benchmark: https://github.com/YerevaNN/mimic3-benchmarks
+
+## Implement more neural architectures for the benchmark
+* GRU-D, published in [Nature Scientific Reports](https://www.nature.com/articles/s41598-018-24271-9)
+* The network from Google's EHR paper from [Nature Digital Medicine](https://www.nature.com/articles/s41746-018-0029-1)
+  * It is not yet clear that this network is fully applicable to the benchmark, so some modifications might be required.
