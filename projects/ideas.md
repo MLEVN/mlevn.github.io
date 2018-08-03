@@ -62,7 +62,7 @@ The main repo of the benchmark: https://github.com/YerevaNN/mimic3-benchmarks
 * Train multiple models with different hyperparameters for adversarial training (noise levels etc.). Plot charts
 
 ## Adversarial reprogramming for the benchmark tasks
-There is an interesting [paper by Google Brain](https://arxiv.org/abs/1806.11146) team on adversarially reprogramming pretrained neural networks to perform a new task. The idea is demonstrated to reprogram ImageNet network to perform MNIST classification. So far, there is no evidence that it might work on recurrent networks.
+There is an interesting [paper by Google Brain](https://arxiv.org/abs/1806.11146) team on adversarially reprogramming pretrained neural networks to perform a new task. The idea is demonstrated to reprogram ImageNet network to perform MNIST classification. So far, there is no evidence that it might work on recurrent networks. This fact makes this task a risky one :)
 
 * Attempt to repeat the experiment on ImageNet to MNIST to understand the difficulty of the work
 * Attempt to reprogram phenotyping network for in-hospital mortality prediction
@@ -70,3 +70,15 @@ There is an interesting [paper by Google Brain](https://arxiv.org/abs/1806.11146
   * Add the "program" before/after the input (the results should be similar)
   * Add the "program" between the existing timesteps
 * (harder) attempt to do the same without fixing the input size!
+
+## Visualizing the neural models
+There are lots of papers on "visualizing and understanding" convolutional networks, mostly starting from [1]. In recent years a few similar papers appeared for RNNs, especially about sentiment analysis [2,3].
+* Read the papers, understand different methods
+  * Looks like that the methods used in [2] and [3] are different
+  * This can result in a great reading group meetup
+* Apply some of these techniques on the pretrained models
+
+[1] Karen Simonyan, Andrea Vedaldi, Andrew Zisserman, *Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps*, https://arxiv.org/abs/1312.6034
+[2] Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky, *Visualizing and Understanding Neural Models in NLP*, NAACL-HLT 2016, http://www.aclweb.org/anthology/N16-1082
+[3] Leila Arras, Gregoire Montavon, Klaus-Robert Muller, and Wojciech Samek, *Explaining Recurrent Neural Network Predictions in Sentiment Analysis*, 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, 2017, http://www.aclweb.org/anthology/W17-5221
+
