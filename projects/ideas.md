@@ -79,6 +79,15 @@ There are lots of papers on "visualizing and understanding" convolutional networ
 * Apply some of these techniques on the pretrained models
 
 [1] Karen Simonyan, Andrea Vedaldi, Andrew Zisserman, *Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps*, https://arxiv.org/abs/1312.6034
+
 [2] Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky, *Visualizing and Understanding Neural Models in NLP*, NAACL-HLT 2016, http://www.aclweb.org/anthology/N16-1082
+
 [3] Leila Arras, Gregoire Montavon, Klaus-Robert Muller, and Wojciech Samek, *Explaining Recurrent Neural Network Predictions in Sentiment Analysis*, 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, 2017, http://www.aclweb.org/anthology/W17-5221
 
+
+## Improve multitask learning
+It is generally a hard problem to determine weights for the tasks in the multitask training setting (TODO: any reference?). The experiments on MIMIC benchmarks showed that the networks overfit on some tasks earlier than on others.
+
+Is it possible to create an architecture that will automatically modify the weights during the training? Something similar to [1]... 
+
+[1] Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas, *Learning to learn by gradient descent by gradient descent*, 2016, https://arxiv.org/abs/1606.04474
