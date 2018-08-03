@@ -60,3 +60,13 @@ The main repo of the benchmark: https://github.com/YerevaNN/mimic3-benchmarks
   * Great starting point by Berkeley researchers published in [EMNLP 2017](http://aclweb.org/anthology/D17-1187). Code is on [Github](https://github.com/jxwuyi/AtNRE)
 * Implement adversarial training on the benchmarks
 * Train multiple models with different hyperparameters for adversarial training (noise levels etc.). Plot charts
+
+## Adversarial reprogramming for the benchmark tasks
+There is an interesting [paper by Google Brain](https://arxiv.org/abs/1806.11146) team on adversarially reprogramming pretrained neural networks to perform a new task. The idea is demonstrated to reprogram ImageNet network to perform MNIST classification. So far, there is no evidence that it might work on recurrent networks.
+
+* Attempt to repeat the experiment on ImageNet to MNIST to understand the difficulty of the work
+* Attempt to reprogram phenotyping network for in-hospital mortality prediction
+* Discuss different methods of modifying the input
+  * Add the "program" before/after the input (the results should be similar)
+  * Add the "program" between the existing timesteps
+* (harder) attempt to do the same without fixing the input size!
