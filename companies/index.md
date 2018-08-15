@@ -46,3 +46,6 @@ Crunchbase searches:
 
 ### Zero
 [zeroapp.ai](https://www.zeroapp.ai/)
+
+### Ngene
+[ngene.co](https://www.ngene.co/)
