@@ -72,7 +72,7 @@ There is an interesting [paper by Google Brain](https://arxiv.org/abs/1806.11146
 * (harder) attempt to do the same without fixing the input size!
 
 ## Visualizing the neural models
-There are lots of papers on "visualizing and understanding" convolutional networks, mostly starting from [1]. In recent years a few similar papers appeared for RNNs, especially about sentiment analysis [2,3].
+There are lots of papers on "visualizing and understanding" convolutional networks, mostly starting from [1]. In recent years a few similar papers appeared for RNNs, especially about sentiment analysis [2,3]. Another recent paper does similar things for RNNs running on EHR notes [4].
 * Read the papers, understand different methods
   * Looks like that the methods used in [2] and [3] are different
   * This can result in a great reading group meetup
@@ -83,6 +83,8 @@ There are lots of papers on "visualizing and understanding" convolutional networ
 [2] Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky, *Visualizing and Understanding Neural Models in NLP*, NAACL-HLT 2016, http://www.aclweb.org/anthology/N16-1082
 
 [3] Leila Arras, Gregoire Montavon, Klaus-Robert Muller, and Wojciech Samek, *Explaining Recurrent Neural Network Predictions in Sentiment Analysis*, 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, 2017, http://www.aclweb.org/anthology/W17-5221
+
+[4] Jingshu Liu, Zachariah Zhang, Narges Razavian, Deep EHR: Chronic Disease Prediction Using Medical Notes, https://arxiv.org/abs/1808.04928
 
 
 ## Improve multitask learning
