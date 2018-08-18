@@ -1,5 +1,19 @@
 # Tools and data for the Armenian language
 
+### Progress compared to other languages
+TODO: compare to English, Russian, Hebrew, Georgian
+
+### Raw corpora
+Unlabelled datasets.
+##### Text
+Wikipedia  
+TODO
+##### Image
+For optical character recognition  
+TODO
+##### Audio
+For speech recognition  
+TODO
 
 ### Word embeddings
 
@@ -33,6 +47,11 @@ TODO
 
 
 ### Speech synthesis
+
+TODO
+
+
+### Optical character recognition
 
 TODO
 
