@@ -3,6 +3,9 @@
 See also: [*Requests for Projects*](/rfp/), [NLP Progress](https://nlpprogress.com/), and [NLP Guide](https://nlpguide.github.io/)
 
 ### Progress compared to other languages
+
+(Eastern) Armenian is typically between language 50 and 100 for the top companies which launch products in many languages.
+
 TODO: compare to English, Russian, Hebrew, Georgian
 
 ### Raw corpora
