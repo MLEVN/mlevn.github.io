@@ -42,6 +42,16 @@ TODO
 Sentiment analysis: TODO
 
 
+### Spelling correction
+
+TODO
+
+
+### Grammar correction
+
+TODO
+
+
 ### Translation
 
 Parallel corpora: TODO
