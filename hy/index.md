@@ -10,7 +10,12 @@ Wikipedia: https://github.com/facebookresearch/fastText/blob/master/pretrained-v
 Common Crawl: https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md
 
 
-### Syntax parsing and part-of-speech tagging
+### Syntax parsing
+
+https://github.com/UniversalDependencies/UD_Armenian-ArmTDP
+
+
+### Part-of-speech tagging
 
 https://github.com/UniversalDependencies/UD_Armenian-ArmTDP
 
