@@ -1,6 +1,6 @@
 # Tools and data for the Armenian language
 
-See also: [ML EVN *Requests for Projects*](/rfp/), [NLP Progress](https://nlpprogress.com/), and [NLP Guide](https://nlpguide.github.io/)
+See also: [*Requests for Projects*](/rfp/), [NLP Progress](https://nlpprogress.com/), and [NLP Guide](https://nlpguide.github.io/)
 
 ### Progress compared to other languages
 TODO: compare to English, Russian, Hebrew, Georgian
