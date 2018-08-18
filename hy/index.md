@@ -4,7 +4,7 @@ See also: [*Requests for Projects*](/rfp/), [NLP Progress](https://nlpprogress.c
 
 ### Progress compared to other languages
 
-(Eastern) Armenian is typically between language 50 and 100 for the top companies which launch products in many languages.
+Eastern Armenian is typically between language 50 and 100 for the top companies which launch products in many languages.  Just like for many other languages, early technical challenges were often around encoding for non-ASCII characters, but Unicode has mostly solved that.
 
 TODO: compare to English, Russian, Hebrew, Georgian
 
