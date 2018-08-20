@@ -22,12 +22,10 @@ TODO
 
 ### Word embeddings
 
-fastText has trained embeddings for the top few hundred languages.
-
-Wikipedia: https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
-
-Common Crawl: https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md
-
+fastText has trained embeddings for the top few hundred languages, including Armenian, on 
+[Wikipedia](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
+and 
+[Common Crawl](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md).
 
 ### Syntax parsing
 
@@ -46,9 +44,9 @@ TODO
 
 ### Speech recognition
 
-There is proprietary dataset at UCom.
+There is proprietary dataset at UCom.  Google has a working system trained on search queries read aloud.
 
-TODO
+TODO: open dataset
 
 
 ### Speech synthesis
