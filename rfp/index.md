@@ -6,11 +6,11 @@ They could be realised as research, datasets, libraries, applications or product
 
 ## Language
 
+[projects built with or for the spaCy parser](https://spacy.io/universe/)
+
 ### For Armenian
 
 [*Tools and data for the Armenian language*](/hy/)
-
-[projects built with or for the spaCy parser](https://spacy.io/universe/)
 
 
 ## Vision
