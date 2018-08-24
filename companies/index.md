@@ -15,7 +15,7 @@ Crunchbase searches:
 ### Chessify
 [chessify.me](https://chessify.me/)
 ### Datamotus
-[datamotus.com](http://datamotus.com/)
+[datamotus.com](https://datamotus.com/)
 ### Develandoo
 [develandoo.com](https://develandoo.com/)
 ### Facehub
@@ -33,7 +33,7 @@ Crunchbase searches:
 ### WebbFontaine
 [webbfontaine.com](https://webbfontaine.com/)
 ### Wolfram Research
-[wolfram.com](http://www.wolfram.com/)
+[wolfram.com](https://www.wolfram.com/)
 ### Zero
 [zeroapp.ai](https://www.zeroapp.ai/)
 
