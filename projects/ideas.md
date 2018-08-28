@@ -72,6 +72,8 @@ There is an interesting [paper by Google Brain](https://arxiv.org/abs/1806.11146
 * (harder) attempt to do the same without fixing the input size!
 
 ## Visualizing the neural models
+_David Karamyan is working on this._
+
 There are lots of papers on "visualizing and understanding" convolutional networks, mostly starting from [1]. In recent years a few similar papers appeared for RNNs, especially about sentiment analysis [2,3]. Another recent paper does similar things for RNNs running on EHR notes [4].
 * Read the papers, understand different methods
   * Looks like that the methods used in [2] and [3] are different
