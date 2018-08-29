@@ -57,3 +57,6 @@ Machine Learning Masters
 Natural Language Processing course  
 [rau-nlp.github.io](https://rau-nlp.github.io/)
 
+### Machine Learning for Natural Language -  YSU Summer School
+[NLP Guide](https://nlpguide.github.io/)
+
