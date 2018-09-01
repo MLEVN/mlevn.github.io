@@ -33,7 +33,7 @@ Crunchbase searches:
 ### Snark
 [snark.ai](https://snark.ai/)
 ### SuperAnnotate AI
-[https://www.superannotate.ai/](superannotate.ai)
+[superannotate.ai](superannotate.ai)
 ### Teamable
 [teamable.com](https://www.teamable.com/)
 ### WebbFontaine
