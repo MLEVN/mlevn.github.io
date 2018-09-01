@@ -11,7 +11,7 @@ machine learning research lab
 [yerevann.com](http://yerevann.com/)
 
 ### Gate 42
-quantum computing research lab  
+quantum computing research group  
 [gate42.org](https://www.gate42.org/)
 
 ### Machine Learning Reading Group Yerevan
