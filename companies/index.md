@@ -26,8 +26,14 @@ Crunchbase searches:
 [hilearn.io](http://hilearn.io)
 ### Intelinair
 [intelinair.com](https://www.intelinair.com/)
+### Ngene
+[ngene.co](https://www.ngene.co/)
 ### PicsArt
 [picsart.com](https://picsart.com/)
+### Snark
+[snark.ai](https://snark.ai/)
+### SuperAnnotate AI
+[https://www.superannotate.ai/](superannotate.ai)
 ### Teamable
 [teamable.com](https://www.teamable.com/)
 ### WebbFontaine
@@ -36,6 +42,3 @@ Crunchbase searches:
 [wolfram.com](https://www.wolfram.com/)
 ### Zero
 [zeroapp.ai](https://www.zeroapp.ai/)
-
-### Ngene
-[ngene.co](https://www.ngene.co/)
