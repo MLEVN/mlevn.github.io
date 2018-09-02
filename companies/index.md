@@ -28,6 +28,8 @@ Crunchbase searches:
 [hilearn.io](http://hilearn.io)
 ### Intelinair
 [intelinair.com](https://www.intelinair.com/)
+### krisp
+[krisp.ai](https://krisp.ai)
 ### Ngene
 [ngene.co](https://www.ngene.co/)
 ### PicsArt
