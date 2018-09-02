@@ -1,10 +1,16 @@
 ---
-excerpt: Materials Discovery from Natural Language, BarCamp EVN, NSF-FAST, AUA Data Science, Wolfram
+excerpt: Machine Learning Summer School, Materials Discovery from Natural Language, BarCamp EVN, NSF-FAST, AUA Data Science, Wolfram
 ---
 
 # Events
 
+See also: [facebook.com/MLEVN.org/events](https://www.facebook.com/MLEVN.org/events/)
+
 ## 2018
+
+### YSU-ISTC Joint Summer School on Machine Learning 2018
+The [5th summer school on mathematics and applications](http://mathschool.ysu.am/mss2018/) was held in August with lecturers 
+Shai Ben-David from the University of Waterloo, Robert M. Gower from Telecom-Paristech, Julien Mairal from Inria Grenoble, Dmitry Vetrov from the Higher School of Economics, Arnak Dalalyan from ENSAE / CREST, Adam Bittlingmayer, founder of Signal N, and Erik Arakelyan, a machine learning engineer at Teamable.
 
 ### Materials Discovery from Natural Language - Vahe Tshitoyan
 
