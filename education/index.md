@@ -63,7 +63,7 @@ Natural Language Processing course
 
 ### ISTC - YSU Mathematics Summer School
 Machine Learning for Natural Language Processing  
-(deeplanguageclass.github.io)[https://deeplanguageclass.github.io]
+[deeplanguageclass.github.io](https://deeplanguageclass.github.io)
 
 ### ML EVN
 [r/MLEVN flair:education](https://www.reddit.com/r/MLEVN/search?q=flair%3Aeducation&sort=new&restrict_sr=on)
