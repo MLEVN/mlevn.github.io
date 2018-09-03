@@ -41,6 +41,8 @@ Industry and other institutions also offer private and public courses in machine
 ### ISTC
 #### Machine Learning for Applied Solutions  
 [education.istc.am/Coding/?p=1545](http://education.istc.am/Coding/?p=1545)
+#### Joint Summer School on Machine Learning - YSU
+[Machine Learning for Natural Language Processing](https://deeplanguageclass.github.io/)
 
 ### SmartGate ML
 [smartgate.ml](https://www.smartgate.ml/)
@@ -48,6 +50,7 @@ Industry and other institutions also offer private and public courses in machine
 [smartgate.ml/intro-to-machine-learning](https://www.smartgate.ml/intro-to-machine-learning)
 #### Applied Machine Learning  
 [smartgate.ml/applied-machine-learning](https://www.smartgate.ml/applied-machine-learning)
+
 
 
 ## Learning Materials
