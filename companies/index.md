@@ -32,6 +32,8 @@ Crunchbase searches:
 [ngene.co](https://www.ngene.co/)
 ### PicsArt
 [picsart.com](https://picsart.com/)
+### Pixomatic
+[pixomatic.us](https://pixomatic.us)
 ### Snark
 [snark.ai](https://snark.ai/)
 ### SuperAnnotate AI
