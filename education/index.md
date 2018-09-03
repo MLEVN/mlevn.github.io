@@ -25,6 +25,10 @@ Russian-Armenian University
 Machine Learning Masters  
 [rau.am/.../masters-in-machine-learning](https://international.rau.am/eng/25/masters-in-machine-learning)
 
+### YSU-ISTC Joint Summer School on Machine Learning
+[5th Mathematics Summer School - YSU–ISTC Joint Summer School on Machine Learning]  
+[mathschool.ysu.am/mss2018](http://mathschool.ysu.am/mss2018/)
+
 
 ## Courses
 
@@ -57,3 +61,9 @@ Machine Learning Masters
 Natural Language Processing course  
 [rau-nlp.github.io](https://rau-nlp.github.io/)
 
+### ISTC - YSU Mathematics Summer School
+Machine Learning for Natural Language Processing  
+(deeplanguageclass.github.io)[https://deeplanguageclass.github.io]
+
+### ML EVN
+[r/MLEVN flair:education](https://www.reddit.com/r/MLEVN/search?q=flair%3Aeducation&sort=new&restrict_sr=on)
