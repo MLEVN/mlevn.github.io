@@ -43,6 +43,18 @@ The task is to validate the quality of these embeddings for transfer learning.
 * Train on a combination of English dataset and the other one. Plot a chart of accuracy depending on the size of the second dataset.
 
 
+## Test connectivity of local minima in neural networks trained on NLP tasks
+
+There is a recent paper [1] by Vetrov's team that shows the following. If one trains a deep neural net (e.g. ResNet) on ImageNet and finds two local minima A and B (with different weight initializations), then there exists a point C in the space of weights such that the loss function is almost constant along the straight lines AC and BC. This has not been tested yet on NLP tasks. 
+
+* Take one or two popular NLP datasets
+* Train several popular neural models (both CNN and LSTM based) with few random initializations
+* Use the algorithms described in [1] to find the "C" points
+* Draw pictures like Figure 1 of [1]
+* (harder) Understand the number of possible C points for each A/B pair
+
+[1] Timur Garipov, Pavel Izmailov, Dmitrii Podoprikhin, Dmitry Vetrov, Andrew Gordon Wilson, _Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs_, https://arxiv.org/abs/1802.10026
+
 
 
 # Tasks related to MIMIC-III benchmarks
