@@ -1,4 +1,5 @@
 ## Neuron deletion for sentence classification
+_Victoria Poghosyan is working on this._
 
 There is a paper by Deepmind [1] about the stability of a trained large ConvNet when removing some of its neurons (Fig. 1). 
 They also showed that there is a correlation between generalization and robustness (Fig. 3b).
