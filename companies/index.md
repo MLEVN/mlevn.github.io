@@ -20,6 +20,8 @@ Crunchbase searches:
 [datamotus.com](https://datamotus.com/)
 ### Develandoo
 [develandoo.com](https://develandoo.com/)
+### Disqo
+[disqo.com](https://disqo.com/)
 ### Facehub
 [facehub.ai](https://facehub.ai/)
 ### FimeTech
