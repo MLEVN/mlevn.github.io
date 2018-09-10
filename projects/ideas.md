@@ -17,6 +17,7 @@ They also showed that there is a correlation between generalization and robustne
 
 
 ## Overfitting ability of recurrent networks
+_Tatev Mejunts is working on this_
 
 Attempt to confirm the results of the famous paper on "rethinking generalization" [1] for recurrent networks
 
@@ -75,7 +76,7 @@ The main repo of the benchmark: https://github.com/YerevaNN/mimic3-benchmarks
 * Train multiple models with different hyperparameters for adversarial training (noise levels etc.). Plot charts
 
 ## Adversarial reprogramming for the benchmark tasks
-There is an interesting [paper by Google Brain](https://arxiv.org/abs/1806.11146) team on adversarially reprogramming pretrained neural networks to perform a new task. The idea is demonstrated to reprogram ImageNet network to perform MNIST classification. So far, there is no evidence that it might work on recurrent networks. This fact makes this task a risky one :)
+There is an interesting [paper by Google Brain](https://arxiv.org/abs/1806.11146) team on adversarially reprogramming pretrained neural networks to perform a new task. The idea is demonstrated to reprogram ImageNet network to perform MNIST classification. ~~So far, there is no evidence that it might work on recurrent networks. This fact makes this task a risky one :)~~ [A paper from UC San Diego](https://arxiv.org/abs/1809.01829) applied the technique for text classification tasks based on LSTMs and CNNs  
 
 * Attempt to repeat the experiment on ImageNet to MNIST to understand the difficulty of the work
 * Attempt to reprogram phenotyping network for in-hospital mortality prediction
