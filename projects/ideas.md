@@ -45,6 +45,7 @@ The task is to validate the quality of these embeddings for transfer learning.
 
 
 ## Test connectivity of local minima in neural networks trained on NLP tasks
+_Hakob Tamazyan is working on this._
 
 There is a recent paper [1] by Vetrov's team that shows the following. If one trains a deep neural net (e.g. ResNet) on ImageNet and finds two local minima A and B (with different weight initializations), then there exists a point C in the space of weights such that the loss function is almost constant along the straight lines AC and BC. This has not been tested yet on NLP tasks. 
 
