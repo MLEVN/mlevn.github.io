@@ -13,7 +13,7 @@ They also showed that there is a correlation between generalization and robustne
 * (harder) Generate Figure 1 _with_ label noise. Requires proof that the network will still be able to overfit (see the task _"Overfitting ability of recurrent networks"_)
 
 [1] Ari S. Morcos, David G.T. Barrett, Neil C. Rabinowitz, Matthew Botvinick, _On the importance of single directions for generalization_,
-[https://arxiv.org/abs/1803.06959]
+[arXiv](https://arxiv.org/abs/1803.06959)
 
 
 ## Overfitting ability of recurrent networks
@@ -26,7 +26,7 @@ Attempt to confirm the results of the famous paper on "rethinking generalization
 * Generate Figure 1 from the paper
 * Think about the effect of regularization (augmentation, dropout, etc.)
 
-[1] Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals, _Understanding deep learning requires rethinking generalization_, [https://arxiv.org/abs/1611.03530]
+[1] Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals, _Understanding deep learning requires rethinking generalization_, [arXiv](https://arxiv.org/abs/1611.03530)
 
 
 ## Test the quality of multilingual embeddings
@@ -55,7 +55,7 @@ There is a recent paper [1] by Vetrov's team that shows the following. If one tr
 * Draw pictures like Figure 1 of [1]
 * (harder) Understand the number of possible C points for each A/B pair
 
-[1] Timur Garipov, Pavel Izmailov, Dmitrii Podoprikhin, Dmitry Vetrov, Andrew Gordon Wilson, _Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs_, https://arxiv.org/abs/1802.10026
+[1] Timur Garipov, Pavel Izmailov, Dmitrii Podoprikhin, Dmitry Vetrov, Andrew Gordon Wilson, _Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs_, [arXiv](https://arxiv.org/abs/1802.10026)
 
 
 
@@ -95,13 +95,13 @@ There are lots of papers on "visualizing and understanding" convolutional networ
   * This can result in a great reading group meetup
 * Apply some of these techniques on the pretrained models
 
-[1] Karen Simonyan, Andrea Vedaldi, Andrew Zisserman, *Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps*, https://arxiv.org/abs/1312.6034
+[1] Karen Simonyan, Andrea Vedaldi, Andrew Zisserman, *Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps*, [arXiv](https://arxiv.org/abs/1312.6034)
 
-[2] Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky, *Visualizing and Understanding Neural Models in NLP*, NAACL-HLT 2016, http://www.aclweb.org/anthology/N16-1082
+[2] Jiwei Li, Xinlei Chen, Eduard Hovy and Dan Jurafsky, *Visualizing and Understanding Neural Models in NLP*, NAACL-HLT 2016, [ACLWEB](http://www.aclweb.org/anthology/N16-1082)
 
-[3] Leila Arras, Gregoire Montavon, Klaus-Robert Muller, and Wojciech Samek, *Explaining Recurrent Neural Network Predictions in Sentiment Analysis*, 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, 2017, http://www.aclweb.org/anthology/W17-5221
+[3] Leila Arras, Gregoire Montavon, Klaus-Robert Muller, and Wojciech Samek, *Explaining Recurrent Neural Network Predictions in Sentiment Analysis*, 8th Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis, 2017, [ACLWEB](http://www.aclweb.org/anthology/W17-5221)
 
-[4] Jingshu Liu, Zachariah Zhang, Narges Razavian, Deep EHR: Chronic Disease Prediction Using Medical Notes, https://arxiv.org/abs/1808.04928
+[4] Jingshu Liu, Zachariah Zhang, Narges Razavian, Deep EHR: Chronic Disease Prediction Using Medical Notes, [arXiv](https://arxiv.org/abs/1808.04928)
 
 
 ## Improve multitask learning
@@ -109,4 +109,4 @@ It is generally a hard problem to determine weights for the tasks in the multita
 
 Is it possible to create an architecture that will automatically modify the weights during the training? Something similar to [1]... 
 
-[1] Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas, *Learning to learn by gradient descent by gradient descent*, 2016, https://arxiv.org/abs/1606.04474
+[1] Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas, *Learning to learn by gradient descent by gradient descent*, 2016, [arXiv](https://arxiv.org/abs/1606.04474)
