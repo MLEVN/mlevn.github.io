@@ -4,11 +4,7 @@ _Victoria Poghosyan is working on this._
 There is a paper by Deepmind [1] about the stability of a trained large ConvNet when removing some of its neurons (Fig. 1). 
 They also showed that there is a correlation between generalization and robustness (Fig. 3b).
 
-* Choose a non-image-classification task, train a few (different) types of networks. Could be one academic task + one task from industry
-  * Sentence classification task, e.g. [sentiment analysis](http://nlpprogress.com/sentiment_analysis.html)
-  * Image segmentation task
-  * Speech synthesis, e.g. [char2wav](http://josesotelo.com/speechsynthesis/) or [VoiceLoop](https://research.fb.com/downloads/voiceloop/)
-  * [Speech recognition](https://github.com/syhw/wer_are_we), e.g. [wav2letter](https://github.com/facebookresearch/wav2letter) (has pretrained models)
+* Choose a [non-image-classification task](#a-short-list-of-non-image-classification-tasks), train a few (different) types of networks. Could be one academic task + one task from industry
 * Generate Figure 1 for these networks (without label noise) 
 * Generate Figure 3b for these networks, look for clusters
 * Investigate if robustness can be used as an early stopping signal (Figure 4)
@@ -25,7 +21,7 @@ _Tatev Mejunts is working on this_
 
 Attempt to confirm the results of the famous paper on "rethinking generalization" [1] for recurrent networks
 
-* Choose the tasks. Could be something from NLP or EHR (MIMIC-III)
+* Choose a [non-image-classification task](#a-short-list-of-non-image-classification-tasks)
 * Think about the equivalents of _random pixels_ and _shuffled pixels_ for the selected tasks
 * Generate Figure 1 from the paper
 * Think about the effect of regularization (augmentation, dropout, etc.)
@@ -53,7 +49,7 @@ _Hakob Tamazyan is working on this._
 
 There is a recent paper [1] by Vetrov's team that shows the following. If one trains a deep neural net (e.g. ResNet) on ImageNet and finds two local minima A and B (with different weight initializations), then there exists a point C in the space of weights such that the loss function is almost constant along the straight lines AC and BC. This has not been tested yet on NLP tasks. 
 
-* Take one or two popular NLP datasets
+* Take one or two popular NLP datasets, e.g. from [this list](#a-short-list-of-non-image-classification-tasks)
 * Train several popular neural models (both CNN and LSTM based) with few random initializations
 * Use the algorithms described in [1] to find the "C" points
 * Draw pictures like Figure 1 of [1]
@@ -114,3 +110,12 @@ It is generally a hard problem to determine weights for the tasks in the multita
 Is it possible to create an architecture that will automatically modify the weights during the training? Something similar to [1]... 
 
 [1] Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas, *Learning to learn by gradient descent by gradient descent*, 2016, [arXiv](https://arxiv.org/abs/1606.04474)
+
+
+# A short list of non-image-classification tasks
+* Sentence classification, e.g. [sentiment analysis](http://nlpprogress.com/sentiment_analysis.html)
+* Sequence tagging, e.g. POS tagging. [BiLSTM-CNN-CRF by UKPLab](https://github.com/UKPLab/emnlp2017-bilstm-cnn-crf)
+* Image segmentation
+* Speech synthesis, e.g. [char2wav](http://josesotelo.com/speechsynthesis/) or [VoiceLoop](https://research.fb.com/downloads/voiceloop/)
+* [Speech recognition](https://github.com/syhw/wer_are_we), e.g. [wav2letter](https://github.com/facebookresearch/wav2letter) (has pretrained models)
+* Time-series prediction for Electronic Health Records, e.g. [MIMIC-III benchmarks](https://github.com/YerevaNN/mimic3-benchmarks)
