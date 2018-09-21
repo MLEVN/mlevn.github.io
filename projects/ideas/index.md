@@ -1,3 +1,5 @@
+# Project Ideas from MLEVN
+
 ## Neuron deletion vs generalization for other tasks
 _Victoria Poghosyan is working on this._
 
