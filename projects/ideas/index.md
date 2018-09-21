@@ -1,10 +1,14 @@
-## Neuron deletion for sentence classification
+## Neuron deletion vs generalization for other tasks
 _Victoria Poghosyan is working on this._
 
 There is a paper by Deepmind [1] about the stability of a trained large ConvNet when removing some of its neurons (Fig. 1). 
 They also showed that there is a correlation between generalization and robustness (Fig. 3b).
 
-* Choose a sentence classification task, train a few (different) types of networks. Could be one academic task + one task from industry
+* Choose a non-image-classification task, train a few (different) types of networks. Could be one academic task + one task from industry
+  * Sentence classification task, e.g. [sentiment analysis](http://nlpprogress.com/sentiment_analysis.html)
+  * Image segmentation task
+  * Speech synthesis, e.g. [char2wav](http://josesotelo.com/speechsynthesis/) or [VoiceLoop](https://research.fb.com/downloads/voiceloop/)
+  * [Speech recognition](https://github.com/syhw/wer_are_we), e.g. [wav2letter](https://github.com/facebookresearch/wav2letter) (has pretrained models)
 * Generate Figure 1 for these networks (without label noise) 
 * Generate Figure 3b for these networks, look for clusters
 * Investigate if robustness can be used as an early stopping signal (Figure 4)
