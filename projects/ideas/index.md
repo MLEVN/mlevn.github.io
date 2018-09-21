@@ -1,4 +1,5 @@
 # Project Ideas from MLEVN
+If you are interested in working on any of the listed projects, please open [an issue on Github](https://github.com/MLEVN/mlevn.github.io/issues) to track the progress.
 
 ## Neuron deletion vs generalization for other tasks
 _Victoria Poghosyan is working on this._
