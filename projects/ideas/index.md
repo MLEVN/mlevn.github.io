@@ -63,7 +63,7 @@ There is a recent paper [1] by Vetrov's team that shows the following. If one tr
 
 
 # Tasks related to MIMIC-III benchmarks
-The main repo of the benchmark: https://github.com/YerevaNN/mimic3-benchmarks
+The main repo of the benchmark: [YerevaNN/mimic3-benchmarks](https://github.com/YerevaNN/mimic3-benchmarks)
 
 
 ## Implement more neural architectures for the benchmark
