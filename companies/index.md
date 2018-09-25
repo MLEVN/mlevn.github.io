@@ -40,7 +40,7 @@ Crunchbase searches:
 [picsart.com](https://picsart.com/)
 ### Pixomatic
 [pixomatic.us](https://pixomatic.us)
-### Scam AI
+### scam.ai
 [scam.ai](https://scam.ai/)
 ### Snark
 [snark.ai](https://snark.ai/)
