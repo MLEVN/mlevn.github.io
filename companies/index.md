@@ -14,6 +14,8 @@ Crunchbase searches:
 [2hz.ai](https://2hz.ai/)
 ### Aimhub
 [aimhub.io](http://aimhub.io/)
+### BetConstruct
+[betconstruct.com](https://www.betconstruct.com/)
 ### Chessify
 [chessify.me](https://chessify.me/)
 ### Datamotus
@@ -38,6 +40,8 @@ Crunchbase searches:
 [picsart.com](https://picsart.com/)
 ### Pixomatic
 [pixomatic.us](https://pixomatic.us)
+### Scam AI
+[scam.ai](https://scam.ai/)
 ### Snark
 [snark.ai](https://snark.ai/)
 ### SuperAnnotate AI
