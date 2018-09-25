@@ -45,7 +45,7 @@ Crunchbase searches:
 ### Snark
 [snark.ai](https://snark.ai/)
 ### SuperAnnotate AI
-[superannotate.ai](superannotate.ai)
+[superannotate.ai](https://www.superannotate.ai)
 ### Teamable
 [teamable.com](https://www.teamable.com/)
 ### UCom
