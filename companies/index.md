@@ -42,6 +42,8 @@ Crunchbase searches:
 [pixomatic.us](https://pixomatic.us)
 ### scam.ai
 [scam.ai](https://scam.ai/)
+### SmartClick AI
+[smartclick.ai](https://smartclick.ai/)
 ### Snark
 [snark.ai](https://snark.ai/)
 ### SuperAnnotate AI
