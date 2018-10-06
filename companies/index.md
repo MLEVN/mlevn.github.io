@@ -12,6 +12,8 @@ Crunchbase searches:
 
 ### 2hz.ai
 [2hz.ai](https://2hz.ai/)
+### ABBYY
+[abbyy.com](http://abbyy.com/)
 ### Aimhub
 [aimhub.io](http://aimhub.io/)
 ### BetConstruct
