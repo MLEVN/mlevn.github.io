@@ -20,6 +20,8 @@ Crunchbase searches:
 [betconstruct.com](https://www.betconstruct.com/)
 ### Chessify
 [chessify.me](https://chessify.me/)
+### Cognituum AGI
+[cognituum.com](https://cognituum.com)
 ### Datamotus
 [datamotus.com](https://datamotus.com/)
 ### Develandoo
@@ -62,3 +64,4 @@ Crunchbase searches:
 [wolfram.com](https://www.wolfram.com/)
 ### Zero
 [zeroapp.ai](https://www.zeroapp.ai/)
+
