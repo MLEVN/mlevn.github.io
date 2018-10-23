@@ -39,7 +39,7 @@ https://github.com/UniversalDependencies/UD_Armenian-ArmTDP
 
 ### Named-entity recognition
 
-TODO
+https://github.com/ispras-texterra/pioner
 
 
 ### Speech recognition
