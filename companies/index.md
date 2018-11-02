@@ -34,7 +34,7 @@ Crunchbase searches:
 [fimetech.com](http://fimetech.com/)
 ### HiLearn
 [hilearn.io](http://hilearn.io)
-### IMPROVIS
+### Improvis
 []()
 ### Intelinair
 [intelinair.com](https://www.intelinair.com/)
