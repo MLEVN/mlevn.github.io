@@ -287,6 +287,9 @@ p {
 
   .content_container > div {
     display: grid;
-    line-height: 1.7
+  }
+    
+  .content_container p {
+    line-height: 1.7em;
   }
 }
