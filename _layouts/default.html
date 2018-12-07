@@ -19,11 +19,11 @@
         <a href="/"><img src="/static/logo.png" alt="{{ site.title }}" /></a>
       </div>
       {{ content }}
-    </div>    
-    
-{% if page.comments %} 
-    {% include disqus.html %}
-{% endif %}
+      
+      {% if page.comments %} 
+          {% include disqus.html %}
+      {% endif %}
+    </div>
     
     <div class="footer_container">
       <p class="edit">
