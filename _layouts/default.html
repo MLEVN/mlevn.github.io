@@ -21,6 +21,10 @@
       {{ content }}
     </div>    
     
+{% if page.comments %} 
+    {% include disqus.html %}
+{% endif %}
+    
     <div class="footer_container">
       <p class="edit">
         Want to add to or update <strong>{{ page.title }}</strong>?
