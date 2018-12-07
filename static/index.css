@@ -31,6 +31,10 @@ p {
   margin-bottom: 2em;
 }
 
+.content_container p {
+  line-height: 1.7em;
+}
+
 .bgimg {
   background: url(/static/evn-ml-light.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -287,9 +291,5 @@ p {
 
   .content_container > div {
     display: grid;
-  }
-    
-  .content_container p {
-    line-height: 1.7em;
   }
 }
