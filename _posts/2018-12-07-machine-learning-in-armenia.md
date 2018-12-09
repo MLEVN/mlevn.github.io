@@ -1,5 +1,6 @@
 ---
 title: Մեքենայական ուսուցումն ու Հայաստանը 2019-ի նախաշեմին
+image: static/vayots-sar.jpg
 comments: true
 ---
 
