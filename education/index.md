@@ -67,3 +67,13 @@ Machine Learning for Natural Language Processing
 
 ### ML EVN
 [r/MLEVN flair:education](https://www.reddit.com/r/MLEVN/search?q=flair%3Aeducation&sort=new&restrict_sr=on)
+
+
+## Summer schools to consider
+
+### [9th Lisbon Machine Learning School](http://lxmls.it.pt/2019/)
+* Dates: July 11 - July 18
+* Application deadline: March 31
+* It is about general machine learning with some focus on NLP
+* Co-organized by universities and startups from Portugal
+
