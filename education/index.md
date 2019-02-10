@@ -108,7 +108,7 @@ Machine Learning for Natural Language Processing
 * Organized by professors from University of Catania and University of Cambridge
 * Location: Sicily, Italy
 
-### Data Science Summer School at American University of Armenia
+### [Data Science Summer School at American University of Armenia](https://dssummer.aua.am/)
 * Dates: July 1 - July 14, 2019
 * Application deadline: **May 10**
 * Location: Yerevan, Armenia
