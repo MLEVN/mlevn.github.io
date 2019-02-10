@@ -110,7 +110,9 @@ Machine Learning for Natural Language Processing
 
 ### Data Science Summer School at American University of Armenia
 * Dates: July 1 - July 14, 2019
-* More information will be available later
+* Application deadline: **May 10**
+* Location: Yerevan, Armenia
+* [Link to announcement](https://newsroom.aua.am/2019/01/29/aua-launches-the-first-data-science-summer-school-in-july-2019/)
 
 ### Past
 
