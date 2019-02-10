@@ -70,10 +70,46 @@ Machine Learning for Natural Language Processing
 
 
 ## Summer Schools
+(ordered by application deadline)
+
+### [Deep Learning and Reinforcement Learning Summer School 2019](https://dlrlsummerschool.ca/)
+* Dates: July 24 – August 2, 2019
+* Application deadline: **February 15**
+* Covers deep learning and reinforcement learning. Basic knowledge of machine learning is expected
+* Richard Sutton, Yoshua Bengio, Hugo Larochelle are among the [speakers](https://dlrlsummerschool.ca/confirmed-speakers/) 
+* Co-organized by CIFAR, Alberta Machine Intelligence Institute, with support from MILA and Vector Institute
+* Location: Alberta, Canada
+
+### [2nd Conversational Intelligence Summer School](http://ciss.deephack.me/)
+* Dates: June 24 - June 29, 2019
+* Participants are selected during a **qualification round**, which starts on **February 25**
+* Covers deep learning in NLP and is focused on building conversational agents (aka chatbots). Participants will work on projects in teams
+* Jason Weston and Alexander Rush are among the speakers
+* Co-organized by Anna Rumshisky from University of Massachusetts Lowell and Mikhail Burtsev from Neural Networks and Deep Learning Lab, Moscow Institute of Physics and Technology
+* Location: Lowell, Massachusetts, USA
+
+### [Eastern European Machine Learning Summer School](https://www.eeml.eu/)
+* Dates: July 1 - July 6, 2019
+* Application deadline: **March 29**
+* Covers deep learning and reinforcement learning
+* Andrew Zisserman, Antoine Bordes, Dmitry Vetrov and Doina Precup are among the speakers
+* Co-organized by Politehnica University of Bucharest and DeepMind
+* Location: Bucharest, Romania
 
 ### [9th Lisbon Machine Learning School](http://lxmls.it.pt/2019/)
-* Dates: July 11 - July 18
-* Application deadline: March 31
+* Dates: July 11 - July 18, 2019
+* Application deadline: **March 31**
 * It is about general machine learning with some focus on NLP
+* Chris Dyer, Kyunghyun Cho, Yoav Goldberg are among the [speakers](http://lxmls.it.pt/2019/?page_id=30)
 * Co-organized by universities and startups from Portugal
+* Location: Lisbon, Portugal
+
+### [International Computer Vision Summer School](http://iplab.dmi.unict.it/icvss2018/)
+* Dates: July 7 - July 13, 2019
+* Application deadline: **March 31**
+* Will cover theory and practice in modern computer vision
+* Stefano Soatto is among the speakers
+* Organized by professors from University of Catania and University of Cambridge
+* Location: Sicily, Italy
+
 
