@@ -4,7 +4,7 @@ excerpt: Universities, courses, and learning materials
 
 # Education
 
-[Universities](#universities) \| [Courses](#courses) \| [Learning materials](#learning-materials)
+[Universities](#universities) \| [Courses](#courses) \| [Learning materials](#learning-materials) \| [Summer schools](#summer-schools)
 
 
 ## Universities
@@ -69,7 +69,7 @@ Machine Learning for Natural Language Processing
 [r/MLEVN flair:education](https://www.reddit.com/r/MLEVN/search?q=flair%3Aeducation&sort=new&restrict_sr=on)
 
 
-## Summer schools to consider
+## Summer Schools
 
 ### [9th Lisbon Machine Learning School](http://lxmls.it.pt/2019/)
 * Dates: July 11 - July 18
