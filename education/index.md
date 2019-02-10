@@ -25,10 +25,6 @@ Russian-Armenian University
 Machine Learning Masters  
 [rau.am/.../masters-in-machine-learning](https://international.rau.am/eng/25/masters-in-machine-learning)
 
-### YSU-ISTC Joint Summer School on Machine Learning
-[5th Mathematics Summer School - YSU–ISTC Joint Summer School on Machine Learning]  
-[mathschool.ysu.am/mss2018](http://mathschool.ysu.am/mss2018/)
-
 
 ## Courses
 
@@ -112,4 +108,10 @@ Machine Learning for Natural Language Processing
 * Organized by professors from University of Catania and University of Cambridge
 * Location: Sicily, Italy
 
+### Data Science Summer School at American University of Armenia
+* Dates: July 1 - July 14, 2019
+* More information will be available later
 
+### Past
+
+* (2018) [5th Mathematics Summer School - YSU–ISTC Joint Summer School on Machine Learning](http://mathschool.ysu.am/mss2018/)
