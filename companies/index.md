@@ -40,6 +40,8 @@ Crunchbase searches:
 [intelinair.com](https://www.intelinair.com/)
 ### krisp
 [krisp.ai](https://krisp.ai)
+### Metric
+[metric.am](https://metric.am)
 ### Ngene
 [ngene.co](https://www.ngene.co/)
 ### PicsArt
