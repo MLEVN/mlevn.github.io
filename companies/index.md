@@ -1,5 +1,5 @@
 ---
-excerpt: Facehub, Teamable, 2hz.ai, Intelinair, Zero, HiLearn, PicsArt, Datamotus, Aimhub, Wolfram, FimeTech, Chessify, WebbFontaine
+excerpt: Facehub, Teamable, 2hz.ai, Intelinair, Zero, HiLearn, PicsArt, Datamotus, Aimhub, Wolfram, FimeTech, Chessify, WebbFontaine, ISTC Labz
 ---
 
 # Companies
@@ -68,4 +68,7 @@ Crunchbase searches:
 [wolfram.com](https://www.wolfram.com/)
 ### Zero
 [zeroapp.ai](https://www.zeroapp.ai/)
+
+### ISTC Labz
+[istclabz.com](https://istclabz.com/)
 
