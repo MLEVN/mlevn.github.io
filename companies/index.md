@@ -12,6 +12,7 @@ These companies have qualified engineers to develop ML solutions for your needs.
 * [FimeTech](http://fimetech.com/)
 * [HiLearn](http://hilearn.io)
 * [Improvis.ai](https://www.improvis.ai/)
+* [Labz.ai](https://labz.ai)
 * [Metric](https://metric.am)
 * [SmartClick AI](https://smartclick.ai/)
 
