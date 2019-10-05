@@ -15,7 +15,6 @@ These companies have qualified engineers to develop ML solutions for your needs.
 * [Labz.ai](https://labz.ai)
 * [Metric](https://metric.am)
 * [SmartClick AI](https://smartclick.ai/)
-
 * [Maxin AI](https://maxinai.com/) (Tbilisi)
 
 
