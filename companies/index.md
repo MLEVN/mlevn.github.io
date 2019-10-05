@@ -11,11 +11,12 @@ These companies have qualified engineers to develop ML solutions for your needs.
 * [DeepCraft](https://deepcraft.io/)
 * [Develandoo](https://develandoo.com/)
 * [FimeTech](http://fimetech.com/)
-* [HiLearn](http://hilearn.io)
 * [Improvis.ai](https://www.improvis.ai/)
 * [Labz.ai](https://labz.ai)
 * [Metric](https://metric.am)
 * [SmartClick AI](https://smartclick.ai/)
+
+* [Maxin AI](https://maxinai.com/) (Tbilisi)
 
 
 ## Product Companies 
