@@ -1,71 +1,49 @@
 ---
-excerpt: Facehub, Teamable, 2hz.ai, Intelinair, Zero, HiLearn, PicsArt, Datamotus, Aimhub, Wolfram, FimeTech, Chessify, WebbFontaine
+excerpt: Consulting companies and product companies
 ---
 
-# Companies
+# ML Consulting Companies
 
-There are a growing number of companies built around machine learning in Yerevan or with a co-founder from Yerevan, as well as large local and international companies with a Yerevan engineering office with projects in machine learning.
+These companies have qualified engineers to develop ML solutions for your needs. Most of these companies provide both outsourcing and outstaffing services, and their expertise is not limited to machine learning.
+
+* [DataMotus](https://datamotus.com/)
+* [DeepCraft](https://deepcraft.io/)
+* [Develandoo](https://develandoo.com/)
+* [FimeTech](http://fimetech.com/)
+* [HiLearn](http://hilearn.io)
+* [Improvis.ai](https://www.improvis.ai/)
+* [Metric](https://metric.am)
+* [SmartClick AI](https://smartclick.ai/)
+
+
+# Product Companies 
+
+There are a growing number of companies built around machine learning in Yerevan, as well as large local and international companies with a Yerevan engineering office with projects in machine learning. Some of these companies use ML to enhance their products, while others develop entire products around ML.
+
+* [Aimhub](http://aimhub.io/)
+* [BetConstruct](https://www.betconstruct.com/)
+* [Chessify](https://chessify.me/)
+* [Cognaize](https://cognaize.com/)
+* [Disqo](https://disqo.com/)
+* [Facehub](https://facehub.ai/)
+* [Intelinair](https://www.intelinair.com/)
+* [Krisp.ai](https://krisp.ai)
+* [ModelFront](https://www.modelfront.com/)
+* [Ngene](https://www.ngene.co/)
+* [PicsArt](https://picsart.com/)
+* [Pixomatic](https://pixomatic.us)
+* [Scam.ai](https://scam.ai/)
+* [Scylla](https://scylla.ai/)
+* [Snark](https://snark.ai/)
+* [SuperAnnotate AI](https://www.superannotate.ai)
+* [Teamable](https://www.teamable.com/)
+* [UCom](https://www.ucom.am/)
+* [VMware](https://www.vmware.com/)
+* [WebbFontaine](https://webbfontaine.com/)
+* [Wolfram Research](https://www.wolfram.com/)
+* [Zero](https://www.zeroapp.ai/)
+
 
 Crunchbase searches:  
 [Armenia / Yerevan + Artificial Intelligence / Data Analytics](https://www.crunchbase.com/search/principals/c8c7a1b2c04a23a1d3bb6ad65222bc2f026889fd)  
 [machine learning + yerevan / armenia](https://www.crunchbase.com/search/principals/529fe8082e93fe2d0fbc1461c77b52c377da61f0)
-
-### 2hz.ai
-[2hz.ai](https://2hz.ai/)
-### ABBYY
-[abbyy.com](http://abbyy.com/)
-### Aimhub
-[aimhub.io](http://aimhub.io/)
-### BetConstruct
-[betconstruct.com](https://www.betconstruct.com/)
-### Chessify
-[chessify.me](https://chessify.me/)
-### Cognituum AGI
-[cognituum.com](https://cognituum.com)
-### Datamotus
-[datamotus.com](https://datamotus.com/)
-### Develandoo
-[develandoo.com](https://develandoo.com/)
-### Disqo
-[disqo.com](https://disqo.com/)
-### Facehub
-[facehub.ai](https://facehub.ai/)
-### FimeTech
-[fimetech.com](http://fimetech.com/)
-### HiLearn
-[hilearn.io](http://hilearn.io)
-### Improvis
-[improvis.ai](https://www.improvis.ai/)
-### Intelinair
-[intelinair.com](https://www.intelinair.com/)
-### krisp
-[krisp.ai](https://krisp.ai)
-### Metric
-[metric.am](https://metric.am)
-### Ngene
-[ngene.co](https://www.ngene.co/)
-### PicsArt
-[picsart.com](https://picsart.com/)
-### Pixomatic
-[pixomatic.us](https://pixomatic.us)
-### scam.ai
-[scam.ai](https://scam.ai/)
-### SmartClick AI
-[smartclick.ai](https://smartclick.ai/)
-### Snark
-[snark.ai](https://snark.ai/)
-### SuperAnnotate AI
-[superannotate.ai](https://www.superannotate.ai)
-### Teamable
-[teamable.com](https://www.teamable.com/)
-### UCom
-[ucom.am](https://www.ucom.am/)
-### VMware
-[vmware.com](https://www.vmware.com/)
-### WebbFontaine
-[webbfontaine.com](https://webbfontaine.com/)
-### Wolfram Research
-[wolfram.com](https://www.wolfram.com/)
-### Zero
-[zeroapp.ai](https://www.zeroapp.ai/)
-
