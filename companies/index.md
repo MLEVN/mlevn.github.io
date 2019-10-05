@@ -1,8 +1,9 @@
 ---
 excerpt: Consulting companies and product companies
 ---
+# Companies
 
-# ML Consulting Companies
+## ML Development Services
 
 These companies have qualified engineers to develop ML solutions for your needs. Most of these companies provide both outsourcing and outstaffing services, and their expertise is not limited to machine learning.
 
@@ -17,7 +18,7 @@ These companies have qualified engineers to develop ML solutions for your needs.
 * [SmartClick AI](https://smartclick.ai/)
 
 
-# Product Companies 
+## Product Companies 
 
 There are a growing number of companies built around machine learning in Yerevan, as well as large local and international companies with a Yerevan engineering office with projects in machine learning. Some of these companies use ML to enhance their products, while others develop entire products around ML.
 
