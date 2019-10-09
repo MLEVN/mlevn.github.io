@@ -4,9 +4,24 @@ excerpt: Machine Learning Summer School, Materials Discovery from Natural Langua
 
 # Events
 
-See also: [facebook.com/MLEVN.org/events](https://www.facebook.com/MLEVN.org/events/)
+See also: [Machine Learning Reading Group Yerevan](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan) and
+[facebook.com/MLEVN.org/events](https://www.facebook.com/MLEVN.org/events/)
+
+## 2019
+
+### [STCC](https://stcc.am)
+
+### [FAST GIF](https://fast.foundation/gif19/)
+
+### [WCIT](https://wcit2019.org/)
+
+### YSU-ISTC Joint Summer School on Machine Learning 2018
 
 ## 2018
+
+### [STCC](https://stcc.am)
+
+### [FAST GIF](https://fast.foundation/gif18/)
 
 ### YSU-ISTC Joint Summer School on Machine Learning 2018
 The [5th summer school on mathematics and applications](http://mathschool.ysu.am/mss2018/) was held in August with lecturers 
