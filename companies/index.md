@@ -32,6 +32,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Krisp.ai](https://krisp.ai)
 * [ModelFront](https://www.modelfront.com/)
 * [Ngene](https://www.ngene.co/)
+* [PMI R&D Armenia](https://www.pmiscience.com/)
 * [PicsArt](https://picsart.com/)
 * [Pixomatic](https://pixomatic.us)
 * [Scam.ai](https://scam.ai/)
