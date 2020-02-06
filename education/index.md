@@ -28,27 +28,22 @@ Machine Learning Masters
 
 ## Courses
 
-Industry and other institutions also offer private and public courses in machine learning.
+Industry and other institutions also offer private and public courses in machine learning. Please check their websites for current courses and enrollment deadlines.
 
 ### Armenian Code Academy
-#### Machine Learning & Data Science  
 [aca.am/en/machine-learning](http://aca.am/en/machine-learning/)
 
-### ISTC
-#### Machine Learning for Applied Solutions  
-[education.istc.am/Coding/?p=1545](http://education.istc.am/Coding/?p=1545)
+### Zil Academy @ ISTC
+[zil.am/courses/](https://zil.am/courses/)
 
-### SmartGate ML
-[smartgate.ml](https://www.smartgate.ml/)
-#### Intro to Machine Learning
-[smartgate.ml/intro-to-machine-learning](https://www.smartgate.ml/intro-to-machine-learning)
-#### Applied Machine Learning  
-[smartgate.ml/applied-machine-learning](https://www.smartgate.ml/applied-machine-learning)
-
+### Past
+* [Unit 1991 preparatory courses](https://fast.foundation/#/prep-courses?lang=AM)
+* [FAST AI bootcamp](https://fast.foundation/#/bootcamp)
+* [smartgate.ml](https://www.smartgate.ml/)
 
 ## Learning Materials
 
-### YerevaNN - A Guide to Deep Learning  
+### YerevaNN - A Guide to Deep Learning (2016)
 [yerevann.com/a-guide-to-deep-learning/](http://yerevann.com/a-guide-to-deep-learning/)
 
 ### RAU NLP
@@ -68,52 +63,79 @@ Machine Learning for Natural Language Processing
 ## Summer Schools
 (ordered by application deadline)
 
-### [Deep Learning and Reinforcement Learning Summer School 2019](https://dlrlsummerschool.ca/)
-* Dates: July 24 – August 2, 2019
-* Application deadline: **February 15**
+### [The Machine Learning Summer School 2020](http://mlss.tuebingen.mpg.de/2020/)
+* Dates: June 28 – July 10, 2020
+* Application deadline: **February 12**
+* Primary target audience is early-mid stage PhD students
+* Francis Bach, Yoshua Bengio, Shakir Mohamed are among the [speakers](http://mlss.tuebingen.mpg.de/2020/speakers.html) 
+* Organized by Max Planck Institute for Intelligent Systems
+* Location: Tübingen, Germany
+
+### [Deep Learning and Reinforcement Learning Summer School 2020](https://dlrlsummerschool.ca/)
+* Dates: July 29 – August 6, 2020
+* Application deadline: **February 22**
 * Covers deep learning and reinforcement learning. Basic knowledge of machine learning is expected
-* Richard Sutton, Yoshua Bengio, Hugo Larochelle are among the [speakers](https://dlrlsummerschool.ca/confirmed-speakers/) 
-* Co-organized by CIFAR, Alberta Machine Intelligence Institute, with support from MILA and Vector Institute
-* Location: Alberta, Canada
+* Kyunghyun Cho, Yoshua Bengio, Hugo Larochelle are among the [speakers](https://dlrlsummerschool.ca/confirmed-speakers/) 
+* Co-organized by CIFAR, Alberta Machine Intelligence Institute, MILA and Vector Institute
+* Location: Montreal, Canada
 
-### [2nd Conversational Intelligence Summer School](http://ciss.deephack.me/)
-* Dates: June 24 - June 29, 2019
-* Participants are selected during a **qualification round**, which starts on **February 25**
-* Covers deep learning in NLP and is focused on building conversational agents (aka chatbots). Participants will work on projects in teams
-* Jason Weston and Alexander Rush are among the speakers
-* Co-organized by Anna Rumshisky from University of Massachusetts Lowell and Mikhail Burtsev from Neural Networks and Deep Learning Lab, Moscow Institute of Physics and Technology
-* Location: Lowell, Massachusetts, USA
-
-### [Eastern European Machine Learning Summer School](https://www.eeml.eu/)
-* Dates: July 1 - July 6, 2019
-* Application deadline: **March 29**
-* Covers deep learning and reinforcement learning
-* Andrew Zisserman, Antoine Bordes, Dmitry Vetrov and Doina Precup are among the speakers
-* Co-organized by Politehnica University of Bucharest and DeepMind
-* Location: Bucharest, Romania
-
-### [9th Lisbon Machine Learning School](http://lxmls.it.pt/2019/)
-* Dates: July 11 - July 18, 2019
-* Application deadline: **March 31**
+### [10th Lisbon Machine Learning School](http://lxmls.it.pt/2020/)
+* Dates: July 21 - July 29, 2020
+* Application deadline: **March 15**
 * It is about general machine learning with some focus on NLP
-* Chris Dyer, Kyunghyun Cho, Yoav Goldberg are among the [speakers](http://lxmls.it.pt/2019/?page_id=30)
+* Nando de Freitas, Chris Dyer, Andre Martins are among the [speakers](http://lxmls.it.pt/2020/?page_id=11)
 * Co-organized by universities and startups from Portugal
 * Location: Lisbon, Portugal
 
-### [International Computer Vision Summer School](http://iplab.dmi.unict.it/icvss2018/)
-* Dates: July 7 - July 13, 2019
+### [Eastern European Machine Learning Summer School](https://www.eeml.eu/)
+* Dates: July 6 - July 12, 2020
+* Application deadline: **March 20**
+* Covers deep learning and reinforcement learning
+* Alex Graves, Chelsea Finn, Doina Precup and Tomas Mikolov are among the speakers
+* Co-organized by Politehnica University of Bucharest and DeepMind
+* Location: Krakow, Poland
+
+### [Regularization Methods for Machine Learning](http://lcsl.mit.edu/courses/regml/regml2020/)
+* Dates: June 29 - July 3, 2020
+* Application deadline: **March 20**
+* Primary target audience is early-mid stage PhD students
+* Organized by University of Genova
+* Location: Genoa, Italy
+
+### [International Computer Vision Summer School](https://iplab.dmi.unict.it/icvss2020/)
+* Dates: July 12 - July 18, 2020
 * Application deadline: **March 31**
 * Will cover theory and practice in modern computer vision
-* Stefano Soatto is among the speakers
+* Stefano Soatto, Andrew Zisserman, Fei-Fei Li are among the speakers
 * Organized by professors from University of Catania and University of Cambridge
 * Location: Sicily, Italy
 
-### [Data Science Summer School at American University of Armenia](https://dssummer.aua.am/)
-* Dates: July 1 - July 14, 2019
-* Application deadline: **May 10**
-* Location: Yerevan, Armenia
-* [Link to announcement](https://newsroom.aua.am/2019/01/29/aua-launches-the-first-data-science-summer-school-in-july-2019/)
+### [2020 Deep Learning Summer School](http://ss.cs.tsinghua.edu.cn/)
+* Dates: June 29 - July 12, 2020
+* Application deadline: **April 14**
+* Organised by Tsinghua University
+* Location: Beijing, China
+
+### [4th Data Science Summer School](https://www.ds3-datascience-polytechnique.fr/)
+* Dates: June 29 – July 3, 2020
+* Application deadline: **April 24**
+* Co-organised by the Data Science Initiative of École polytechnique and DATAIA Institute
+* Location: Paris, France
+
+### [Oxford Machine Learning Summer School 2020](https://www.oxfordml.school/)
+* Dates: August 16 – August 22, 2020
+* Application deadline: **April 30**
+* Covers key ML topics (Bayesian ML, Computer Vision, NLP and reinforcement learning, Causal ML, Topological ML), with a special focus on medicine (medical imaging, genetics, drug discovery, and learning from multi-modal medical data).
+* Organised by AI for Global Goals and in partnership with Oxford Saïd Business School and CIFAR.
+* Location: Oxford, UK
+
+### [More summer schools in 2020](https://thiagoserra.com/2020/01/19/summer-2020-schools-on-algorithms-data-science-machine-learning-networks-optimization-transportation-and-other-relevant-topics-in-operations-research/)
 
 ### Past
-
+* (2019) [Deep Learning and Reinforcement Learning Summer School 2019](https://dlrlsummerschool.ca/)
+* (2019) [2nd Conversational Intelligence Summer School](http://ciss.deephack.me/)
+* (2019) [Eastern European Machine Learning Summer School](https://www.eeml.eu/)
+* (2019) [9th Lisbon Machine Learning School](http://lxmls.it.pt/2019/)
+* (2019) [International Computer Vision Summer School](http://iplab.dmi.unict.it/icvss2019/)
+* (2019) [Data Science Summer School at American University of Armenia](https://dssummer.aua.am/)
 * (2018) [5th Mathematics Summer School - YSU–ISTC Joint Summer School on Machine Learning](http://mathschool.ysu.am/mss2018/)
