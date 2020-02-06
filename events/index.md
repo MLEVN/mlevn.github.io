@@ -7,6 +7,10 @@ excerpt: Machine Learning Summer School, Materials Discovery from Natural Langua
 See also: [Machine Learning Reading Group Yerevan](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan) and
 [facebook.com/MLEVN.org/events](https://www.facebook.com/MLEVN.org/events/)
 
+## 2020
+
+### [DataFest Yerevan](https://datafest.am/)
+
 ## 2019
 
 ### [STCC](https://stcc.am)
