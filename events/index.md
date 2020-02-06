@@ -9,7 +9,7 @@ See also: [Machine Learning Reading Group Yerevan](https://groups.google.com/for
 
 ## 2020
 
-### [DataFest Yerevan](https://datafest.am/)
+### April 9-11: [DataFest Yerevan](https://datafest.am/)
 
 ## 2019
 
