@@ -36,6 +36,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [PMI R&D Armenia](https://www.pmiscience.com/)
 * [PicsArt](https://picsart.com/)
 * [Pixomatic](https://pixomatic.us)
+* [Polixis](https://polixis.com/)
 * [Scam.ai](https://scam.ai/)
 * [Scylla](https://scylla.ai/)
 * [Snark](https://snark.ai/)
