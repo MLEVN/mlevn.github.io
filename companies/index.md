@@ -29,6 +29,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Disqo](https://disqo.com/)
 * [Facehub](https://facehub.ai/)
 * [Intelinair](https://www.intelinair.com/)
+* [intent.ai](https://intent.ai/)
 * [Krisp.ai](https://krisp.ai)
 * [ModelFront](https://www.modelfront.com/)
 * [Ngene](https://www.ngene.co/)
