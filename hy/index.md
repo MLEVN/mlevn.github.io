@@ -27,6 +27,8 @@ fastText has trained embeddings for the top few hundred languages, including Arm
 and 
 [Common Crawl](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md).
 
+[Word Analogy Task](https://github.com/ispras-texterra/word-embeddings-eval-hy/blob/master/word_analogy_task_hy.txt) along with GloVe, fastText, SkipGram, CBOW [embeddings](https://github.com/ispras-texterra/word-embeddings-eval-hy/blob/master/README.md) pre-trained on Wikipedia + news articles + blog posts.
+
 ### Syntax parsing
 
 https://github.com/UniversalDependencies/UD_Armenian-ArmTDP
