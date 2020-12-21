@@ -9,22 +9,15 @@ excerpt: Universities, courses, and learning materials
 
 ## Universities
 
-### YSU-ISTC ASDS
-Yerevan State University and ISTC
-Masters in Applied Statistics and Data Science   
-[math.ysu.am/asds](https://math.ysu.am/asds)  
-[istc.am/en/applied-statistics-and-data-science-masters-degree-program](http://istc.am/en/applied-statistics-and-data-science-masters-degree-program/)
-
-### AUA Data Science
-American University of Armenia  
-Bachelors in Data Science  
-[cse.aua.am/ds](https://cse.aua.am/ds/)
-
-### RAU ML Masters
-Russian-Armenian University  
-Machine Learning Masters  
-[rau.am/.../masters-in-machine-learning](https://international.rau.am/eng/25/masters-in-machine-learning)
-
+* Masters in Applied Statistics and Data Science @ Yerevan State University and ISTC [math.ysu.am/asds](https://math.ysu.am/asds)
+  * Main contact: [Karen Keryan](https://am.linkedin.com/in/karen-keryan-02476933)
+* Machine Learning Masters @ Russian-Armenian University 
+[imi.rau.am/program/master](https://imi.rau.am/program/master) (website under construction as of Dec 2020)
+  * Main contact: Arman Darbinyan
+* Bachelors in Data Science @ American University of Armenia [cse.aua.am/ds](https://cse.aua.am/ds/)
+  * Main contact: [Habet Madoyan](https://am.linkedin.com/in/habetmadoyanmba)
+* Masters in Data Science in Business @ Yerevan State University and ISTC [armdsforb.wordpress.com](https://armdsforb.wordpress.com/)
+  * Main contact: [Ruben Gevorgyan](https://am.linkedin.com/in/ruben-gevorgyan-frm-41444563)
 
 ## Courses
 
@@ -36,15 +29,17 @@ Industry and other institutions also offer private and public courses in machine
 ### Zil Academy @ ISTC
 [zil.am/courses/](https://zil.am/courses/)
 
-### Past
-* [Unit 1991 preparatory courses](https://fast.foundation/#/prep-courses?lang=AM)
-* [FAST AI bootcamp](https://fast.foundation/#/bootcamp)
-* [smartgate.ml](https://www.smartgate.ml/)
+### Fast Foundation
+* [Unit 1991 preparatory courses](https://fast.foundation/en/program/842)
+* [FAST AI bootcamp](https://fast.foundation/en/program/837)
+
+### Hero House
+* [AI Incubation Program at Hero House](https://www.herohouse.am/ai-incubator)
 
 ## Learning Materials
 
 ### YerevaNN - A Guide to Deep Learning (2016)
-[yerevann.com/a-guide-to-deep-learning/](http://yerevann.com/a-guide-to-deep-learning/)
+[yerevann.com/a-guide-to-deep-learning/](http://yerevann.com/a-guide-to-deep-learning/) (last updated: December 2016)
 
 ### RAU NLP
 Russian-Armenian University  
