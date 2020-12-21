@@ -24,6 +24,9 @@ Request an invitation
 ### Natural Language Processing in Armenia @ Telegram
 Request an invitation
 
+### DataPoint Armenia @ LinkedIn
+[linkedin.com/groups/13732754/](https://www.linkedin.com/groups/13732754/)
+
 ### Machine Learning Reading Group Yerevan
 Weekly meeting for reading papers  
 [groups.google.com/.../ml-reading-group-yerevan](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan)
