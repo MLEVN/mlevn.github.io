@@ -25,5 +25,7 @@ Request an invitation
 Request an invitation
 
 ### Machine Learning Reading Group Yerevan
-weekly meeting for reading papers  
+Weekly meeting for reading papers  
 [groups.google.com/.../ml-reading-group-yerevan](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan)
+
+Videos of recent meetups on [Youtube](https://www.youtube.com/playlist?list=PLaoIml0iWe75I4UwV5LLktk5LM1Avh_xB)
