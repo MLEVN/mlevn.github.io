@@ -9,31 +9,24 @@ excerpt: Universities, courses, and learning materials
 
 ## Universities
 
-* Masters in Applied Statistics and Data Science @ Yerevan State University and ISTC [math.ysu.am/asds](https://math.ysu.am/asds)
+* Masters in Applied Statistics and Data Science @ Yerevan State University and ISTC: [math.ysu.am/asds](https://math.ysu.am/asds)
   * Main contact: [Karen Keryan](https://am.linkedin.com/in/karen-keryan-02476933)
-* Machine Learning Masters @ Russian-Armenian University 
+* Machine Learning Masters @ Russian-Armenian University: 
 [imi.rau.am/program/master](https://imi.rau.am/program/master) (website under construction as of Dec 2020)
   * Main contact: Arman Darbinyan
-* Bachelors in Data Science @ American University of Armenia [cse.aua.am/ds](https://cse.aua.am/ds/)
+* Bachelors in Data Science @ American University of Armenia: [cse.aua.am/ds](https://cse.aua.am/ds/)
   * Main contact: [Habet Madoyan](https://am.linkedin.com/in/habetmadoyanmba)
-* Masters in Data Science in Business @ Yerevan State University and ISTC [armdsforb.wordpress.com](https://armdsforb.wordpress.com/)
+* Masters in Data Science in Business @ Yerevan State University and ISTC: [armdsforb.wordpress.com](https://armdsforb.wordpress.com/)
   * Main contact: [Ruben Gevorgyan](https://am.linkedin.com/in/ruben-gevorgyan-frm-41444563)
 
 ## Courses
 
 Industry and other institutions also offer private and public courses in machine learning. Please check their websites for current courses and enrollment deadlines.
 
-### Armenian Code Academy
-[aca.am/en/machine-learning](http://aca.am/en/machine-learning/)
-
-### Zil Academy @ ISTC
-[zil.am/courses/](https://zil.am/courses/)
-
-### Fast Foundation
-* [Unit 1991 preparatory courses](https://fast.foundation/en/program/842)
+* Armenian Code Academy: [aca.am/en/machine-learning](http://aca.am/en/machine-learning/)
+* Zil Academy @ ISTC: [zil.am/courses/](https://zil.am/courses/)
+* [Unit 1991 preparatory courses](https://fast.foundation/en/program/842) by FAST Foundation
 * [FAST AI bootcamp](https://fast.foundation/en/program/837)
-
-### Hero House
 * [AI Incubation Program at Hero House](https://www.herohouse.am/ai-incubator)
 
 ## Learning Materials
