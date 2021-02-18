@@ -51,75 +51,38 @@ Machine Learning for Natural Language Processing
 ## Summer Schools
 (ordered by application deadline)
 
-### [The Machine Learning Summer School 2020](http://mlss.tuebingen.mpg.de/2020/)
-* Dates: June 28 – July 10, 2020
-* Application deadline: **February 12**
-* Primary target audience is early-mid stage PhD students
-* Francis Bach, Yoshua Bengio, Shakir Mohamed are among the [speakers](http://mlss.tuebingen.mpg.de/2020/speakers.html) 
-* Organized by Max Planck Institute for Intelligent Systems
-* Location: Tübingen, Germany
-
-### [Deep Learning and Reinforcement Learning Summer School 2020](https://dlrlsummerschool.ca/)
-* Dates: July 29 – August 6, 2020
-* Application deadline: **February 22**
-* Covers deep learning and reinforcement learning. Basic knowledge of machine learning is expected
-* Kyunghyun Cho, Yoshua Bengio, Hugo Larochelle are among the [speakers](https://dlrlsummerschool.ca/confirmed-speakers/) 
-* Co-organized by CIFAR, Alberta Machine Intelligence Institute, MILA and Vector Institute
-* Location: Montreal, Canada
-
-### [10th Lisbon Machine Learning School](http://lxmls.it.pt/2020/)
-* Dates: July 21 - July 29, 2020
-* Application deadline: **March 15**
-* It is about general machine learning with some focus on NLP
-* Nando de Freitas, Chris Dyer, Andre Martins are among the [speakers](http://lxmls.it.pt/2020/?page_id=11)
-* Co-organized by universities and startups from Portugal
-* Location: Lisbon, Portugal
-
 ### [Eastern European Machine Learning Summer School](https://www.eeml.eu/)
-* Dates: July 6 - July 12, 2020
-* Application deadline: **March 20**
-* Covers deep learning and reinforcement learning
-* Alex Graves, Chelsea Finn, Doina Precup and Tomas Mikolov are among the speakers
-* Co-organized by Politehnica University of Bucharest and DeepMind
-* Location: Krakow, Poland
-
-### [Regularization Methods for Machine Learning](http://lcsl.mit.edu/courses/regml/regml2020/)
-* Dates: June 29 - July 3, 2020
-* Application deadline: **March 20**
-* Primary target audience is early-mid stage PhD students
-* Organized by University of Genova
-* Location: Genoa, Italy
-
-### [International Computer Vision Summer School](https://iplab.dmi.unict.it/icvss2020/)
-* Dates: July 12 - July 18, 2020
+* Dates: July 7 - July 15, 2021
 * Application deadline: **March 31**
-* Will cover theory and practice in modern computer vision
-* Stefano Soatto, Andrew Zisserman, Fei-Fei Li are among the speakers
-* Organized by professors from University of Catania and University of Cambridge
-* Location: Sicily, Italy
+* Covers deep learning and reinforcement learning
+* Aaron Courville, Doina Precup are among the speakers
+* Organized by DeepMind
+* Location: Virtual
 
-### [2020 Deep Learning Summer School](http://ss.cs.tsinghua.edu.cn/)
-* Dates: June 29 - July 12, 2020
-* Application deadline: **April 14**
-* Organised by Tsinghua University
-* Location: Beijing, China
-
-### [4th Data Science Summer School](https://www.ds3-datascience-polytechnique.fr/)
-* Dates: June 29 – July 3, 2020
-* Application deadline: **April 24**
-* Co-organised by the Data Science Initiative of École polytechnique and DATAIA Institute
-* Location: Paris, France
-
-### [Oxford Machine Learning Summer School 2020](https://www.oxfordml.school/)
-* Dates: August 16 – August 22, 2020
+### [Oxford Machine Learning Summer School 2021](https://www.oxfordml.school/)
+* Dates: August 9 – August 20, 2021
 * Application deadline: **April 30**
 * Covers key ML topics (Bayesian ML, Computer Vision, NLP and reinforcement learning, Causal ML, Topological ML), with a special focus on medicine (medical imaging, genetics, drug discovery, and learning from multi-modal medical data).
 * Organised by AI for Global Goals and in partnership with Oxford Saïd Business School and CIFAR.
-* Location: Oxford, UK
+* Location: Virtual
 
-### [More summer schools in 2020](https://thiagoserra.com/2020/01/19/summer-2020-schools-on-algorithms-data-science-machine-learning-networks-optimization-transportation-and-other-relevant-topics-in-operations-research/)
+### [Deep Learning and Reinforcement Learning Summer School 2021](https://dlrl.ca/)
+* Check the website for details
+* Co-organized by CIFAR, Alberta Machine Intelligence Institute, MILA and Vector Institute
+* Location: Virtual
+
 
 ### Past
+* (2021) [4th Data Science Summer School](https://www.ds3-datascience-polytechnique.fr/)
+* (2020) [2020 Deep Learning Summer School @ Tsinghua](http://ss.cs.tsinghua.edu.cn/)
+* (2020) [International Computer Vision Summer School](https://iplab.dmi.unict.it/icvss2020/) (cancelled)
+* (2020) [Regularization Methods for Machine Learning](http://lcsl.mit.edu/courses/regml/regml2020/)
+* (2020) [Eastern European Machine Learning Summer School](https://www.eeml.eu/)
+* (2020) [10th Lisbon Machine Learning School](http://lxmls.it.pt/2020/)
+* (2020) [Deep Learning and Reinforcement Learning Summer School 2020](https://dlrlsummerschool.ca/)
+* (2020) [The Machine Learning Summer School 2020](http://mlss.tuebingen.mpg.de/2020/)
+* (2020) [Oxford Machine Learning Summer School 2020](https://www.oxfordml.school/)
+* (2020) [More summer schools in 2020](https://thiagoserra.com/2020/01/19/summer-2020-schools-on-algorithms-data-science-machine-learning-networks-optimization-transportation-and-other-relevant-topics-in-operations-research/)
 * (2019) [Deep Learning and Reinforcement Learning Summer School 2019](https://dlrlsummerschool.ca/)
 * (2019) [2nd Conversational Intelligence Summer School](http://ciss.deephack.me/)
 * (2019) [Eastern European Machine Learning Summer School](https://www.eeml.eu/)
