@@ -23,6 +23,7 @@ These companies have qualified engineers to develop ML solutions for your needs.
 
 There are a growing number of companies built around machine learning in Yerevan, as well as large local and international companies with a Yerevan engineering office with projects in machine learning. Some of these companies use ML to enhance their products, while others develop entire products around ML.
 
+* [Activeloop](https://activeloop.ai/)
 * [Aimhub](http://aimhub.io/)
 * [BetConstruct](https://www.betconstruct.com/)
 * [Chessify](https://chessify.me/)
@@ -40,7 +41,6 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Polixis](https://polixis.com/)
 * [Scam.ai](https://scam.ai/)
 * [Scylla](https://scylla.ai/)
-* [Snark](https://snark.ai/)
 * [SuperAnnotate AI](https://www.superannotate.ai)
 * [Teamable](https://www.teamable.com/)
 * [UCom](https://www.ucom.am/)
