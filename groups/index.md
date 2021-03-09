@@ -12,6 +12,8 @@ Most of groups have a focus on a specific application domain or technology, and 
 ### Armenian Data Science Slack Channel
 [armenian-ds.slack.com](https://armenian-ds.slack.com)
 
+[Meetups](https://www.meetup.com/armenian-data-science-community/) of this community
+
 ### ML EVN @ Telegram
 Request an invitation
 
@@ -31,4 +33,4 @@ Request an invitation
 Weekly meeting for reading papers  
 [groups.google.com/.../ml-reading-group-yerevan](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan)
 
-Videos of recent meetups on [Youtube](https://www.youtube.com/playlist?list=PLaoIml0iWe75I4UwV5LLktk5LM1Avh_xB)
+Videos of the recent meetups on [Youtube](https://www.youtube.com/playlist?list=PLaoIml0iWe75I4UwV5LLktk5LM1Avh_xB)
