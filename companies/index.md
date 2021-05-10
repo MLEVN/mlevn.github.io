@@ -58,3 +58,4 @@ Crunchbase searches:
 # Internships
 * [Disqo](https://www.disqo.com/data-science-internship/) Deadline: May 15, 2021
 * [Metric.am](https://docs.google.com/forms/d/1dT7UWJGEue-iUBtxEGxdgNHP-oluzoBF-8RnGsFsuYU/viewform)
+* [Sololearn](https://docs.google.com/document/d/1mRd19J90t5CYQsJqO2T4rwSuvuigFAv8qiXiYSaxqZw/edit)
