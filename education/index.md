@@ -59,6 +59,11 @@ Machine Learning for Natural Language Processing
 * Organized by DeepMind
 * Location: Virtual
 
+### [Deep Learning and Reinforcement Learning Summer School 2021](https://dlrl.ca/)
+* Application deadline: **April 9**
+* Co-organized by CIFAR, Alberta Machine Intelligence Institute, MILA and Vector Institute
+* Location: Virtual
+
 ### [Oxford Machine Learning Summer School 2021](https://www.oxfordml.school/)
 * Dates: August 9 – August 20, 2021
 * Application deadline: **April 30**
@@ -66,10 +71,12 @@ Machine Learning for Natural Language Processing
 * Organised by AI for Global Goals and in partnership with Oxford Saïd Business School and CIFAR.
 * Location: Virtual
 
-### [Deep Learning and Reinforcement Learning Summer School 2021](https://dlrl.ca/)
-* Check the website for details
-* Co-organized by CIFAR, Alberta Machine Intelligence Institute, MILA and Vector Institute
+### [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2021/)
+* Dates: July 7 - July 15, 2021
+* Application deadline: **May 15**
+* Covers both basic and advanced topics in ML
 * Location: Virtual
+
 
 
 ### Past
