@@ -40,7 +40,6 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Podcastle](https://podcastle.ai/)
 * [Polixis](https://polixis.com/)
 * [ServiceTitan](https://www.servicetitan.com/)
-* [Sportion AM](https://sportion.net)
 * [Sololearn](https://www.sololearn.com)
 * [Scylla](https://scylla.ai/)
 * [SuperAnnotate AI](https://www.superannotate.ai)
@@ -67,4 +66,5 @@ These companies have qualified product managers and engineers to deliver ML solu
 * [Noble Scripts](https://noblescripts.com/)
 * [Plat.ai](https://plat.ai/)
 * [SmartClick AI](https://smartclick.ai/)
+* [Sportion](https://sportion.net)
 * [Volo](https://volo.am/)
