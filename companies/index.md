@@ -27,7 +27,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Denovo Sciences](https://www.denovosciences.ai/)
 * [Disqo](https://disqo.com/)
 * [dowork.ai](https://dowork.ai/)
-* ~~[HiLearn](https://hilearn.io/)~~ (acquired)
+* [`HiLearn`](https://hilearn.io/) (acquired)
 * [HireBee.ai](https://hirebee.ai)
 * [Intelinair](https://www.intelinair.com/)
 * [intent.ai](https://intent.ai/)
