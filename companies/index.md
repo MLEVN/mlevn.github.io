@@ -45,6 +45,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Scylla](https://scylla.ai/)
 * [SuperAnnotate AI](https://www.superannotate.ai)
 * [Teamable](https://www.teamable.com/)
+* [Unum](https://unum.am/)
 * [VMware](https://www.vmware.com/)
 * [WebbFontaine](https://webbfontaine.com/)
 * [Wolfram Research](https://www.wolfram.com/)
