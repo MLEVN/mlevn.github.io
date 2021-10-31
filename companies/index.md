@@ -21,11 +21,13 @@ There are a growing number of companies built around machine learning in Yerevan
 
 * [Activeloop](https://activeloop.ai/)
 * [Aimhub](http://aimhub.io/)
+* [Amaros](http://amarosmedical.com/)
 * [BetConstruct](https://www.betconstruct.com/)
 * [Chessify](https://chessify.me/)
 * [Cognaize](https://cognaize.com/)
 * [Denovo Sciences](https://www.denovosciences.ai/)
 * [Disqo](https://disqo.com/)
+* [Dzook](https://dzook.ai/)
 * [dowork.ai](https://dowork.ai/)
 * [`HiLearn`](https://hilearn.io/) (acquired)
 * [HireBee.ai](https://hirebee.ai)
@@ -61,6 +63,7 @@ These companies have qualified product managers and engineers to deliver ML solu
 * [FimeTech](http://fimetech.com/)
 * [Improvis.ai](https://www.improvis.ai/)
 * [Labz.ai](https://labz.ai)
+* [Magical Labs]
 * [Maxin AI](https://maxinai.com/) (Tbilisi)
 * [Metric](https://metric.am)
 * [Noble Scripts](https://noblescripts.com/)
