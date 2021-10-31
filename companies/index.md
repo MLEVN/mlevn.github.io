@@ -41,6 +41,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Pinsight](https://pinsight.ai/)
 * [Podcastle](https://podcastle.ai/)
 * [Polixis](https://polixis.com/)
+* [Puzl](https://puzl.ai/)
 * [ServiceTitan](https://www.servicetitan.com/)
 * [Sololearn](https://www.sololearn.com)
 * [Scylla](https://scylla.ai/)
