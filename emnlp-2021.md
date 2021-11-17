@@ -51,5 +51,3 @@ detailed exploration in the field.
 
 * [Compact Metrics for MT](https://aclanthology.org/2021.emnlp-main.58.pdf)
 
-EMNLP.md
-Displaying EMNLP.md.
