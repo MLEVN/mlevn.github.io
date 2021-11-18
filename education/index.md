@@ -44,6 +44,9 @@ Natural Language Processing course
 Machine Learning for Natural Language Processing  
 [deeplanguageclass.github.io](https://deeplanguageclass.github.io)
 
+### Seminars on PAC-Bayesian generalization bounds
+[Seminar series page](pac-bayes.md)
+
 ### ML EVN
 [r/MLEVN flair:education](https://www.reddit.com/r/MLEVN/search?q=flair%3Aeducation&sort=new&restrict_sr=on)
 
