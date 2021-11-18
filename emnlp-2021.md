@@ -1,7 +1,9 @@
 
-# Highlights of EMNLP 2021
+# EMNLP 2021 highlights
 
 *[Erik Arakelyan's](https://twitter.com/_kire_kara_) highlights of [EMNLP 2021](https://2021.emnlp.org/)*
+
+*You're free to [contribute!](https://github.com/MLEVN/mlevn.github.io/blob/master/emnlp-2021.md)*
 
 This is the set of papers that I found particularly useful while exploring the EMNLP
 2021 papers the gave me insight into the main topics of interest in these batch
