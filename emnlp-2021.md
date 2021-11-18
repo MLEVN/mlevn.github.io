@@ -1,6 +1,7 @@
 
-# EMNLP
+# EMNLP 2021
 
+*[Erik Arakelyan's](https://twitter.com/_kire_kara_) summary of [EMNLP 2021](https://2021.emnlp.org/)*
 
 This is the set of papers that I found particularly useful while exploring the EMNLP
 2021 papers the gave me insight into the main topics of interest in these batch
@@ -23,6 +24,8 @@ A very useful tool I found to search across various topics is The EMNLP search.
 
 
 ## NLP + KG ?= Commonsense
+
+(KG - Knowledge graphs)
 
 "This year, we finally have a sound framework and taxonomy of various KG+LM approaches! The authors define 3 big families: 1️⃣ no KG supervision, probing knowledge encoded in LM params with cloze-style prompts; 2️⃣ KG supervision with entities and IDs; 3️⃣ KG supervision with relation templates and surface forms." - M. Galkin
 
@@ -47,7 +50,7 @@ detailed exploration in the field.
 * [WinoLogic](https://aclanthology.org/2021.emnlp-main.307.pdf)
 * [RICA: Evaluating Robust Inference Capabilities Based on Commonsense Axioms](https://aclanthology.org/2021.emnlp-main.598.pdf)
 
-## Adam Will love This (MT)
+## Adam Will Love This (MT)
 
 * [Compact Metrics for MT](https://aclanthology.org/2021.emnlp-main.58.pdf)
 
