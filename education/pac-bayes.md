@@ -21,3 +21,5 @@
 * **Հանդիպում 2**. Կուլբակ-Լայբլեռի տարամիտություն, Դոնսկեռ-Վարադհանի վարիացոն բանաձև, Գիբսի չափ, Կատոնիի Պակ-Բայեսյան ընդհանրացման գնահատական, Գիբսի ալգորիթմ։  
   [\[Տեսագրություն\]](https://youtu.be/5dF143y-_1s) \[[Սլայդներ\]](https://www.slideshare.net/HrayrHarutyunyan/pacbayesiangeneralizationboundsseminar2)
 
+* **Հանդիպում 3**. Լյամբդայի ընտրություն, միջինացված կանխատեսիչի ռիսկի գնահատական, հետին բաշխման նմուշի ռիսկի գնահատական, մոդելների ընտրում։  
+  [\[Տեսագրություն\]](https://youtu.be/4po0hgjLQz8) \[[Սլայդներ\]](https://www.slideshare.net/HrayrHarutyunyan/pacbayesiangeneralizationboundsseminar3)
