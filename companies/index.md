@@ -63,7 +63,7 @@ These companies have qualified product managers and engineers to deliver ML solu
 * [FimeTech](http://fimetech.com/)
 * [Improvis.ai](https://www.improvis.ai/)
 * [Labz.ai](https://labz.ai)
-* [Magical Labs]
+* Magical Labs
 * [Maxin AI](https://maxinai.com/) (Tbilisi)
 * [Metric](https://metric.am)
 * [Noble Scripts](https://noblescripts.com/)
