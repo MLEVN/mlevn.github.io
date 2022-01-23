@@ -23,6 +23,16 @@ Facebook did this in 2017 with fastText (which had been already proposed in our 
 Deep-learning-based sentence segmentation / sentence splitting  
 This is key for the self-supervised pre-training of BERT etc.
 
+
+### Machine translation
+
+#### Image translation
+
+#### Speech translation
+
+#### Multiple candidates
+
+
 ### Code
 Natural language and programming language  
 In 2021 products like GitHub Copilot and Replit launched code generation.  This is still basically an unsolved set of problems, which are difficult to even evaluate, but for which there is plenty of training data:
