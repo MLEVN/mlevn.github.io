@@ -30,17 +30,30 @@ This is key for the self-supervised pre-training of BERT etc.
 
 #### Speech translation
 
+#### Multimodal translation
+One model that can take text, image or audio and output text, image or audio
+
 #### Multiple candidates
+Output multiple translations
+
+#### Synthetic data generation / reinforcement learning
+1. Set up an architecture that can learn from negative examples
+2. Dynamically generate negative examples during training
 
 
 ### Code
 Natural language and programming language  
 In 2021 products like GitHub Copilot and Replit launched code generation.  This is still basically an unsolved set of problems, which are difficult to even evaluate, but for which there is plenty of training data:
+
+#### Text to code
 - text → .html or .md
+
+#### Code to text
 - code repo → README.md
 - pull request code → pull request title and description
+
+#### Code to code
 - unit test → function
-...
 
 
 ### More
