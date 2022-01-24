@@ -6,6 +6,8 @@ They could be realised as research, datasets, libraries, applications or product
 
 ## Language
 
+---
+
 ### Core components
 Models like BERT or GPT-3 rely on legacy libraries for charset detection, language detection and sentence segmentation to turn raw data crawled from the web into rows of training data.  They are imperfect, especially for long-tail languages, and their quirks affect the accuracy of the downstream models.  Ironically they are often rules-based.  Today it makes sense to try a deep learning approach to these foundational problems.
 
@@ -23,6 +25,7 @@ Facebook did this in 2017 with fastText (which had been already proposed in our 
 Deep-learning-based sentence segmentation / sentence splitting  
 This is key for the self-supervised pre-training of BERT etc.
 
+---
 
 ### Machine translation
 
@@ -62,9 +65,17 @@ See also:
 
 
 ### For Armenian
-Note that we generally discourage language-specific work that copies advances in English, and favor language-agnostic approaches.
+Note:
 
-[*Tools and data for the Armenian language*](/hy/)
+We encourage:
+- **language-agnostic approaches**
+- **contributions to multilingual projects** that lead to languages being included in top platforms
+
+We discourage:
+- **language-specific work**
+- **work that just copies advances in English** and applies it to other languages
+
+See: [*Tools and data for the Armenian language*](/hy/)
 
 
 ---
