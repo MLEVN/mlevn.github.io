@@ -7,19 +7,14 @@ Crunchbase searches:
 - [{`Armenia`, `Yerevan`, ...} x {`Artificial Intelligence`, `Data Analytics`, ...}](https://www.crunchbase.com/search/principals/c8c7a1b2c04a23a1d3bb6ad65222bc2f026889fd)  
 - [`armenia, yerevan, ...` x `machine learning`](https://www.crunchbase.com/search/principals/529fe8082e93fe2d0fbc1461c77b52c377da61f0)
 
-## Internships (2021)
-* [Denovo Sciences](https://www.notion.so/Intern-Data-Science-4ec80a3a278c4a448fe416d6e2abc413)
-* [Disqo](https://www.disqo.com/data-science-internship/) Deadline: May 15, 2021
-* [FimeTech](https://staff.am/en/c-c-ai-data-science-python-intern) Deadline: July 29, 2021
-* [Metric.am](https://docs.google.com/forms/d/1dT7UWJGEue-iUBtxEGxdgNHP-oluzoBF-8RnGsFsuYU/viewform)
-* [PMI Science](https://staff.am/en/inkompass-by-aspire-2021-internship-2)
-* [Sololearn](https://docs.google.com/document/d/1mRd19J90t5CYQsJqO2T4rwSuvuigFAv8qiXiYSaxqZw/edit)
 
 ## Product Companies 
 
 There are a growing number of companies built around machine learning in Yerevan, as well as large local and international companies with a Yerevan engineering office with projects in machine learning. Some of these companies use ML to enhance their products, while others develop entire products around ML.
 
+* [Biosim](https://www.biosim.ai/)
 * [Activeloop](https://activeloop.ai/)
+* [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced?locationCountry=db69b632446c11de98360015c5e6daf6)
 * [Aimhub](http://aimhub.io/)
 * [Amaros](http://amarosmedical.com/)
 * [BetConstruct](https://www.betconstruct.com/)
@@ -29,12 +24,13 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Disqo](https://disqo.com/)
 * [Dzook](https://dzook.ai/)
 * [dowork.ai](https://dowork.ai/)
-* [`HiLearn`](https://hilearn.io/) (acquired)
+* [HiLearn](https://hilearn.io/)
 * [HireBee.ai](https://hirebee.ai)
 * [Intelinair](https://www.intelinair.com/)
 * [Intent.ai](https://intent.ai/)
 * [Krisp](https://krisp.ai)
 * [ModelFront](https://modelfront.com/)
+* [Modicus Prime](https://modicusprime.com/)
 * [Ngene](https://www.ngene.co/)
 * [PMI R&D Armenia](https://www.pmiscience.com/)
 * [PicsArt](https://picsart.com/)
