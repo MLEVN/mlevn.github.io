@@ -16,7 +16,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Activeloop](https://activeloop.ai/)
 * [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced?locationCountry=db69b632446c11de98360015c5e6daf6)
 * [Aimhub](http://aimhub.io/)
-* [Amaros](http://amarosmedical.com/)
+* [Amaros](http://amaros.ai/)
 * [BetConstruct](https://www.betconstruct.com/)
 * [Chessify](https://chessify.me/)
 * [Cognaize](https://cognaize.com/)
