@@ -30,3 +30,6 @@ Weekly meeting for reading papers
 - [groups.google.com/.../ml-reading-group-yerevan](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan)
 - YouTube [videos of the recent meetups](https://www.youtube.com/playlist?list=PLaoIml0iWe75I4UwV5LLktk5LM1Avh_xB)
 
+### BioML EVN
+- Telegram: Request an invitation
+- Facebook: [facebook.com/biomlevn](https://www.facebook.com/biomlevn)
