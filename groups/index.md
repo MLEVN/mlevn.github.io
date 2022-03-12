@@ -17,12 +17,6 @@ Most of groups have a focus on a specific application domain or technology, and 
 ### ML EVN @ Telegram
 Request an invitation
 
-### BioML EVN @ Facebook
-[facebook.com/biomlevn](https://www.facebook.com/biomlevn)
-
-### BioML EVN @ Telegram
-Request an invitation
-
 ### Yerevan R users group @ Facebook
 [facebook.com/groups/RUGYerevan/](https://www.facebook.com/groups/RUGYerevan/)
 
@@ -40,3 +34,9 @@ Weekly meeting for reading papers
 [groups.google.com/.../ml-reading-group-yerevan](https://groups.google.com/forum/#!forum/ml-reading-group-yerevan)
 
 Videos of the recent meetups on [Youtube](https://www.youtube.com/playlist?list=PLaoIml0iWe75I4UwV5LLktk5LM1Avh_xB)
+
+### BioML EVN @ Facebook
+[facebook.com/biomlevn](https://www.facebook.com/biomlevn)
+
+### BioML EVN @ Telegram
+Request an invitation
