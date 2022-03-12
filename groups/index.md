@@ -17,6 +17,12 @@ Most of groups have a focus on a specific application domain or technology, and 
 ### ML EVN @ Telegram
 Request an invitation
 
+### BioML EVN @ Facebook
+[facebook.com/biomlevn](https://www.facebook.com/biomlevn)
+
+### BioML EVN @ Telegram
+Request an invitation
+
 ### Yerevan R users group @ Facebook
 [facebook.com/groups/RUGYerevan/](https://www.facebook.com/groups/RUGYerevan/)
 
