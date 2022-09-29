@@ -28,6 +28,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [HireBee.ai](https://hirebee.ai)
 * [Intelinair](https://www.intelinair.com/)
 * [Intent.ai](https://intent.ai/)
+* [Intento](https://inten.to/)
 * [Krisp](https://krisp.ai/)
 * [Manot](https://www.manot.tech/)
 * [ModelFront](https://modelfront.com/)
