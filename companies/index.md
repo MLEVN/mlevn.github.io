@@ -17,10 +17,12 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Adobe](https://adobe.wd5.myworkdayjobs.com/external_experienced?locationCountry=db69b632446c11de98360015c5e6daf6)
 * [Aimhub](http://aimhub.io/)
 * [Amaros](http://amaros.ai/)
+* [AMD](https://www.amd.com/)
 * [BetConstruct](https://www.betconstruct.com/)
 * [Chessify](https://chessify.me/)
 * [Cognaize](https://cognaize.com/)
 * [Denovo Sciences](https://www.denovosciences.ai/)
+* [Diagnocat](https://diagnocat.com/)
 * [Disqo](https://disqo.com/)
 * [Dzook](https://dzook.ai/)
 * [dowork.ai](https://dowork.ai/)
@@ -41,6 +43,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [Pinsight](https://pinsight.ai/)
 * [Podcastle](https://podcastle.ai/)
 * [Polixis](https://polixis.com/)
+* [Portmind](https://www.portmind.com/)
 * [Puzl](https://puzl.ai/)
 * [ServiceTitan](https://www.servicetitan.com/)
 * [Sololearn](https://www.sololearn.com)
@@ -50,6 +53,7 @@ There are a growing number of companies built around machine learning in Yerevan
 * [VMware](https://www.vmware.com/)
 * [WebbFontaine](https://webbfontaine.com/)
 * [Wolfram Research](https://www.wolfram.com/)
+* [WorldQuant](https://www.worldquant.com)
 * [Zero](https://www.zeroapp.ai/)
 
 ## Services
