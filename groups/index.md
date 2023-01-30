@@ -8,6 +8,10 @@ Most of groups have a focus on a specific application domain or technology, and 
 
 ### ML EVN
 - Telegram: Request an invitation
+- Reddit: [r/mlevn](https://reddit.com/r/machinetranslation) - Automagically posted to ML EVN Twitter and Facebook (1K+ followers)
+
+### Open Data Science channels
+- `#_meetings_am` in the [ODS Slack](https://opendatascience.slack.com)
 
 ### Armenian Data Science
 - Slack: [armenian-ds.slack.com](https://armenian-ds.slack.com)
