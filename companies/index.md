@@ -72,6 +72,7 @@ These companies have qualified product managers and engineers to deliver ML solu
 * [Metric](https://metric.am)
 * [Noble Scripts](https://noblescripts.com/)
 * [Plat.ai](https://plat.ai/)
+* [Portmind](https://www.portmind.com/)
 * [SmartClick AI](https://smartclick.ai/)
 * [Sportion](https://sportion.net)
 * [Volo](https://volo.am/)
